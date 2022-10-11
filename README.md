@@ -44,11 +44,11 @@ The algorithm for Frequent Itemset Mining is based on the following steps:
     * Given a query, for each combination set of `three keywords`, s_b, and for each possible expansion s_e ∈ V_k , we rank by the confidence(s_b → s_e ). 
     * If there are no expansions, then the same process occurs using `two key-words`, and then `one`. 
     * We return only `one possible expansion`, for a conservative expansion.
-    
+
 The algorithm for Matching is the following -
-1. We first preprocess all intents by removing unwanted characters and stopwords and return a list of all words present in list
-2. We then create a list of n-grams - unigram, bigram and trigrams
-3. We perform unigram , bigram and trigram matching along with a direct fuzzy-matching with a fuzz-threshold of 80
+1. We first preprocess all intents by removing `unwanted characters` and `stopwords` and return a list of preprocessed words present in each intent
+2. We then create a list of `n-grams` - unigram, bigram and trigrams
+3. We perform unigram , bigram and trigram matching along with a direct `fuzzy-matching`  with a `fuzz-threshold of 80`
 ## References:
 1. [1] https://www.section.io/engineering-education/introduction-to-frequent-itemset-mining-with-python/
 2. [2] https://research.facebook.com/publications/neural-query-expansion-for-code-search/
