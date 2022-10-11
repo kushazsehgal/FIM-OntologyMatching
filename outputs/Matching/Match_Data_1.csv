@@ -1,0 +1,4766 @@
+,Ontology_Words,Code_Count,Intent_Count,Fuzzy_Code_Count,Fuzzy_Intent_Count
+bubble,bubble,0.0,0.0,0.0,0.0
+insertion,insertion,0.0,0.0,15.0,0.0
+merge,merge,0.0,0.0,0.0,0.0
+heap,heap,0.0,0.0,0.0,0.0
+quick,quick,0.0,0.0,0.0,0.0
+radix,radix,0.0,0.0,0.0,0.0
+counting,counting,0.0,0.0,0.0,0.0
+bucket,bucket,0.0,0.0,0.0,0.0
+shell,shell,0.0,0.0,0.0,0.0
+comb,comb,0.0,0.0,2.0,0.0
+pigeonhole,pigeonhole,0.0,0.0,0.0,0.0
+cycle,cycle,0.0,0.0,35.0,10.0
+bubble,bubble,0.0,0.0,0.0,0.0
+radix,radix,0.0,0.0,0.0,0.0
+counting,counting,0.0,0.0,0.0,0.0
+bucket,bucket,0.0,0.0,0.0,0.0
+shell,shell,0.0,0.0,0.0,0.0
+comb,comb,0.0,0.0,2.0,0.0
+pigeonhole,pigeonhole,0.0,0.0,0.0,0.0
+linear,linear,18.0,0.0,18.0,0.0
+binary,binary,0.0,0.0,0.0,0.0
+jump,jump,0.0,0.0,0.0,0.0
+interpolation,interpolation,0.0,0.0,6.0,0.0
+exponential,exponential,0.0,0.0,0.0,0.0
+sublist,sublist,0.0,0.0,0.0,0.0
+fibonacci,fibonacci,0.0,0.0,0.0,0.0
+sort,sort,4.0,0.0,10.0,0.0
+cocktail,cocktail,0.0,0.0,0.0,0.0
+strand,strand,0.0,0.0,0.0,0.0
+gnome,gnome,0.0,0.0,0.0,0.0
+postman,postman,0.0,0.0,0.0,0.0
+bitonic,bitonic,0.0,0.0,0.0,0.0
+stooge,stooge,0.0,0.0,0.0,0.0
+bogo,bogo,0.0,0.0,0.0,0.0
+unbounded,unbounded,0.0,0.0,0.0,0.0
+ternary,ternary,0.0,0.0,0.0,0.0
+informed,informed,0.0,0.0,0.0,0.0
+breadth-first,breadth-first,0.0,0.0,9.0,0.0
+backtracking,backtracking,0.0,0.0,0.0,0.0
+beam,beam,0.0,0.0,0.0,0.0
+bidirectional,bidirectional,0.0,0.0,1.0,0.0
+graph,graph,0.0,0.0,0.0,0.0
+pagerank,pagerank,0.0,0.0,0.0,0.0
+trustrank,trustrank,0.0,0.0,0.0,0.0
+a-star,a-star,0.0,0.0,52.0,0.0
+interleaving,interleaving,0.0,0.0,0.0,0.0
+insertion-,insertion-,0.0,0.0,5.0,0.0
+merge,merge,0.0,0.0,0.0,0.0
+heap,heap,0.0,0.0,0.0,0.0
+quick,quick,0.0,0.0,0.0,0.0
+cycle,cycle,0.0,0.0,35.0,10.0
+linear,linear,18.0,0.0,18.0,0.0
+binary,binary,0.0,0.0,0.0,0.0
+jump,jump,0.0,0.0,0.0,0.0
+interpolation,interpolation,0.0,0.0,6.0,0.0
+exponential,exponential,0.0,0.0,0.0,0.0
+sublist,sublist,0.0,0.0,0.0,0.0
+fibonacci,fibonacci,0.0,0.0,0.0,0.0
+cocktail,cocktail,0.0,0.0,0.0,0.0
+strand,strand,0.0,0.0,0.0,0.0
+gnome,gnome,0.0,0.0,0.0,0.0
+stran,stran,0.0,0.0,0.0,0.0
+pancake,pancake,0.0,0.0,0.0,0.0
+postman,postman,0.0,0.0,0.0,0.0
+unbounded,unbounded,0.0,0.0,0.0,0.0
+ternary,ternary,0.0,0.0,0.0,0.0
+informed,informed,0.0,0.0,0.0,0.0
+beam,beam,0.0,0.0,0.0,0.0
+beamstack,beamstack,0.0,0.0,0.0,0.0
+bestfirst,bestfirst,0.0,0.0,0.0,0.0
+bloomfilter,bloomfilter,0.0,0.0,0.0,0.0
+bruteforce,bruteforce,0.0,0.0,0.0,0.0
+depthfirst,depthfirst,0.0,0.0,0.0,0.0
+uniformcost,uniformcost,0.0,0.0,0.0,0.0
+localbeam,localbeam,0.0,0.0,0.0,0.0
+simulatedannealing,simulatedannealing,0.0,0.0,0.0,0.0
+interleaving,interleaving,0.0,0.0,0.0,0.0
+pureheuristic,pureheuristic,0.0,0.0,0.0,0.0
+a-star,a-star,0.0,0.0,52.0,0.0
+hashing,hashing,0.0,0.0,0.0,0.0
+probing,probing,0.0,0.0,0.0,0.0
+sorting,sorting,0.0,0.0,0.0,0.0
+ing,ing,0.0,0.0,0.0,0.0
+bubbl,bubbl,0.0,0.0,0.0,0.0
+count,count,52.0,0.0,58.0,6.0
+pigeonhol,pigeonhol,0.0,0.0,0.0,0.0
+backtrack,backtrack,0.0,0.0,0.0,0.0
+hash,hash,0.0,0.0,12.0,0.0
+probe,probe,0.0,0.0,0.0,0.0
+attribute,attribute,0.0,0.0,36.0,0.0
+relationship,relationship,0.0,0.0,0.0,0.0
+recursive,recursive,0.0,0.0,0.0,0.0
+tuple,tuple,0.0,0.0,0.0,0.0
+raid,raid,0.0,0.0,0.0,0.0
+schema,schema,0.0,0.0,0.0,0.0
+instance,instance,0.0,0.0,57.0,0.0
+integrity,integrity,0.0,0.0,0.0,0.0
+entity,entity,0.0,0.0,0.0,0.0
+entities,entities,0.0,0.0,0.0,0.0
+relation,relation,0.0,0.0,1.0,0.0
+relationship,relationship,0.0,0.0,0.0,0.0
+multivalued,multivalued,0.0,0.0,0.0,0.0
+copmlex,copmlex,0.0,0.0,1.0,0.0
+selection,selection,5.0,0.0,41.0,1.0
+projection,projection,0.0,0.0,0.0,0.0
+rename,rename,0.0,0.0,0.0,0.0
+set,set,96.0,0.0,108.0,4.0
+join,join,0.0,0.0,0.0,0.0
+division,division,0.0,0.0,0.0,0.0
+quantifiers,quantifiers,0.0,0.0,0.0,0.0
+constrains,constrains,0.0,0.0,2.0,0.0
+insert,insert,66.0,16.0,66.0,0.0
+delete,delete,5.0,5.0,15.0,0.0
+update,update,6.0,0.0,6.0,0.0
+alter,alter,0.0,0.0,0.0,0.0
+select,select,1.0,0.0,14.0,0.0
+view,view,732.0,1.0,783.0,32.0
+aliasing,aliasing,0.0,0.0,0.0,0.0
+arithmetic,arithmetic,0.0,0.0,0.0,0.0
+exists,exists,0.0,0.0,0.0,0.0
+joins,joins,0.0,0.0,0.0,0.0
+transaction,transaction,0.0,0.0,78.0,0.0
+serializability,serializability,0.0,0.0,0.0,0.0
+polygraph,polygraph,0.0,0.0,0.0,0.0
+lock,lock,0.0,0.0,12.0,1.0
+records,records,0.0,0.0,0.0,0.0
+indexing,indexing,0.0,0.0,0.0,0.0
+underflow,underflow,0.0,0.0,0.0,0.0
+overflow,overflow,0.0,0.0,0.0,0.0
+insertion,insertion,0.0,0.0,15.0,0.0
+deletion,deletion,0.0,0.0,14.0,0.0
+insertion,insertion,0.0,0.0,15.0,0.0
+deletion,deletion,0.0,0.0,14.0,0.0
+multivalued,multivalued,0.0,0.0,0.0,0.0
+stored,stored,0.0,0.0,2.0,0.0
+derived,derived,0.0,0.0,0.0,0.0
+composite,composite,0.0,0.0,0.0,0.0
+complex,complex,4.0,0.0,4.0,0.0
+key,key,6.0,0.0,6.0,0.0
+cardinality,cardinality,0.0,0.0,0.0,0.0
+table,table,0.0,0.0,0.0,0.0
+row,row,1.0,0.0,1.0,0.0
+tuple,tuple,0.0,0.0,0.0,0.0
+column,column,11.0,0.0,21.0,1.0
+attribute,attribute,0.0,0.0,36.0,0.0
+domain,domain,0.0,0.0,0.0,0.0
+schema,schema,0.0,0.0,0.0,0.0
+intension,intension,0.0,0.0,0.0,0.0
+extension,extension,0.0,0.0,0.0,0.0
+tuple,tuple,0.0,0.0,0.0,0.0
+integrity,integrity,0.0,0.0,0.0,0.0
+entity,entity,0.0,0.0,0.0,0.0
+atomic,atomic,0.0,0.0,0.0,0.0
+uniqueness,uniqueness,0.0,0.0,0.0,0.0
+key,key,6.0,0.0,6.0,0.0
+insert,insert,66.0,16.0,66.0,0.0
+delete,delete,5.0,5.0,15.0,0.0
+update,update,6.0,0.0,6.0,0.0
+reject,reject,0.0,0.0,0.0,0.0
+cascade,cascade,0.0,0.0,0.0,0.0
+modify,modify,0.0,0.0,0.0,0.0
+check,check,12.0,0.0,12.0,0.0
+default,default,34.0,4.0,34.0,0.0
+alter,alter,0.0,0.0,0.0,0.0
+intension,intension,0.0,0.0,0.0,0.0
+field,field,0.0,0.0,0.0,0.0
+relationship,relationship,0.0,0.0,0.0,0.0
+veiw,veiw,0.0,0.0,0.0,0.0
+index,index,38.0,0.0,54.0,8.0
+package,package,1.0,0.0,1.0,0.0
+procedure,procedure,0.0,0.0,0.0,0.0
+function,function,2.0,0.0,4.0,0.0
+queue,queue,6.0,0.0,6.0,0.0
+trigger,trigger,6.0,0.0,7.0,0.0
+type,type,124.0,0.0,228.0,4.0
+sequence,sequence,1.0,0.0,1.0,0.0
+normalization,normalization,0.0,0.0,0.0,0.0
+minimality,minimality,0.0,0.0,0.0,0.0
+cluster,cluster,0.0,0.0,0.0,0.0
+key,key,6.0,0.0,6.0,0.0
+raid,raid,0.0,0.0,0.0,0.0
+rationality,rationality,0.0,0.0,0.0,0.0
+assertion,assertion,0.0,0.0,0.0,0.0
+consistence,consistence,0.0,0.0,0.0,0.0
+reflexive,reflexive,0.0,0.0,0.0,0.0
+trasitivity,trasitivity,0.0,0.0,0.0,0.0
+decomposition,decomposition,0.0,0.0,0.0,0.0
+augmentation,augmentation,0.0,0.0,0.0,0.0
+union,union,0.0,0.0,0.0,0.0
+composition,composition,0.0,0.0,485.0,56.0
+redundancy,redundancy,0.0,0.0,0.0,0.0
+atomicity,atomicity,0.0,0.0,0.0,0.0
+numeric,numeric,0.0,0.0,0.0,0.0
+number,number,2.0,0.0,2.0,0.0
+float,float,207.0,0.0,255.0,0.0
+int,int,1514.0,0.0,1536.0,2.0
+real,real,0.0,0.0,0.0,0.0
+decimal,decimal,0.0,0.0,0.0,0.0
+character,character,0.0,0.0,0.0,0.0
+char,char,3.0,0.0,3.0,0.0
+varchar2,varchar2,0.0,0.0,0.0,0.0
+nchar,nchar,0.0,0.0,1.0,0.0
+nvarchar2,nvarchar2,0.0,0.0,0.0,0.0
+long,long,84.0,0.0,261.0,0.0
+raw,raw,0.0,0.0,12.0,0.0
+date,date,0.0,0.0,0.0,0.0
+date,date,0.0,0.0,0.0,0.0
+time,time,80.0,0.0,130.0,10.0
+timestamp,timestamp,0.0,0.0,0.0,0.0
+interual,interual,0.0,0.0,0.0,0.0
+boolean,boolean,276.0,0.0,284.0,0.0
+union,union,0.0,0.0,0.0,0.0
+intersect,intersect,0.0,0.0,0.0,0.0
+except,except,0.0,0.0,0.0,0.0
+atomicity,atomicity,0.0,0.0,0.0,0.0
+consistency,consistency,0.0,0.0,0.0,0.0
+isolation,isolation,0.0,0.0,0.0,0.0
+durability,durability,0.0,0.0,0.0,0.0
+active,active,1.0,0.0,2.0,0.0
+failed,failed,2.0,0.0,2.0,0.0
+commited,commited,0.0,0.0,1.0,0.0
+aborted,aborted,0.0,0.0,0.0,0.0
+rollback,rollback,0.0,0.0,0.0,0.0
+commit,commit,1.0,0.0,1.0,0.0
+serializability,serializability,0.0,0.0,0.0,0.0
+polygraph,polygraph,0.0,0.0,0.0,0.0
+deadlock,deadlock,0.0,0.0,0.0,0.0
+cascadeless,cascadeless,0.0,0.0,0.0,0.0
+conservative,conservative,0.0,0.0,0.0,0.0
+locks,locks,0.0,0.0,0.0,0.0
+process,process,0.0,0.0,0.0,0.0
+pcb,pcb,0.0,0.0,0.0,0.0
+attributes,attributes,32.0,0.0,36.0,0.0
+multiprogramming,multiprogramming,0.0,0.0,0.0,0.0
+schedulers,schedulers,0.0,0.0,1.0,0.0
+fcfs,fcfs,0.0,0.0,0.0,0.0
+overhead,overhead,0.0,0.0,0.0,0.0
+sjf,sjf,0.0,0.0,0.0,0.0
+srtf,srtf,0.0,0.0,0.0,0.0
+hrrn,hrrn,0.0,0.0,0.0,0.0
+pre-emptive,pre-emptive,0.0,0.0,0.0,0.0
+instance,instance,0.0,0.0,57.0,0.0
+concurrency,concurrency,0.0,0.0,0.0,0.0
+interrupt,interrupt,0.0,0.0,0.0,0.0
+input,input,0.0,0.0,0.0,0.0
+output,output,0.0,0.0,0.0,0.0
+need,need,4.0,0.0,4.0,0.0
+condition,condition,0.0,0.0,0.0,0.0
+tsl,tsl,0.0,0.0,0.0,0.0
+tracing,tracing,0.0,0.0,1.0,0.0
+sleep,sleep,0.0,0.0,0.0,0.0
+wake,wake,0.0,0.0,0.0,0.0
+semaphores,semaphores,0.0,0.0,0.0,0.0
+mutex,mutex,0.0,0.0,0.0,0.0
+barrier,barrier,0.0,0.0,0.0,0.0
+resouces,resouces,0.0,0.0,4.0,0.0
+safe,safe,0.0,0.0,0.0,0.0
+unsafe,unsafe,0.0,0.0,0.0,0.0
+batch,batch,0.0,0.0,0.0,0.0
+multiprogramming,multiprogramming,0.0,0.0,0.0,0.0
+multitasking,multitasking,0.0,0.0,0.0,0.0
+multiprocessing,multiprocessing,0.0,0.0,0.0,0.0
+multithreading,multithreading,0.0,0.0,0.0,0.0
+library,library,0.0,0.0,0.0,0.0
+distributed,distributed,0.0,0.0,0.0,0.0
+templated,templated,0.0,0.0,0.0,0.0
+embedded,embedded,0.0,0.0,0.0,0.0
+new,new,1516.0,0.0,1516.0,0.0
+ready,ready,0.0,0.0,3.0,1.0
+run,run,50.0,4.0,50.0,0.0
+block,block,0.0,0.0,0.0,0.0
+wait,wait,0.0,0.0,0.0,0.0
+termination,termination,0.0,0.0,0.0,0.0
+created,created,2.0,0.0,5.0,0.0
+dispatcher,dispatcher,0.0,0.0,6.0,0.0
+priority,priority,6.0,0.0,6.0,0.0
+completion,completion,0.0,0.0,0.0,0.0
+resume,resume,0.0,0.0,0.0,0.0
+creation,creation,0.0,0.0,1.0,0.0
+scheduling,scheduling,0.0,0.0,0.0,0.0
+execution,execution,0.0,0.0,0.0,0.0
+kill,kill,0.0,0.0,0.0,0.0
+delete,delete,5.0,5.0,15.0,0.0
+dispatcher,dispatcher,0.0,0.0,6.0,0.0
+fcfs,fcfs,0.0,0.0,0.0,0.0
+overhead,overhead,0.0,0.0,0.0,0.0
+sjf,sjf,0.0,0.0,0.0,0.0
+srtf,srtf,0.0,0.0,0.0,0.0
+hrrn,hrrn,0.0,0.0,0.0,0.0
+progress,progress,17.0,0.0,54.0,0.0
+portability,portability,0.0,0.0,0.0,0.0
+starvation,starvation,0.0,0.0,0.0,0.0
+deadlock,deadlock,0.0,0.0,0.0,0.0
+header,header,76.0,0.0,108.0,9.0
+overlay,overlay,0.0,0.0,0.0,0.0
+relocation,relocation,0.0,0.0,2.0,0.0
+protection,protection,0.0,0.0,0.0,0.0
+compaction,compaction,0.0,0.0,0.0,0.0
+scan,scan,0.0,0.0,20.0,0.0
+cscan,cscan,0.0,0.0,0.0,0.0
+look,look,0.0,0.0,0.0,0.0
+c-look,c-look,0.0,0.0,20.0,2.0
+starvation,starvation,0.0,0.0,0.0,0.0
+switching,switching,0.0,0.0,0.0,0.0
+nor,nor,1.0,0.0,1.0,0.0
+nand,nand,0.0,0.0,36.0,0.0
+adder,adder,0.0,0.0,0.0,0.0
+subtracter,subtracter,0.0,0.0,0.0,0.0
+comparator,comparator,0.0,0.0,2.0,0.0
+multiplexer,multiplexer,0.0,0.0,1.0,0.0
+demultiplexer,demultiplexer,0.0,0.0,0.0,0.0
+decoder,decoder,0.0,0.0,0.0,0.0
+rom,rom,0.0,0.0,100.0,0.0
+encoder,encoder,0.0,0.0,0.0,0.0
+hazard,hazard,0.0,0.0,0.0,0.0
+latch,latch,0.0,0.0,0.0,0.0
+flipflop,flipflop,0.0,0.0,0.0,0.0
+t-flipflop,t-flipflop,0.0,0.0,90.0,0.0
+d-flipflop,d-flipflop,0.0,0.0,58.0,0.0
+counter,counter,0.0,0.0,78.0,9.0
+simplification,simplification,0.0,0.0,0.0,0.0
+canonical,canonical,0.0,0.0,0.0,0.0
+communication,communication,0.0,0.0,0.0,0.0
+counters,counters,0.0,0.0,4.0,0.0
+arithmetic,arithmetic,0.0,0.0,0.0,0.0
+addressing,addressing,0.0,0.0,0.0,0.0
+complements,complements,0.0,0.0,0.0,0.0
+substraction,substraction,0.0,0.0,0.0,0.0
+range,range,0.0,0.0,6.0,0.0
+overflow,overflow,0.0,0.0,0.0,0.0
+implicit,implicit,0.0,0.0,0.0,0.0
+subtracter,subtracter,0.0,0.0,0.0,0.0
+borrow,borrow,0.0,0.0,0.0,0.0
+difference,difference,0.0,0.0,0.0,0.0
+xor,xor,0.0,0.0,0.0,0.0
+and,and,180.0,0.0,190.0,0.0
+or,or,9.0,0.0,9.0,0.0
+enable,enable,12.0,0.0,39.0,1.0
+sop,sop,0.0,0.0,16.0,0.0
+and,and,180.0,0.0,190.0,0.0
+or,or,9.0,0.0,9.0,0.0
+not,not,24.0,0.0,28.0,0.0
+voltage,voltage,0.0,0.0,0.0,0.0
+bipolar,bipolar,0.0,0.0,0.0,0.0
+hysteresis,hysteresis,0.0,0.0,0.0,0.0
+compatibility,compatibility,0.0,0.0,0.0,0.0
+diodes,diodes,0.0,0.0,0.0,0.0
+sop,sop,0.0,0.0,16.0,0.0
+and,and,180.0,0.0,190.0,0.0
+or,or,9.0,0.0,9.0,0.0
+not,not,24.0,0.0,28.0,0.0
+sop,sop,0.0,0.0,16.0,0.0
+and,and,180.0,0.0,190.0,0.0
+rom,rom,0.0,0.0,100.0,0.0
+connection,connection,0.0,0.0,0.0,0.0
+gate,gate,0.0,0.0,0.0,0.0
+sop,sop,0.0,0.0,16.0,0.0
+and,and,180.0,0.0,190.0,0.0
+startvation,startvation,0.0,0.0,3.0,0.0
+addition,addition,0.0,0.0,2.0,0.0
+substraction,substraction,0.0,0.0,0.0,0.0
+efficiency,efficiency,0.0,0.0,0.0,0.0
+ascii,ascii,0.0,0.0,0.0,0.0
+ebcdic,ebcdic,0.0,0.0,0.0,0.0
+communication,communication,0.0,0.0,0.0,0.0
+counters,counters,0.0,0.0,4.0,0.0
+arithmetic,arithmetic,0.0,0.0,0.0,0.0
+addressing,addressing,0.0,0.0,0.0,0.0
+union,union,0.0,0.0,0.0,0.0
+intersection,intersection,0.0,0.0,2.0,0.0
+complement,complement,0.0,0.0,0.0,0.0
+idempotent,idempotent,0.0,0.0,0.0,0.0
+subset,subset,0.0,0.0,0.0,0.0
+conjugate,conjugate,0.0,0.0,0.0,0.0
+transpose,transpose,0.0,0.0,0.0,0.0
+cofactor,cofactor,0.0,0.0,0.0,0.0
+determinant,determinant,0.0,0.0,0.0,0.0
+diagonal,diagonal,0.0,0.0,0.0,0.0
+circuit,circuit,0.0,0.0,0.0,0.0
+cycle,cycle,0.0,0.0,35.0,10.0
+quicksort,quicksort,0.0,0.0,0.0,0.0
+binarysearch,binarysearch,0.0,0.0,0.0,0.0
+strassen,strassen,0.0,0.0,0.0,0.0
+parsers,parsers,0.0,0.0,2.0,0.0
+mediancalculation,mediancalculation,0.0,0.0,0.0,0.0
+countinversions,countinversions,0.0,0.0,0.0,0.0
+mergesort,mergesort,0.0,0.0,0.0,0.0
+integermultiplication,integermultiplication,0.0,0.0,0.0,0.0
+maximalsubsequence,maximalsubsequence,0.0,0.0,0.0,0.0
+karatsuba,karatsuba,0.0,0.0,0.0,0.0
+conquer,conquer,0.0,0.0,0.0,0.0
+parsers,parsers,0.0,0.0,2.0,0.0
+pruning,pruning,0.0,0.0,0.0,0.0
+parser,parser,0.0,0.0,1.0,0.0
+mediancalcul,mediancalcul,0.0,0.0,0.0,0.0
+countinvers,countinvers,0.0,0.0,0.0,0.0
+integermultipl,integermultipl,0.0,0.0,0.0,0.0
+maximalsubsequ,maximalsubsequ,0.0,0.0,0.0,0.0
+prune,prune,0.0,0.0,0.0,0.0
+fordfulkerson,fordfulkerson,0.0,0.0,0.0,0.0
+dijkstra's,dijkstra's,0.0,0.0,52.0,4.0
+dijkstras,dijkstras,0.0,0.0,0.0,0.0
+dijkstra,dijkstra,0.0,0.0,0.0,0.0
+viterbi,viterbi,0.0,0.0,0.0,0.0
+matroid,matroid,0.0,0.0,0.0,0.0
+scheduling,scheduling,0.0,0.0,0.0,0.0
+schedul,schedul,0.0,0.0,2.0,0.0
+partition,partition,0.0,0.0,0.0,0.0
+knapsack,knapsack,0.0,0.0,0.0,0.0
+bellman-ford,bellman-ford,0.0,0.0,0.0,0.0
+bellmanford,bellmanford,0.0,0.0,0.0,0.0
+palindrome,palindrome,0.0,0.0,0.0,0.0
+checkerboard,checkerboard,0.0,0.0,0.0,0.0
+hanoi,hanoi,0.0,0.0,0.0,0.0
+dijkstra's,dijkstra's,0.0,0.0,52.0,4.0
+dijkstras,dijkstras,0.0,0.0,0.0,0.0
+dijkstra,dijkstra,0.0,0.0,0.0,0.0
+floyd,floyd,0.0,0.0,0.0,0.0
+warshall,warshall,0.0,0.0,0.0,0.0
+floydwarshall,floydwarshall,0.0,0.0,0.0,0.0
+bellman,bellman,0.0,0.0,0.0,0.0
+ford,ford,0.0,0.0,73.0,0.0
+binarysearch,binarysearch,0.0,0.0,0.0,0.0
+flooding,flooding,0.0,0.0,0.0,0.0
+triangulation,triangulation,0.0,0.0,0.0,0.0
+partit,partit,0.0,0.0,0.0,0.0
+bellman?ford,bellman?ford,0.0,0.0,0.0,0.0
+palindrom,palindrom,0.0,0.0,0.0,0.0
+warshal,warshal,0.0,0.0,0.0,0.0
+floydwarshal,floydwarshal,0.0,0.0,0.0,0.0
+flood,flood,0.0,0.0,0.0,0.0
+triangul,triangul,0.0,0.0,0.0,0.0
+interpolation,interpolation,0.0,0.0,6.0,0.0
+extrapolation,extrapolation,0.0,0.0,0.0,0.0
+interpolate,interpolate,0.0,0.0,2.0,0.0
+extrapolate,extrapolate,0.0,0.0,0.0,0.0
+sampling,sampling,0.0,0.0,0.0,0.0
+approximation,approximation,0.0,0.0,2.0,0.0
+estimation,estimation,0.0,0.0,0.0,0.0
+hamiltonian,hamiltonian,0.0,0.0,0.0,0.0
+sine,sine,0.0,0.0,0.0,0.0
+cosine,cosine,0.0,0.0,0.0,0.0
+tangents,tangents,0.0,0.0,0.0,0.0
+secant,secant,0.0,0.0,0.0,0.0
+interpol,interpol,0.0,0.0,0.0,0.0
+extrapol,extrapol,0.0,0.0,0.0,0.0
+sampl,sampl,0.0,0.0,12.0,2.0
+approxim,approxim,0.0,0.0,2.0,0.0
+estim,estim,0.0,0.0,0.0,0.0
+cosin,cosin,0.0,0.0,0.0,0.0
+tangent,tangent,0.0,0.0,0.0,0.0
+chaff,chaff,0.0,0.0,0.0,0.0
+satisfiability,satisfiability,0.0,0.0,76.0,0.0
+genetics,genetics,0.0,0.0,0.0,0.0
+memetic,memetic,0.0,0.0,0.0,0.0
+bees,bees,0.0,0.0,0.0,0.0
+metaheuristic,metaheuristic,0.0,0.0,0.0,0.0
+simplex,simplex,0.0,0.0,22.0,0.0
+minimax,minimax,0.0,0.0,0.0,0.0
+viterbi,viterbi,0.0,0.0,0.0,0.0
+constraint,constraint,1.0,0.0,1.0,0.0
+regression,regression,0.0,0.0,0.0,0.0
+classification,classification,0.0,0.0,0.0,0.0
+variance,variance,0.0,0.0,0.0,0.0
+statistical/optimis,statistical/optimis,0.0,0.0,0.0,0.0
+genet,genet,0.0,0.0,0.0,0.0
+memet,memet,0.0,0.0,0.0,0.0
+bee,bee,0.0,0.0,2.0,0.0
+metaheurist,metaheurist,0.0,0.0,0.0,0.0
+regress,regress,0.0,0.0,0.0,0.0
+classif,classif,0.0,0.0,44.0,2.0
+varianc,varianc,0.0,0.0,1.0,0.0
+sends,sends,0.0,0.0,0.0,0.0
+sending,sending,0.0,0.0,0.0,0.0
+send,send,0.0,0.0,4.0,0.0
+receive,receive,0.0,0.0,0.0,0.0
+receiving,receiving,0.0,0.0,0.0,0.0
+receives,receives,0.0,0.0,0.0,0.0
+include,include,0.0,0.0,0.0,0.0
+included,included,0.0,0.0,1.0,0.0
+includes,includes,0.0,0.0,0.0,0.0
+including,including,0.0,0.0,0.0,0.0
+return,return,1728.0,0.0,1728.0,9.0
+returning,returning,1.0,0.0,1.0,0.0
+returns,returns,0.0,0.0,576.0,3.0
+returned,returned,0.0,0.0,1152.0,6.0
+decide,decide,0.0,0.0,0.0,0.0
+decides,decides,0.0,0.0,0.0,0.0
+deciding,deciding,0.0,0.0,0.0,0.0
+decided,decided,0.0,0.0,0.0,0.0
+decision,decision,0.0,0.0,0.0,0.0
+append,append,9.0,0.0,9.0,0.0
+appends,appends,0.0,0.0,9.0,0.0
+appending,appending,0.0,0.0,0.0,0.0
+appended,appended,0.0,0.0,9.0,0.0
+iterates,iterates,0.0,0.0,0.0,0.0
+iterated,iterated,0.0,0.0,0.0,0.0
+iterating,iterating,0.0,0.0,0.0,0.0
+iterate,iterate,0.0,0.0,0.0,0.0
+modify,modify,0.0,0.0,0.0,0.0
+modifies,modifies,0.0,0.0,0.0,0.0
+modification,modification,0.0,0.0,0.0,0.0
+modified,modified,0.0,0.0,0.0,0.0
+modifying,modifying,0.0,0.0,0.0,0.0
+generates,generates,0.0,0.0,0.0,0.0
+generating,generating,1.0,0.0,1.0,0.0
+generated,generated,0.0,0.0,0.0,0.0
+generate,generate,0.0,0.0,0.0,0.0
+generation,generation,0.0,0.0,1.0,0.0
+assign,assign,0.0,0.0,0.0,0.0
+assigned,assigned,0.0,0.0,0.0,0.0
+assigns,assigns,0.0,0.0,0.0,0.0
+assigning,assigning,0.0,0.0,0.0,0.0
+input,input,0.0,0.0,0.0,0.0
+push,push,0.0,0.0,0.0,0.0
+pop,pop,0.0,0.0,0.0,0.0
+inputs,inputs,0.0,0.0,0.0,0.0
+inputting,inputting,0.0,0.0,0.0,0.0
+pushes,pushes,0.0,0.0,0.0,0.0
+pushing,pushing,0.0,0.0,1.0,0.0
+pushed,pushed,0.0,0.0,0.0,0.0
+popping,popping,0.0,0.0,0.0,0.0
+popped,popped,0.0,0.0,0.0,0.0
+pops,pops,0.0,0.0,59.0,22.0
+remove,remove,92.0,10.0,108.0,2.0
+removed,removed,2.0,0.0,50.0,1.0
+removing,removing,0.0,0.0,3.0,0.0
+removes,removes,0.0,0.0,56.0,7.0
+moves,moves,0.0,0.0,19.0,0.0
+moving,moving,3.0,0.0,3.0,0.0
+move,move,19.0,2.0,21.0,0.0
+moved,moved,2.0,0.0,23.0,0.0
+clear,clear,18.0,3.0,18.0,1.0
+declaration,declaration,0.0,0.0,2.0,1.0
+initialisation,initialisation,0.0,0.0,0.0,0.0
+declaring,declaring,0.0,0.0,0.0,0.0
+declares,declares,0.0,0.0,0.0,0.0
+declared,declared,0.0,0.0,0.0,0.0
+declare,declare,0.0,0.0,0.0,0.0
+initialise,initialise,0.0,0.0,6.0,0.0
+initalises,initalises,0.0,0.0,0.0,0.0
+initialised,initialised,0.0,0.0,2.0,0.0
+initialising,initialising,0.0,0.0,0.0,0.0
+displays,displays,0.0,0.0,27.0,0.0
+displayed,displayed,0.0,0.0,25.0,0.0
+displaying,displaying,0.0,0.0,25.0,0.0
+display,display,100.0,0.0,100.0,0.0
+prints,prints,0.0,0.0,2.0,1.0
+printing,printing,0.0,0.0,0.0,0.0
+printed,printed,0.0,0.0,2.0,1.0
+print,print,2.0,0.0,4.0,1.0
+counter,counter,0.0,0.0,78.0,9.0
+count,count,52.0,0.0,58.0,6.0
+counting,counting,0.0,0.0,0.0,0.0
+counts,counts,2.0,0.0,28.0,3.0
+counted,counted,0.0,0.0,26.0,3.0
+length,length,54.0,0.0,54.0,12.0
+binary,binary,0.0,0.0,0.0,0.0
+plug,plug,0.0,0.0,0.0,0.0
+plugging,plugging,0.0,0.0,0.0,0.0
+plugged,plugged,0.0,0.0,0.0,0.0
+plugs,plugs,0.0,0.0,4.0,0.0
+collects,collects,0.0,0.0,4.0,0.0
+collecting,collecting,0.0,0.0,6.0,0.0
+collected,collected,0.0,0.0,0.0,0.0
+collect,collect,0.0,0.0,4.0,0.0
+converting,converting,0.0,0.0,0.0,0.0
+converts,converts,0.0,0.0,0.0,0.0
+converted,converted,0.0,0.0,0.0,0.0
+convert,convert,0.0,0.0,0.0,0.0
+seeks,seeks,0.0,0.0,0.0,0.0
+seek,seek,0.0,0.0,1.0,0.0
+seeking,seeking,0.0,0.0,0.0,0.0
+checks,checks,0.0,0.0,6.0,0.0
+checking,checking,0.0,0.0,0.0,0.0
+check,check,12.0,0.0,12.0,0.0
+checked,checked,0.0,0.0,6.0,0.0
+reset,reset,9.0,2.0,14.0,1.0
+reseting,reseting,0.0,0.0,0.0,0.0
+resets,resets,0.0,0.0,9.0,1.0
+process,process,0.0,0.0,0.0,0.0
+processing,processing,0.0,0.0,0.0,0.0
+processes,processes,0.0,0.0,0.0,0.0
+processed,processed,0.0,0.0,1.0,0.0
+chooses,chooses,0.0,0.0,0.0,0.0
+choose,choose,0.0,0.0,0.0,0.0
+exchanges,exchanges,0.0,0.0,0.0,0.0
+exchanged,exchanged,0.0,0.0,4.0,0.0
+exchange,exchange,0.0,0.0,6.0,0.0
+exchanging,exchanging,0.0,0.0,1.0,0.0
+starts,starts,0.0,0.0,38.0,5.0
+start,start,92.0,0.0,104.0,20.0
+starting,starting,2.0,0.0,320.0,0.0
+initiate,initiate,0.0,0.0,1.0,0.0
+initiates,initiates,0.0,0.0,1.0,0.0
+initiated,initiated,1.0,0.0,1.0,0.0
+initiating,initiating,0.0,0.0,6.0,2.0
+commence,commence,0.0,0.0,0.0,0.0
+commences,commences,0.0,0.0,0.0,0.0
+commencing,commencing,0.0,0.0,0.0,0.0
+commencement,commencement,0.0,0.0,0.0,0.0
+introduces,introduces,0.0,0.0,0.0,0.0
+introduce,introduce,0.0,0.0,0.0,0.0
+introduction,introduction,0.0,0.0,0.0,0.0
+introduced,introduced,0.0,0.0,0.0,0.0
+loads,loads,0.0,0.0,30.0,0.0
+loaded,loaded,1.0,0.0,3.0,0.0
+loading,loading,17.0,0.0,17.0,0.0
+load,load,90.0,9.0,90.0,0.0
+compute,compute,0.0,0.0,0.0,0.0
+computes,computes,0.0,0.0,0.0,0.0
+computing,computing,0.0,0.0,0.0,0.0
+computed,computed,0.0,0.0,0.0,0.0
+evaluates,evaluates,0.0,0.0,0.0,0.0
+evaluating,evaluating,0.0,0.0,0.0,0.0
+evaluate,evaluate,0.0,0.0,0.0,0.0
+evaluated,evaluated,0.0,0.0,0.0,0.0
+determine,determine,0.0,0.0,1.0,0.0
+determining,determining,0.0,0.0,0.0,0.0
+determined,determined,1.0,0.0,1.0,0.0
+determines,determines,0.0,0.0,1.0,0.0
+divides,divides,0.0,0.0,0.0,0.0
+divide,divide,0.0,0.0,0.0,0.0
+dividing,dividing,0.0,0.0,0.0,0.0
+divided,divided,0.0,0.0,0.0,0.0
+split,split,1.0,0.0,1.0,0.0
+splits,splits,0.0,0.0,1.0,0.0
+splitting,splitting,0.0,0.0,0.0,0.0
+splitted,splitted,0.0,0.0,0.0,0.0
+classify,classify,0.0,0.0,0.0,0.0
+classifies,classifies,0.0,0.0,0.0,0.0
+classification,classification,0.0,0.0,0.0,0.0
+classified,classified,0.0,0.0,0.0,0.0
+rotation,rotation,0.0,0.0,3.0,0.0
+transpose,transpose,0.0,0.0,0.0,0.0
+enqueue,enqueue,0.0,0.0,2.0,0.0
+dequeue,dequeue,0.0,0.0,2.0,0.0
+cloning,cloning,0.0,0.0,0.0,0.0
+replacing,replacing,0.0,0.0,0.0,0.0
+replaces,replaces,0.0,0.0,0.0,0.0
+rotates,rotates,0.0,0.0,0.0,0.0
+rotating,rotating,0.0,0.0,0.0,0.0
+enqueues,enqueues,0.0,0.0,0.0,0.0
+dequeues,dequeues,0.0,0.0,0.0,0.0
+clones,clones,0.0,0.0,0.0,0.0
+composes,composes,0.0,0.0,0.0,0.0
+composed,composed,0.0,0.0,0.0,0.0
+compose,compose,0.0,0.0,0.0,0.0
+decompose,decompose,0.0,0.0,0.0,0.0
+decomposes,decomposes,0.0,0.0,0.0,0.0
+decomposed,decomposed,0.0,0.0,0.0,0.0
+decomposing,decomposing,0.0,0.0,0.0,0.0
+analyse,analyse,0.0,0.0,0.0,0.0
+analysis,analysis,0.0,0.0,0.0,0.0
+analysing,analysing,0.0,0.0,0.0,0.0
+analysed,analysed,0.0,0.0,0.0,0.0
+analyses,analyses,0.0,0.0,0.0,0.0
+allocates,allocates,0.0,0.0,0.0,0.0
+allocate,allocate,0.0,0.0,0.0,0.0
+allocating,allocating,0.0,0.0,0.0,0.0
+allocated,allocated,0.0,0.0,0.0,0.0
+bifurcates,bifurcates,0.0,0.0,0.0,0.0
+bifurcated,bifurcated,0.0,0.0,0.0,0.0
+bifurcate,bifurcate,0.0,0.0,0.0,0.0
+bifurcating,bifurcating,0.0,0.0,0.0,0.0
+distributes,distributes,0.0,0.0,0.0,0.0
+distributed,distributed,0.0,0.0,0.0,0.0
+distributing,distributing,0.0,0.0,0.0,0.0
+distribute,distribute,0.0,0.0,0.0,0.0
+separates,separates,0.0,0.0,0.0,0.0
+separate,separate,0.0,0.0,0.0,0.0
+separating,separating,0.0,0.0,0.0,0.0
+separated,separated,0.0,0.0,0.0,0.0
+branches,branches,0.0,0.0,0.0,0.0
+branched,branched,0.0,0.0,0.0,0.0
+branch,branch,0.0,0.0,0.0,0.0
+branching,branching,0.0,0.0,0.0,0.0
+maximising,maximising,0.0,0.0,0.0,0.0
+minimising,minimising,0.0,0.0,0.0,0.0
+averaging,averaging,0.0,0.0,0.0,0.0
+summing,summing,0.0,0.0,0.0,0.0
+recurs,recurs,0.0,0.0,0.0,0.0
+recurred,recurred,0.0,0.0,0.0,0.0
+recurring,recurring,0.0,0.0,0.0,0.0
+terminates,terminates,0.0,0.0,0.0,0.0
+terminated,terminated,0.0,0.0,0.0,0.0
+terminating,terminating,0.0,0.0,0.0,0.0
+terminate,terminate,0.0,0.0,0.0,0.0
+reduce,reduce,0.0,0.0,0.0,0.0
+reduces,reduces,0.0,0.0,0.0,0.0
+reduced,reduced,0.0,0.0,0.0,0.0
+reduction,reduction,0.0,0.0,0.0,0.0
+reducing,reducing,0.0,0.0,0.0,0.0
+probes,probes,0.0,0.0,0.0,0.0
+probing,probing,0.0,0.0,0.0,0.0
+probed,probed,0.0,0.0,0.0,0.0
+probe,probe,0.0,0.0,0.0,0.0
+goto,goto,0.0,0.0,2.0,0.0
+continue,continue,3.0,0.0,20.0,0.0
+break,break,62.0,0.0,62.0,11.0
+switch,switch,52.0,2.0,58.0,0.0
+swap,swap,2.0,0.0,2.0,0.0
+rearranges,rearranges,0.0,0.0,0.0,0.0
+rearrange,rearrange,0.0,0.0,0.0,0.0
+partition,partition,0.0,0.0,0.0,0.0
+enumeration,enumeration,0.0,0.0,0.0,0.0
+enumerate,enumerate,0.0,0.0,0.0,0.0
+retrieve,retrieve,1.0,0.0,1.0,0.0
+sequential,sequential,0.0,0.0,0.0,0.0
+vacant,vacant,0.0,0.0,0.0,0.0
+else,else,176.0,0.0,176.0,0.0
+if,if,588.0,0.0,588.0,0.0
+case,case,77.0,0.0,78.0,0.0
+examines,examines,0.0,0.0,0.0,0.0
+examining,examining,0.0,0.0,0.0,0.0
+examined,examined,0.0,0.0,0.0,0.0
+examine,examine,0.0,0.0,0.0,0.0
+inspects,inspects,0.0,0.0,0.0,0.0
+inspect,inspect,0.0,0.0,0.0,0.0
+inspecting,inspecting,0.0,0.0,0.0,0.0
+inspected,inspected,0.0,0.0,0.0,0.0
+validates,validates,0.0,0.0,10.0,9.0
+validate,validate,0.0,0.0,10.0,9.0
+validated,validated,0.0,0.0,10.0,9.0
+validating,validating,0.0,0.0,0.0,0.0
+substantiate,substantiate,0.0,0.0,0.0,0.0
+substantiating,substantiating,0.0,0.0,0.0,0.0
+substantiated,substantiated,0.0,0.0,0.0,0.0
+substantiates,substantiates,0.0,0.0,0.0,0.0
+enquires,enquires,0.0,0.0,0.0,0.0
+enquired,enquired,0.0,0.0,1.0,0.0
+enquiring,enquiring,0.0,0.0,0.0,0.0
+increments,increments,0.0,0.0,0.0,0.0
+incrementing,incrementing,0.0,0.0,0.0,0.0
+incremented,incremented,0.0,0.0,0.0,0.0
+increment,increment,0.0,0.0,0.0,0.0
+decrements,decrements,0.0,0.0,0.0,0.0
+decrementing,decrementing,0.0,0.0,0.0,0.0
+decremented,decremented,0.0,0.0,0.0,0.0
+decrement,decrement,0.0,0.0,0.0,0.0
+do,do,3.0,0.0,3.0,0.0
+while,while,3.0,0.0,3.0,0.0
+then,then,1.0,0.0,108.0,0.0
+for,for,73.0,0.0,73.0,0.0
+smaller,smaller,1.0,0.0,1.0,0.0
+lesser,lesser,0.0,0.0,0.0,0.0
+greater,greater,0.0,0.0,0.0,0.0
+shorter,shorter,0.0,0.0,3.0,0.0
+bigger,bigger,0.0,0.0,0.0,0.0
+larger,larger,0.0,0.0,2.0,0.0
+compare,compare,0.0,0.0,4.0,0.0
+comparing,comparing,0.0,0.0,0.0,0.0
+comparision,comparision,0.0,0.0,0.0,0.0
+receiv,receiv,0.0,0.0,0.0,0.0
+includ,includ,0.0,0.0,0.0,0.0
+decid,decid,0.0,0.0,0.0,0.0
+decis,decis,0.0,0.0,0.0,0.0
+iter,iter,0.0,0.0,0.0,0.0
+modifi,modifi,0.0,0.0,0.0,0.0
+modif,modif,0.0,0.0,0.0,0.0
+generat,generat,0.0,0.0,1.0,0.0
+remov,remov,0.0,0.0,48.0,1.0
+declar,declar,0.0,0.0,0.0,0.0
+initialis,initialis,0.0,0.0,10.0,0.0
+initalis,initalis,0.0,0.0,2.0,0.0
+binari,binari,0.0,0.0,0.0,0.0
+choos,choos,0.0,0.0,0.0,0.0
+exchang,exchang,0.0,0.0,0.0,0.0
+initi,initi,0.0,0.0,22.0,0.0
+commenc,commenc,0.0,0.0,0.0,0.0
+introduc,introduc,0.0,0.0,0.0,0.0
+introduct,introduct,0.0,0.0,0.0,0.0
+comput,comput,0.0,0.0,0.0,0.0
+evalu,evalu,0.0,0.0,0.0,0.0
+determin,determin,0.0,0.0,1.0,0.0
+divid,divid,0.0,0.0,0.0,0.0
+classifi,classifi,0.0,0.0,0.0,0.0
+classif,classif,0.0,0.0,44.0,2.0
+rotat,rotat,0.0,0.0,0.0,0.0
+transpos,transpos,0.0,0.0,0.0,0.0
+enqueu,enqueu,0.0,0.0,0.0,0.0
+dequeu,dequeu,0.0,0.0,0.0,0.0
+clone,clone,0.0,0.0,0.0,0.0
+replac,replac,0.0,0.0,0.0,0.0
+compos,compos,0.0,0.0,0.0,0.0
+decompos,decompos,0.0,0.0,0.0,0.0
+analys,analys,0.0,0.0,0.0,0.0
+analysi,analysi,0.0,0.0,0.0,0.0
+alloc,alloc,0.0,0.0,0.0,0.0
+bifurc,bifurc,0.0,0.0,0.0,0.0
+distribut,distribut,0.0,0.0,0.0,0.0
+separ,separ,0.0,0.0,0.0,0.0
+maximis,maximis,0.0,0.0,0.0,0.0
+minimis,minimis,0.0,0.0,0.0,0.0
+averag,averag,0.0,0.0,0.0,0.0
+sum,sum,6.0,0.0,6.0,2.0
+recur,recur,0.0,0.0,0.0,0.0
+termin,termin,0.0,0.0,0.0,0.0
+reduc,reduc,0.0,0.0,0.0,0.0
+reduct,reduct,0.0,0.0,0.0,0.0
+continu,continu,0.0,0.0,3.0,0.0
+rearrang,rearrang,0.0,0.0,0.0,0.0
+partit,partit,0.0,0.0,0.0,0.0
+enumer,enumer,0.0,0.0,1.0,0.0
+retriev,retriev,0.0,0.0,1.0,0.0
+sequenti,sequenti,0.0,0.0,0.0,0.0
+els,els,0.0,0.0,176.0,0.0
+examin,examin,0.0,0.0,0.0,0.0
+valid,valid,1.0,0.0,4.0,0.0
+substanti,substanti,0.0,0.0,0.0,0.0
+enquir,enquir,0.0,0.0,0.0,0.0
+compar,compar,0.0,0.0,0.0,0.0
+comparis,comparis,0.0,0.0,0.0,0.0
+new,new,1516.0,0.0,1516.0,0.0
+space,space,2.0,0.0,2.0,0.0
+object,object,63.0,0.0,75.0,12.0
+free,free,0.0,0.0,0.0,0.0
+pointer,pointer,4.0,0.0,40.0,0.0
+destroy,destroy,0.0,0.0,11.0,5.0
+bytes,bytes,0.0,0.0,4.0,0.0
+contiguos,contiguos,0.0,0.0,0.0,0.0
+leak,leak,0.0,0.0,0.0,0.0
+garbage,garbage,0.0,0.0,0.0,0.0
+allocator,allocator,0.0,0.0,0.0,0.0
+makes,makes,0.0,0.0,3.0,0.0
+assign,assign,0.0,0.0,0.0,0.0
+memory,memory,0.0,0.0,0.0,0.0
+contiguous,contiguous,0.0,0.0,0.0,0.0
+allocated,allocated,0.0,0.0,0.0,0.0
+storage,storage,0.0,0.0,4.0,0.0
+allocation,allocation,0.0,0.0,2.0,0.0
+initialise,initialise,0.0,0.0,6.0,0.0
+declarations,declarations,0.0,0.0,2.0,1.0
+usage,usage,0.0,0.0,0.0,0.0
+store,store,2.0,0.0,3.0,0.0
+buffer,buffer,0.0,0.0,0.0,0.0
+top,top,12.0,0.0,22.0,2.0
+start,start,92.0,0.0,104.0,20.0
+end,end,8.0,0.0,8.0,0.0
+load,load,90.0,9.0,90.0,0.0
+initialize,initialize,2.0,0.0,3.0,0.0
+fail,fail,0.0,0.0,0.0,0.0
+abort,abort,0.0,0.0,0.0,0.0
+try,try,38.0,0.0,38.0,0.0
+catch,catch,32.0,0.0,32.0,0.0
+handle,handle,1.0,0.0,26.0,0.0
+error,error,9.0,0.0,12.0,3.0
+throws,throws,4.0,0.0,8.0,0.0
+terminate,terminate,0.0,0.0,0.0,0.0
+exit,exit,0.0,0.0,20.0,0.0
+rethrow,rethrow,0.0,0.0,8.0,0.0
+caught,caught,0.0,0.0,0.0,0.0
+overflow,overflow,0.0,0.0,0.0,0.0
+freeing,freeing,0.0,0.0,0.0,0.0
+freed,freed,0.0,0.0,0.0,0.0
+shrinks,shrinks,0.0,0.0,0.0,0.0
+uninitialised,uninitialised,0.0,0.0,0.0,0.0
+malloc,malloc,0.0,0.0,0.0,0.0
+calloc,calloc,0.0,0.0,0.0,0.0
+realloc,realloc,0.0,0.0,0.0,0.0
+heap,heap,0.0,0.0,0.0,0.0
+stack,stack,0.0,0.0,0.0,0.0
+debugger,debugger,0.0,0.0,0.0,0.0
+malware,malware,0.0,0.0,0.0,0.0
+bugs,bugs,0.0,0.0,0.0,0.0
+interrupt,interrupt,0.0,0.0,0.0,0.0
+simulation,simulation,0.0,0.0,0.0,0.0
+downcast,downcast,0.0,0.0,0.0,0.0
+upcast,upcast,0.0,0.0,0.0,0.0
+delete,delete,5.0,5.0,15.0,0.0
+byte,byte,6.0,0.0,6.0,0.0
+contiguo,contiguo,0.0,0.0,0.0,0.0
+garbag,garbag,0.0,0.0,0.0,0.0
+alloc,alloc,0.0,0.0,0.0,0.0
+make,make,3.0,0.0,3.0,0.0
+memori,memori,0.0,0.0,0.0,0.0
+contigu,contigu,0.0,0.0,0.0,0.0
+storag,storag,0.0,0.0,0.0,0.0
+initialis,initialis,0.0,0.0,10.0,0.0
+declar,declar,0.0,0.0,0.0,0.0
+usag,usag,0.0,0.0,0.0,0.0
+initi,initi,0.0,0.0,22.0,0.0
+tri,tri,0.0,0.0,0.0,0.0
+handl,handl,0.0,0.0,26.0,0.0
+throw,throw,4.0,0.0,8.0,0.0
+termin,termin,0.0,0.0,0.0,0.0
+shrink,shrink,0.0,0.0,0.0,0.0
+uninitialis,uninitialis,0.0,0.0,0.0,0.0
+debugg,debugg,0.0,0.0,15.0,0.0
+malwar,malwar,0.0,0.0,0.0,0.0
+bug,bug,0.0,0.0,0.0,0.0
+simul,simul,0.0,0.0,0.0,0.0
+delet,delet,0.0,0.0,2.0,0.0
+pointers,pointers,0.0,0.0,1.0,0.0
+indirection,indirection,0.0,0.0,2.0,0.0
+dereferenced,dereferenced,0.0,0.0,2.0,0.0
+derefencing,derefencing,0.0,0.0,0.0,0.0
+signals,signals,0.0,0.0,0.0,0.0
+termination,termination,0.0,0.0,0.0,0.0
+failure,failure,0.0,0.0,0.0,0.0
+indirect,indirect,0.0,0.0,2.0,0.0
+dereferenc,dereferenc,0.0,0.0,2.0,0.0
+derefenc,derefenc,0.0,0.0,0.0,0.0
+signal,signal,0.0,0.0,0.0,0.0
+failur,failur,0.0,0.0,0.0,0.0
+time,time,80.0,0.0,130.0,10.0
+complexity,complexity,0.0,0.0,1.0,0.0
+theta,theta,0.0,0.0,0.0,0.0
+asymptotic,asymptotic,0.0,0.0,0.0,0.0
+o(...,o(...,0.0,0.0,8.0,3.0
+omega,omega,0.0,0.0,0.0,0.0
+complex,complex,4.0,0.0,4.0,0.0
+asymptot,asymptot,0.0,0.0,0.0,0.0
+terminate,terminate,0.0,0.0,0.0,0.0
+unexpected,unexpected,0.0,0.0,0.0,0.0
+errc,errc,0.0,0.0,0.0,0.0
+try,try,38.0,0.0,38.0,0.0
+catch,catch,32.0,0.0,32.0,0.0
+rethrow,rethrow,0.0,0.0,8.0,0.0
+exception,exception,74.0,0.0,74.0,0.0
+rollback,rollback,0.0,0.0,0.0,0.0
+semantics,semantics,0.0,0.0,0.0,0.0
+fail,fail,0.0,0.0,0.0,0.0
+execution,execution,0.0,0.0,0.0,0.0
+invariants,invariants,0.0,0.0,1.0,0.0
+guarantee,guarantee,0.0,0.0,0.0,0.0
+leaked,leaked,0.0,0.0,0.0,0.0
+corrupted,corrupted,0.0,0.0,0.0,0.0
+buffers,buffers,0.0,0.0,0.0,0.0
+livelock,livelock,0.0,0.0,0.0,0.0
+overflow,overflow,0.0,0.0,0.0,0.0
+dividebyzeroexception,dividebyzeroexception,0.0,0.0,0.0,0.0
+heuristic,heuristic,0.0,0.0,0.0,0.0
+interleaving,interleaving,0.0,0.0,0.0,0.0
+aperiodic,aperiodic,0.0,0.0,0.0,0.0
+greedy,greedy,0.0,0.0,0.0,0.0
+adjacency,adjacency,0.0,0.0,0.0,0.0
+cycle,cycle,0.0,0.0,35.0,10.0
+cycles,cycles,0.0,0.0,0.0,0.0
+tridiagonal,tridiagonal,0.0,0.0,0.0,0.0
+sparse,sparse,0.0,0.0,1.0,0.0
+additive,additive,0.0,0.0,0.0,0.0
+inverse,inverse,0.0,0.0,0.0,0.0
+multiplicative,multiplicative,0.0,0.0,0.0,0.0
+linear,linear,18.0,0.0,18.0,0.0
+collinear,collinear,0.0,0.0,0.0,0.0
+correlated,correlated,0.0,0.0,2.0,0.0
+cubic,cubic,0.0,0.0,0.0,0.0
+multivariate,multivariate,0.0,0.0,0.0,0.0
+cardinality,cardinality,0.0,0.0,0.0,0.0
+homogeneous,homogeneous,0.0,0.0,0.0,0.0
+isomorphic,isomorphic,0.0,0.0,0.0,0.0
+head,head,0.0,0.0,0.0,0.0
+path,path,42.0,0.0,44.0,6.0
+length,length,54.0,0.0,54.0,12.0
+dynamic,dynamic,0.0,0.0,0.0,0.0
+static,static,118.0,0.0,118.0,0.0
+associative,associative,0.0,0.0,0.0,0.0
+base,base,10.0,0.0,12.0,0.0
+balanced,balanced,0.0,0.0,0.0,0.0
+linked,linked,0.0,0.0,0.0,0.0
+growable,growable,0.0,0.0,0.0,0.0
+variable-length,variable-length,0.0,0.0,18.0,4.0
+parallel,parallel,0.0,0.0,0.0,0.0
+offset,offset,11.0,0.0,20.0,1.0
+priority,priority,6.0,0.0,6.0,0.0
+complement,complement,0.0,0.0,0.0,0.0
+adjacent,adjacent,0.0,0.0,0.0,0.0
+neighbour,neighbour,0.0,0.0,0.0,0.0
+incidence,incidence,0.0,0.0,0.0,0.0
+vertex,vertex,0.0,0.0,0.0,0.0
+edge,edge,3.0,0.0,3.0,0.0
+dense,dense,0.0,0.0,0.0,0.0
+complete,complete,0.0,0.0,1.0,0.0
+bipartite,bipartite,0.0,0.0,0.0,0.0
+homeomorphism,homeomorphism,0.0,0.0,0.0,0.0
+planar,planar,0.0,0.0,0.0,0.0
+directed,directed,0.0,0.0,2.0,0.0
+undirected,undirected,0.0,0.0,0.0,0.0
+compositional,compositional,0.0,0.0,0.0,0.0
+commutative,commutative,0.0,0.0,0.0,0.0
+transitive,transitive,0.0,0.0,0.0,0.0
+spanning,spanning,0.0,0.0,0.0,0.0
+minimum,minimum,0.0,0.0,0.0,0.0
+maximum,maximum,2.0,2.0,2.0,0.0
+average,average,0.0,0.0,0.0,0.0
+regular,regular,2.0,0.0,2.0,0.0
+subgraph,subgraph,0.0,0.0,0.0,0.0
+symmetry,symmetry,0.0,0.0,0.0,0.0
+asymmetry,asymmetry,0.0,0.0,0.0,0.0
+symmetric,symmetric,0.0,0.0,0.0,0.0
+asymmetric,asymmetric,0.0,0.0,0.0,0.0
+semantic,semantic,0.0,0.0,0.0,0.0
+spectral,spectral,0.0,0.0,0.0,0.0
+toroidal,toroidal,0.0,0.0,0.0,0.0
+hamiltonian,hamiltonian,0.0,0.0,0.0,0.0
+connected,connected,0.0,0.0,0.0,0.0
+out,out,11.0,0.0,11.0,1.0
+rooted,rooted,0.0,0.0,0.0,0.0
+external,external,0.0,0.0,0.0,0.0
+internal,internal,0.0,0.0,0.0,0.0
+inner,inner,0.0,0.0,29.0,1.0
+disjoint,disjoint,0.0,0.0,0.0,0.0
+reducible,reducible,0.0,0.0,0.0,0.0
+irreducible,irreducible,0.0,0.0,0.0,0.0
+reduced,reduced,0.0,0.0,0.0,0.0
+ordered,ordered,0.0,0.0,0.0,0.0
+median,median,0.0,0.0,0.0,0.0
+star,star,0.0,0.0,35.0,5.0
+labelled,labelled,0.0,0.0,0.0,0.0
+unlabelled,unlabelled,0.0,0.0,1.0,0.0
+cyclic,cyclic,0.0,0.0,0.0,0.0
+acyclic,acyclic,0.0,0.0,0.0,0.0
+child,child,35.0,2.0,37.0,1.0
+parent,parent,119.0,2.0,140.0,13.0
+ancestor,ancestor,0.0,0.0,0.0,0.0
+descendant,descendant,0.0,0.0,0.0,0.0
+leaf,leaf,0.0,0.0,0.0,0.0
+n-ary,n-ary,0.0,0.0,36.0,5.0
+k-ary,k-ary,0.0,0.0,1.0,0.0
+unary,unary,0.0,0.0,0.0,0.0
+binary,binary,0.0,0.0,0.0,0.0
+tertiary,tertiary,0.0,0.0,0.0,0.0
+1-ary,1-ary,0.0,0.0,173.0,24.0
+2-ary,2-ary,0.0,0.0,56.0,4.0
+identity,identity,0.0,0.0,0.0,0.0
+homomorphic,homomorphic,0.0,0.0,0.0,0.0
+unique,unique,0.0,0.0,0.0,0.0
+domain,domain,0.0,0.0,0.0,0.0
+codomain,codomain,0.0,0.0,0.0,0.0
+prime,prime,0.0,0.0,0.0,0.0
+invertible,invertible,0.0,0.0,0.0,0.0
+equilateral,equilateral,0.0,0.0,0.0,0.0
+isoceles,isoceles,0.0,0.0,0.0,0.0
+natural,natural,0.0,0.0,0.0,0.0
+totality,totality,0.0,0.0,0.0,0.0
+decimal,decimal,0.0,0.0,0.0,0.0
+second,second,0.0,0.0,0.0,0.0
+third,third,0.0,0.0,0.0,0.0
+string,string,477.0,0.0,510.0,3.0
+float,float,207.0,0.0,255.0,0.0
+double,double,16.0,2.0,16.0,0.0
+character,character,0.0,0.0,0.0,0.0
+integer,integer,12.0,0.0,12.0,0.0
+intermediate,intermediate,0.0,0.0,0.0,0.0
+default,default,34.0,4.0,34.0,0.0
+popped,popped,0.0,0.0,0.0,0.0
+pushed,pushed,0.0,0.0,0.0,0.0
+sequential,sequential,0.0,0.0,0.0,0.0
+next,next,4.0,0.0,24.0,0.0
+payload,payload,0.0,0.0,0.0,0.0
+tail,tail,0.0,0.0,0.0,0.0
+reference,reference,6.0,0.0,6.0,0.0
+pointer,pointer,4.0,0.0,40.0,0.0
+self,self,0.0,0.0,0.0,0.0
+circular,circular,1.0,0.0,1.0,0.0
+arguments,arguments,0.0,0.0,22.0,0.0
+predicate,predicate,0.0,0.0,0.0,0.0
+global,global,0.0,0.0,0.0,0.0
+constant,constant,0.0,0.0,1.0,0.0
+char,char,3.0,0.0,3.0,0.0
+const,const,0.0,0.0,0.0,0.0
+long,long,84.0,0.0,261.0,0.0
+short,short,6.0,0.0,10.0,0.0
+register,register,0.0,0.0,0.0,0.0
+int,int,1514.0,0.0,1536.0,2.0
+volatile,volatile,0.0,0.0,0.0,0.0
+signed,signed,0.0,0.0,0.0,0.0
+unsigned,unsigned,0.0,0.0,0.0,0.0
+void,void,1406.0,0.0,1406.0,0.0
+extern,extern,0.0,0.0,0.0,0.0
+restricted,restricted,0.0,0.0,0.0,0.0
+reflexive,reflexive,0.0,0.0,0.0,0.0
+distributive,distributive,0.0,0.0,0.0,0.0
+composite,composite,0.0,0.0,0.0,0.0
+fraction,fraction,0.0,0.0,94.0,0.0
+rational,rational,0.0,0.0,0.0,0.0
+complex,complex,4.0,0.0,4.0,0.0
+real,real,0.0,0.0,0.0,0.0
+octal,octal,0.0,0.0,0.0,0.0
+hexadecimal,hexadecimal,0.0,0.0,0.0,0.0
+radix,radix,0.0,0.0,0.0,0.0
+macro,macro,0.0,0.0,0.0,0.0
+recursive,recursive,0.0,0.0,0.0,0.0
+iterative,iterative,0.0,0.0,0.0,0.0
+driver,driver,0.0,0.0,3.0,0.0
+computable,computable,0.0,0.0,1.0,0.0
+injective,injective,0.0,0.0,0.0,0.0
+surjective,surjective,0.0,0.0,0.0,0.0
+empty,empty,77.0,0.0,100.0,0.0
+inline,inline,0.0,0.0,3.0,0.0
+differentiable,differentiable,0.0,0.0,0.0,0.0
+integrable,integrable,0.0,0.0,0.0,0.0
+polynomial,polynomial,0.0,0.0,0.0,0.0
+algebraic,algebraic,0.0,0.0,0.0,0.0
+bijection,bijection,0.0,0.0,0.0,0.0
+quadratic,quadratic,0.0,0.0,0.0,0.0
+discontinuous,discontinuous,0.0,0.0,0.0,0.0
+trigonometry,trigonometry,0.0,0.0,0.0,0.0
+functor,functor,0.0,0.0,0.0,0.0
+multivalued,multivalued,0.0,0.0,0.0,0.0
+singlevalued,singlevalued,0.0,0.0,0.0,0.0
+partial,partial,0.0,0.0,0.0,0.0
+implicit,implicit,0.0,0.0,0.0,0.0
+generalized,generalized,0.0,0.0,0.0,0.0
+utility,utility,0.0,0.0,0.0,0.0
+counter,counter,0.0,0.0,78.0,9.0
+positive,positive,0.0,0.0,0.0,0.0
+negative,negative,2.0,0.0,2.0,0.0
+irregular,irregular,0.0,0.0,2.0,0.0
+uniform,uniform,0.0,0.0,0.0,0.0
+recursive,recursive,0.0,0.0,0.0,0.0
+recursion,recursion,0.0,0.0,0.0,0.0
+recur,recur,0.0,0.0,0.0,0.0
+recursively,recursively,0.0,0.0,0.0,0.0
+recurrent,recurrent,0.0,0.0,9.0,0.0
+iteration,iteration,0.0,0.0,2.0,0.0
+iteratively,iteratively,0.0,0.0,0.0,0.0
+public,public,1454.0,0.0,1454.0,0.0
+private,private,101.0,0.0,101.0,0.0
+protected,protected,276.0,0.0,276.0,0.0
+visible,visible,22.0,0.0,34.0,10.0
+automatic,automatic,0.0,0.0,0.0,0.0
+input,input,0.0,0.0,0.0,0.0
+sorted,sorted,0.0,0.0,0.0,0.0
+encrypted,encrypted,0.0,0.0,0.0,0.0
+full,full,2.0,0.0,2.0,0.0
+init,init,10.0,3.0,767.0,1.0
+pivoted,pivoted,0.0,0.0,0.0,0.0
+optimized,optimized,0.0,0.0,0.0,0.0
+temporary,temporary,0.0,0.0,0.0,0.0
+precedence,precedence,0.0,0.0,0.0,0.0
+associativity,associativity,0.0,0.0,0.0,0.0
+commutativity,commutativity,0.0,0.0,0.0,0.0
+reciprocal,reciprocal,0.0,0.0,0.0,0.0
+divisor,divisor,0.0,0.0,0.0,0.0
+primality,primality,0.0,0.0,0.0,0.0
+arity,arity,0.0,0.0,0.0,0.0
+ordinality,ordinality,0.0,0.0,4.0,2.0
+superscript,superscript,0.0,0.0,0.0,0.0
+subscript,subscript,0.0,0.0,0.0,0.0
+idempotence,idempotence,0.0,0.0,0.0,0.0
+absorption,absorption,0.0,0.0,0.0,0.0
+heurist,heurist,0.0,0.0,0.0,0.0
+interleav,interleav,0.0,0.0,0.0,0.0
+aperiod,aperiod,0.0,0.0,0.0,0.0
+greedi,greedi,0.0,0.0,0.0,0.0
+adjac,adjac,0.0,0.0,0.0,0.0
+cycl,cycl,0.0,0.0,0.0,0.0
+tridiagon,tridiagon,0.0,0.0,0.0,0.0
+spars,spars,0.0,0.0,0.0,0.0
+addit,addit,0.0,0.0,0.0,0.0
+invers,invers,0.0,0.0,0.0,0.0
+multipl,multipl,0.0,0.0,2.0,0.0
+correl,correl,0.0,0.0,0.0,0.0
+multivari,multivari,0.0,0.0,0.0,0.0
+cardin,cardin,0.0,0.0,0.0,0.0
+homogen,homogen,0.0,0.0,0.0,0.0
+isomorph,isomorph,0.0,0.0,0.0,0.0
+dynam,dynam,0.0,0.0,0.0,0.0
+associ,associ,0.0,0.0,0.0,0.0
+balanc,balanc,0.0,0.0,0.0,0.0
+link,link,0.0,0.0,0.0,0.0
+growabl,growabl,0.0,0.0,0.0,0.0
+prioriti,prioriti,0.0,0.0,3.0,0.0
+incid,incid,0.0,0.0,0.0,0.0
+edg,edg,0.0,0.0,6.0,0.0
+dens,dens,0.0,0.0,0.0,0.0
+complet,complet,0.0,0.0,2.0,0.0
+bipartit,bipartit,0.0,0.0,0.0,0.0
+homeomorph,homeomorph,0.0,0.0,0.0,0.0
+direct,direct,6.0,0.0,6.0,0.0
+undirect,undirect,0.0,0.0,2.0,0.0
+composit,composit,0.0,0.0,0.0,0.0
+commut,commut,0.0,0.0,1.0,0.0
+transit,transit,0.0,0.0,0.0,0.0
+span,span,3.0,0.0,3.0,0.0
+averag,averag,0.0,0.0,0.0,0.0
+symmetri,symmetri,0.0,0.0,0.0,0.0
+asymmetri,asymmetri,0.0,0.0,0.0,0.0
+symmetr,symmetr,0.0,0.0,0.0,0.0
+asymmetr,asymmetr,0.0,0.0,0.0,0.0
+semant,semant,0.0,0.0,0.0,0.0
+toroid,toroid,0.0,0.0,0.0,0.0
+connect,connect,0.0,0.0,0.0,0.0
+root,root,0.0,0.0,0.0,0.0
+intern,intern,0.0,0.0,11.0,1.0
+reduc,reduc,0.0,0.0,0.0,0.0
+irreduc,irreduc,0.0,0.0,0.0,0.0
+order,order,0.0,0.0,6.0,0.0
+label,label,0.0,0.0,0.0,0.0
+unlabel,unlabel,0.0,0.0,0.0,0.0
+acycl,acycl,0.0,0.0,0.0,0.0
+descend,descend,0.0,0.0,0.0,0.0
+n-ari,n-ari,0.0,0.0,36.0,5.0
+k-ari,k-ari,0.0,0.0,1.0,0.0
+unari,unari,0.0,0.0,0.0,0.0
+binari,binari,0.0,0.0,0.0,0.0
+tertiari,tertiari,0.0,0.0,0.0,0.0
+1-ari,1-ari,0.0,0.0,173.0,24.0
+2-ari,2-ari,0.0,0.0,56.0,4.0
+ident,ident,0.0,0.0,0.0,0.0
+homomorph,homomorph,0.0,0.0,0.0,0.0
+uniqu,uniqu,0.0,0.0,0.0,0.0
+invert,invert,0.0,0.0,33.0,0.0
+equilater,equilater,0.0,0.0,0.0,0.0
+isocel,isocel,0.0,0.0,0.0,0.0
+natur,natur,0.0,0.0,0.0,0.0
+total,total,0.0,0.0,0.0,0.0
+decim,decim,0.0,0.0,0.0,0.0
+doubl,doubl,0.0,0.0,16.0,0.0
+charact,charact,0.0,0.0,16.0,0.0
+integ,integ,0.0,0.0,12.0,0.0
+intermedi,intermedi,0.0,0.0,0.0,0.0
+pop,pop,0.0,0.0,0.0,0.0
+push,push,0.0,0.0,0.0,0.0
+sequenti,sequenti,0.0,0.0,0.0,0.0
+refer,refer,0.0,0.0,0.0,0.0
+argument,argument,2.0,0.0,8.0,0.0
+predic,predic,0.0,0.0,0.0,0.0
+regist,regist,0.0,0.0,0.0,0.0
+volatil,volatil,0.0,0.0,0.0,0.0
+sign,sign,0.0,0.0,0.0,0.0
+unsign,unsign,0.0,0.0,0.0,0.0
+restrict,restrict,0.0,0.0,0.0,0.0
+reflex,reflex,0.0,0.0,0.0,0.0
+distribut,distribut,0.0,0.0,0.0,0.0
+ration,ration,0.0,0.0,62.0,0.0
+hexadecim,hexadecim,0.0,0.0,0.0,0.0
+recurs,recurs,0.0,0.0,0.0,0.0
+iter,iter,0.0,0.0,0.0,0.0
+comput,comput,0.0,0.0,0.0,0.0
+inject,inject,0.0,0.0,0.0,0.0
+surject,surject,0.0,0.0,0.0,0.0
+empti,empti,0.0,0.0,0.0,0.0
+inlin,inlin,0.0,0.0,0.0,0.0
+differenti,differenti,0.0,0.0,0.0,0.0
+integr,integr,0.0,0.0,6.0,0.0
+polynomi,polynomi,0.0,0.0,0.0,0.0
+algebra,algebra,0.0,0.0,0.0,0.0
+biject,biject,0.0,0.0,21.0,2.0
+quadrat,quadrat,0.0,0.0,0.0,0.0
+discontinu,discontinu,0.0,0.0,0.0,0.0
+trigonometri,trigonometri,0.0,0.0,0.0,0.0
+multivalu,multivalu,0.0,0.0,0.0,0.0
+singlevalu,singlevalu,0.0,0.0,0.0,0.0
+general,general,0.0,0.0,0.0,0.0
+util,util,0.0,0.0,2.0,0.0
+posit,posit,0.0,0.0,5.0,0.0
+negat,negat,0.0,0.0,0.0,0.0
+recurr,recurr,0.0,0.0,0.0,0.0
+privat,privat,0.0,0.0,101.0,0.0
+protect,protect,0.0,0.0,276.0,0.0
+visibl,visibl,0.0,0.0,22.0,5.0
+automat,automat,0.0,0.0,0.0,0.0
+sort,sort,4.0,0.0,10.0,0.0
+encrypt,encrypt,0.0,0.0,0.0,0.0
+pivot,pivot,0.0,0.0,0.0,0.0
+optim,optim,0.0,0.0,0.0,0.0
+temporari,temporari,0.0,0.0,0.0,0.0
+preced,preced,0.0,0.0,0.0,0.0
+reciproc,reciproc,0.0,0.0,0.0,0.0
+primal,primal,0.0,0.0,0.0,0.0
+ariti,ariti,0.0,0.0,0.0,0.0
+ordin,ordin,0.0,0.0,8.0,4.0
+idempot,idempot,0.0,0.0,0.0,0.0
+absorpt,absorpt,0.0,0.0,0.0,0.0
+parameters,parameters,0.0,0.0,4.0,0.0
+iterator,iterator,2.0,0.0,2.0,0.0
+top,top,12.0,0.0,22.0,2.0
+pivot,pivot,0.0,0.0,0.0,0.0
+block,block,0.0,0.0,0.0,0.0
+words,words,0.0,0.0,4.0,2.0
+bytes,bytes,0.0,0.0,4.0,0.0
+suite,suite,0.0,0.0,0.0,0.0
+item,item,98.0,0.0,141.0,20.0
+symbol,symbol,0.0,0.0,0.0,0.0
+index,index,38.0,0.0,54.0,8.0
+maxsize,maxsize,0.0,0.0,0.0,0.0
+items,items,43.0,1.0,141.0,20.0
+data,data,420.0,8.0,420.0,8.0
+next,next,4.0,0.0,24.0,0.0
+size,size,75.0,1.0,75.0,11.0
+value,value,34.0,0.0,64.0,2.0
+front,front,0.0,0.0,0.0,0.0
+back,back,2.0,0.0,2.0,0.0
+prev,prev,0.0,0.0,0.0,0.0
+previous,previous,1.0,0.0,1.0,0.0
+half,half,0.0,0.0,0.0,0.0
+left,left,10.0,0.0,11.0,0.0
+start,start,92.0,0.0,104.0,20.0
+right,right,7.0,0.0,10.0,0.0
+end,end,8.0,0.0,8.0,0.0
+ending,ending,0.0,0.0,0.0,0.0
+starting,starting,2.0,0.0,320.0,0.0
+degree,degree,0.0,0.0,0.0,0.0
+height,height,32.0,0.0,35.0,2.0
+level,level,0.0,0.0,0.0,0.0
+node,node,1.0,0.0,1.0,0.0
+vertex,vertex,0.0,0.0,0.0,0.0
+nodes,nodes,0.0,0.0,1.0,0.0
+edges,edges,0.0,0.0,3.0,0.0
+range,range,0.0,0.0,6.0,0.0
+domain,domain,0.0,0.0,0.0,0.0
+each,each,3.0,0.0,4.0,0.0
+every,every,0.0,0.0,0.0,0.0
+record,record,0.0,0.0,0.0,0.0
+samples,samples,0.0,0.0,6.0,1.0
+head,head,0.0,0.0,0.0,0.0
+a..zth,a..zth,0.0,0.0,26.0,0.0
+a..zrd,a..zrd,0.0,0.0,26.0,0.0
+4.....zth,4.....zth,0.0,0.0,8.0,1.0
+first,first,18.0,0.0,18.0,0.0
+1st,1st,0.0,0.0,0.0,0.0
+second,second,0.0,0.0,0.0,0.0
+2nd,2nd,0.0,0.0,0.0,0.0
+third,third,0.0,0.0,0.0,0.0
+3rd,3rd,0.0,0.0,0.0,0.0
+value,value,34.0,0.0,64.0,2.0
+input,input,0.0,0.0,0.0,0.0
+data,data,420.0,8.0,420.0,8.0
+numbers,numbers,0.0,0.0,2.0,0.0
+element,element,0.0,0.0,0.0,0.0
+1..100,1..100,0.0,0.0,178.0,25.0
+leftmost,leftmost,0.0,0.0,0.0,0.0
+rightmost,rightmost,1.0,0.0,1.0,0.0
+bit,bit,0.0,0.0,0.0,0.0
+last,last,2.0,0.0,2.0,0.0
+middle,middle,0.0,0.0,0.0,0.0
+nth,nth,0.0,0.0,1.0,0.0
+output,output,0.0,0.0,0.0,0.0
+error,error,9.0,0.0,12.0,3.0
+screen,screen,3.0,0.0,3.0,0.0
+result,result,10.0,0.0,10.0,1.0
+return,return,1728.0,0.0,1728.0,9.0
+outcome,outcome,0.0,0.0,0.0,0.0
+returned,returned,0.0,0.0,1152.0,6.0
+consequence,consequence,0.0,0.0,1.0,0.0
+score,score,0.0,0.0,0.0,0.0
+final,final,240.0,0.0,241.0,0.0
+arguments,arguments,0.0,0.0,22.0,0.0
+put,put,22.0,0.0,22.0,0.0
+instance,instance,0.0,0.0,57.0,0.0
+distinct,distinct,0.0,0.0,0.0,0.0
+values,values,11.0,0.0,28.0,1.0
+uniform,uniform,0.0,0.0,0.0,0.0
+groups,groups,0.0,0.0,0.0,0.0
+span,span,3.0,0.0,3.0,0.0
+fractions,fractions,0.0,0.0,0.0,0.0
+ordinal,ordinal,4.0,0.0,4.0,2.0
+cardinal,cardinal,0.0,0.0,0.0,0.0
+paramet,paramet,0.0,0.0,0.0,0.0
+iter,iter,0.0,0.0,0.0,0.0
+word,word,8.0,0.0,8.0,4.0
+byte,byte,6.0,0.0,6.0,0.0
+suit,suit,0.0,0.0,0.0,0.0
+maxsiz,maxsiz,0.0,0.0,0.0,0.0
+valu,valu,0.0,0.0,17.0,1.0
+degre,degre,0.0,0.0,0.0,0.0
+edg,edg,0.0,0.0,6.0,0.0
+rang,rang,0.0,0.0,0.0,0.0
+everi,everi,0.0,0.0,0.0,0.0
+sampl,sampl,0.0,0.0,12.0,2.0
+number,number,2.0,0.0,2.0,0.0
+middl,middl,0.0,0.0,0.0,0.0
+outcom,outcom,0.0,0.0,0.0,0.0
+consequ,consequ,0.0,0.0,0.0,0.0
+argument,argument,2.0,0.0,8.0,0.0
+instanc,instanc,0.0,0.0,19.0,0.0
+group,group,0.0,0.0,0.0,0.0
+fraction,fraction,0.0,0.0,94.0,0.0
+ordin,ordin,0.0,0.0,8.0,4.0
+cardin,cardin,0.0,0.0,0.0,0.0
+structure,structure,0.0,0.0,0.0,0.0
+struct,struct,0.0,0.0,0.0,0.0
+class,class,21.0,0.0,22.0,1.0
+union,union,0.0,0.0,0.0,0.0
+array,array,18.0,0.0,18.0,0.0
+string,string,477.0,0.0,510.0,3.0
+tree,tree,0.0,0.0,0.0,0.0
+graph,graph,0.0,0.0,0.0,0.0
+trie,trie,0.0,0.0,0.0,0.0
+treap,treap,0.0,0.0,0.0,0.0
+clique,clique,0.0,0.0,0.0,0.0
+heap,heap,0.0,0.0,0.0,0.0
+hashing,hashing,0.0,0.0,0.0,0.0
+stack,stack,0.0,0.0,0.0,0.0
+queue,queue,6.0,0.0,6.0,0.0
+enum,enum,2.0,0.0,19.0,4.0
+variant,variant,2.0,0.0,2.0,0.0
+character,character,0.0,0.0,0.0,0.0
+char,char,3.0,0.0,3.0,0.0
+float,float,207.0,0.0,255.0,0.0
+double,double,16.0,2.0,16.0,0.0
+real,real,0.0,0.0,0.0,0.0
+integer,integer,12.0,0.0,12.0,0.0
+list,list,519.0,0.0,531.0,75.0
+container,container,34.0,0.0,42.0,0.0
+set,set,96.0,0.0,108.0,4.0
+multiset,multiset,0.0,0.0,0.0,0.0
+map,map,9.0,0.0,9.0,0.0
+multimap,multimap,0.0,0.0,0.0,0.0
+matrix,matrix,10.0,0.0,10.0,2.0
+vector,vector,0.0,0.0,0.0,0.0
+vector,vector,0.0,0.0,0.0,0.0
+scalar,scalar,0.0,0.0,0.0,0.0
+segment,segment,0.0,0.0,0.0,0.0
+data-structur,data-structur,0.0,0.0,105.0,2.0
+structur,structur,0.0,0.0,0.0,0.0
+cliqu,cliqu,0.0,0.0,0.0,0.0
+hash,hash,0.0,0.0,12.0,0.0
+charact,charact,0.0,0.0,16.0,0.0
+doubl,doubl,0.0,0.0,16.0,0.0
+integ,integ,0.0,0.0,12.0,0.0
+contain,contain,0.0,0.0,19.0,0.0
+pointer,pointer,4.0,0.0,40.0,0.0
+set,set,96.0,0.0,108.0,4.0
+tuple,tuple,0.0,0.0,0.0,0.0
+dictionary,dictionary,0.0,0.0,0.0,0.0
+subarray,subarray,0.0,0.0,0.0,0.0
+matrixes,matrixes,0.0,0.0,5.0,1.0
+matrice,matrice,0.0,0.0,0.0,0.0
+pair,pair,0.0,0.0,1.0,0.0
+map,map,9.0,0.0,9.0,0.0
+multiset,multiset,0.0,0.0,0.0,0.0
+collection,collection,4.0,0.0,12.0,0.0
+container,container,34.0,0.0,42.0,0.0
+tupl,tupl,0.0,0.0,0.0,0.0
+dictionari,dictionari,0.0,0.0,0.0,0.0
+matrix,matrix,10.0,0.0,10.0,2.0
+matric,matric,0.0,0.0,5.0,1.0
+collect,collect,0.0,0.0,4.0,0.0
+intersection,intersection,0.0,0.0,2.0,0.0
+complement,complement,0.0,0.0,0.0,0.0
+idempotent,idempotent,0.0,0.0,0.0,0.0
+subset,subset,0.0,0.0,0.0,0.0
+conjugate,conjugate,0.0,0.0,0.0,0.0
+transpose,transpose,0.0,0.0,0.0,0.0
+cofactor,cofactor,0.0,0.0,0.0,0.0
+determinant,determinant,0.0,0.0,0.0,0.0
+diagonal,diagonal,0.0,0.0,0.0,0.0
+circuit,circuit,0.0,0.0,0.0,0.0
+cycle,cycle,0.0,0.0,35.0,10.0
+subgraph,subgraph,0.0,0.0,0.0,0.0
+forest,forest,0.0,0.0,0.0,0.0
+unix,unix,0.0,0.0,0.0,0.0
+address,address,0.0,0.0,0.0,0.0
+space,space,2.0,0.0,2.0,0.0
+data,data,420.0,8.0,420.0,8.0
+structure,structure,0.0,0.0,0.0,0.0
+alignment,alignment,0.0,0.0,0.0,0.0
+lines,lines,0.0,0.0,1.0,0.0
+code,code,0.0,0.0,20.0,0.0
+freebsd,freebsd,0.0,0.0,0.0,0.0
+gnu,gnu,0.0,0.0,0.0,0.0
+library,library,0.0,0.0,0.0,0.0
+manual,manual,0.0,0.0,0.0,0.0
+memory,memory,0.0,0.0,0.0,0.0
+management,management,0.0,0.0,0.0,0.0
+run,run,50.0,4.0,50.0,0.0
+time,time,80.0,0.0,130.0,10.0
+program,program,0.0,0.0,0.0,0.0
+lifecycle,lifecycle,0.0,0.0,0.0,0.0
+phase,phase,0.0,0.0,0.0,0.0
+bin,bin,0.0,0.0,0.0,0.0
+computational,computational,0.0,0.0,0.0,0.0
+geometry,geometry,0.0,0.0,0.0,0.0
+sbrk,sbrk,0.0,0.0,0.0,0.0
+function,function,2.0,0.0,4.0,0.0
+prototype,prototype,0.0,0.0,0.0,0.0
+pointer,pointer,4.0,0.0,40.0,0.0
+computer,computer,0.0,0.0,0.0,0.0
+programming,programming,0.0,0.0,0.0,0.0
+static,static,118.0,0.0,118.0,0.0
+allocation,allocation,0.0,0.0,2.0,0.0
+new,new,1516.0,0.0,1516.0,0.0
+delete,delete,5.0,5.0,15.0,0.0
+array,array,18.0,0.0,18.0,0.0
+uninitialized,uninitialized,0.0,0.0,2.0,0.0
+variable,variable,0.0,0.0,0.0,0.0
+standard,standard,0.0,0.0,0.0,0.0
+revision,revision,0.0,0.0,0.0,0.0
+language,language,0.0,0.0,0.0,0.0
+system,system,4.0,0.0,4.0,0.0
+call,call,0.0,0.0,26.0,2.0
+direct,direct,6.0,0.0,6.0,0.0
+access,access,0.0,0.0,0.0,0.0
+central,central,0.0,0.0,0.0,0.0
+processing,processing,0.0,0.0,0.0,0.0
+unit,unit,2.0,0.0,2.0,0.0
+layout,layout,153.0,0.0,164.0,12.0
+randomization,randomization,0.0,0.0,0.0,0.0
+dope,dope,0.0,0.0,0.0,0.0
+vector,vector,0.0,0.0,0.0,0.0
+length,length,54.0,0.0,54.0,12.0
+virtual,virtual,2.0,0.0,2.0,0.0
+whatsapp,whatsapp,0.0,0.0,0.0,0.0
+segmentation,segmentation,0.0,0.0,0.0,0.0
+fault,fault,0.0,0.0,17.0,0.0
+ansi,ansi,0.0,0.0,0.0,0.0
+mmap,mmap,0.0,0.0,3.0,0.0
+thread,thread,4.0,0.0,4.0,0.0
+local,local,0.0,0.0,0.0,0.0
+storage,storage,0.0,0.0,4.0,0.0
+initialization,initialization,0.0,0.0,11.0,3.0
+buffer,buffer,0.0,0.0,0.0,0.0
+overflow,overflow,0.0,0.0,0.0,0.0
+open,open,6.0,0.0,6.0,0.0
+source,source,17.0,0.0,20.0,5.0
+posix,posix,0.0,0.0,0.0,0.0
+page,page,6.0,0.0,21.0,2.0
+public,public,1454.0,0.0,1454.0,0.0
+domain,domain,0.0,0.0,0.0,0.0
+stack,stack,0.0,0.0,0.0,0.0
+segment,segment,0.0,0.0,0.0,0.0
+dynamic,dynamic,0.0,0.0,0.0,0.0
+dangling,dangling,0.0,0.0,0.0,0.0
+kernel,kernel,0.0,0.0,0.0,0.0
+undefined,undefined,0.0,0.0,0.0,0.0
+behavior,behavior,0.0,0.0,2.0,0.0
+trie,trie,0.0,0.0,0.0,0.0
+type,type,124.0,0.0,228.0,4.0
+conversion,conversion,0.0,0.0,17.0,0.0
+demand,demand,0.0,0.0,0.0,0.0
+paging,paging,0.0,0.0,0.0,0.0
+debugger,debugger,0.0,0.0,0.0,0.0
+intrinsic,intrinsic,0.0,0.0,0.0,0.0
+netbsd,netbsd,0.0,0.0,0.0,0.0
+openbsd,openbsd,0.0,0.0,0.0,0.0
+protection,protection,0.0,0.0,0.0,0.0
+compile,compile,0.0,0.0,1.0,0.0
+heap,heap,0.0,0.0,0.0,0.0
+wild,wild,0.0,0.0,0.0,0.0
+smashing,smashing,0.0,0.0,0.0,0.0
+void,void,1406.0,0.0,1406.0,0.0
+automatic,automatic,0.0,0.0,0.0,0.0
+fragmentation,fragmentation,0.0,0.0,1.0,0.0
+allocator,allocator,0.0,0.0,0.0,0.0
+arrays,arrays,0.0,0.0,6.0,0.0
+anomalies,anomalies,0.0,0.0,0.0,0.0
+lapsed,lapsed,0.0,0.0,0.0,0.0
+listener,listener,18.0,0.0,28.0,8.0
+problem,problem,0.0,0.0,0.0,0.0
+programming,programming,0.0,0.0,0.0,0.0
+windows,windows,0.0,0.0,0.0,0.0
+registry,registry,0.0,0.0,0.0,0.0
+router,router,0.0,0.0,3.0,0.0
+computing,computing,0.0,0.0,0.0,0.0
+resource,resource,6.0,0.0,44.0,10.0
+leak,leak,0.0,0.0,0.0,0.0
+ibm,ibm,0.0,0.0,0.0,0.0
+rational,rational,0.0,0.0,0.0,0.0
+purify,purify,0.0,0.0,0.0,0.0
+pseudocode,pseudocode,0.0,0.0,0.0,0.0
+nmon,nmon,0.0,0.0,0.0,0.0
+reference,reference,6.0,0.0,6.0,0.0
+counting,counting,0.0,0.0,0.0,0.0
+ajax,ajax,0.0,0.0,0.0,0.0
+bugs,bugs,0.0,0.0,0.0,0.0
+cache,cache,1.0,0.0,1.0,0.0
+computing,computing,0.0,0.0,0.0,0.0
+debugging,debugging,0.0,0.0,0.0,0.0
+bug,bug,0.0,0.0,0.0,0.0
+web,web,0.0,0.0,0.0,0.0
+browser,browser,0.0,0.0,0.0,0.0
+attack,attack,0.0,0.0,0.0,0.0
+valgrind,valgrind,0.0,0.0,0.0,0.0
+visual,visual,0.0,0.0,0.0,0.0
+basic,basic,0.0,0.0,0.0,0.0
+server,server,0.0,0.0,0.0,0.0
+boundschecker,boundschecker,0.0,0.0,0.0,0.0
+secondary,secondary,0.0,0.0,0.0,0.0
+ada,ada,0.0,0.0,2.0,0.0
+device,device,2.0,0.0,2.0,0.0
+driver,driver,0.0,0.0,3.0,0.0
+document,document,0.0,0.0,0.0,0.0
+object,object,63.0,0.0,75.0,12.0
+model,model,0.0,0.0,48.0,2.0
+elevator,elevator,0.0,0.0,0.0,0.0
+embedded,embedded,0.0,0.0,0.0,0.0
+exploit,exploit,0.0,0.0,0.0,0.0
+security,security,0.0,0.0,0.0,0.0
+garbage,garbage,0.0,0.0,0.0,0.0
+collection,collection,4.0,0.0,12.0,0.0
+javascript,javascript,0.0,0.0,0.0,0.0
+acquisition,acquisition,0.0,0.0,0.0,0.0
+multitasking,multitasking,0.0,0.0,0.0,0.0
+dynamorio,dynamorio,0.0,0.0,0.0,0.0
+tool,tool,8.0,0.0,8.0,0.0
+thrashing,thrashing,0.0,0.0,0.0,0.0
+aging,aging,0.0,0.0,0.0,0.0
+shared,shared,0.0,0.0,0.0,0.0
+interprocess,interprocess,0.0,0.0,0.0,0.0
+communication,communication,0.0,0.0,0.0,0.0
+insure,insure,0.0,0.0,1.0,0.0
+unreachable,unreachable,0.0,0.0,0.0,0.0
+weak,weak,0.0,0.0,0.0,0.0
+parasoft,parasoft,0.0,0.0,0.0,0.0
+memwatch,memwatch,0.0,0.0,0.0,0.0
+java,java,1.0,0.0,1.0,0.0
+machine,machine,0.0,0.0,0.0,0.0
+event,event,46.0,0.0,52.0,1.0
+strong,strong,0.0,0.0,159.0,0.0
+hard,hard,0.0,0.0,0.0,0.0
+drive,drive,0.0,0.0,0.0,0.0
+main,main,18.0,0.0,31.0,1.0
+deleaker,deleaker,0.0,0.0,0.0,0.0
+file,file,18.0,0.0,18.0,0.0
+sample,sample,4.0,0.0,15.0,1.0
+sawtooth,sawtooth,0.0,0.0,0.0,0.0
+jpg,jpg,0.0,0.0,0.0,0.0
+nano,nano,0.0,0.0,0.0,0.0
+threads,threads,0.0,0.0,2.0,0.0
+graphics,graphics,0.0,0.0,0.0,0.0
+random,random,12.0,0.0,12.0,0.0
+linux,linux,0.0,0.0,0.0,0.0
+boost,boost,0.0,0.0,0.0,0.0
+libraries,libraries,0.0,0.0,0.0,0.0
+architecture,architecture,0.0,0.0,0.0,0.0
+concurrent,concurrent,0.0,0.0,7.0,0.0
+named,named,0.0,0.0,28.0,4.0
+pipe,pipe,0.0,0.0,0.0,0.0
+process,process,0.0,0.0,0.0,0.0
+omega,omega,0.0,0.0,0.0,0.0
+network,network,0.0,0.0,0.0,0.0
+execute,execute,0.0,0.0,0.0,0.0
+place,place,0.0,0.0,0.0,0.0
+distributed,distributed,0.0,0.0,0.0,0.0
+api,api,2.0,1.0,2.0,0.0
+cpu,cpu,0.0,0.0,0.0,0.0
+crossbar,crossbar,0.0,0.0,0.0,0.0
+switch,switch,52.0,2.0,58.0,0.0
+shared,shared,0.0,0.0,0.0,0.0
+parallel,parallel,0.0,0.0,0.0,0.0
+snapshot,snapshot,0.0,0.0,0.0,0.0
+objects,objects,1.0,0.0,26.0,4.0
+inter,inter,0.0,0.0,14.0,0.0
+multiprocessing,multiprocessing,0.0,0.0,0.0,0.0
+front,front,0.0,0.0,0.0,0.0
+side,side,0.0,0.0,0.0,0.0
+bus,bus,0.0,0.0,0.0,0.0
+gpu,gpu,0.0,0.0,0.0,0.0
+global,global,0.0,0.0,0.0,0.0
+heterogeneous,heterogeneous,0.0,0.0,0.0,0.0
+hypertransport,hypertransport,0.0,0.0,0.0,0.0
+debian,debian,0.0,0.0,0.0,0.0
+non,non,0.0,0.0,2.0,0.0
+uniform,uniform,0.0,0.0,0.0,0.0
+php,php,0.0,0.0,0.0,0.0
+only,only,12.0,0.0,12.0,1.0
+coherence,coherence,0.0,0.0,0.0,0.0
+configuration,configuration,1.0,0.0,4.0,0.0
+inter,inter,0.0,0.0,14.0,0.0
+socket,socket,0.0,0.0,0.0,0.0
+register,register,0.0,0.0,0.0,0.0
+corba,corba,0.0,0.0,0.0,0.0
+window,window,0.0,0.0,0.0,0.0
+false,false,186.0,0.0,186.0,53.0
+sharing,sharing,0.0,0.0,0.0,0.0
+input,input,0.0,0.0,0.0,0.0
+output,output,0.0,0.0,0.0,0.0
+qt,qt,0.0,0.0,0.0,0.0
+framework,framework,0.0,0.0,0.0,0.0
+ram,ram,0.0,0.0,0.0,0.0
+disk,disk,0.0,0.0,0.0,0.0
+mmu,mmu,0.0,0.0,0.0,0.0
+iommu,iommu,0.0,0.0,0.0,0.0
+svg,svg,0.0,0.0,0.0,0.0
+massively,massively,0.0,0.0,0.0,0.0
+processor,processor,0.0,0.0,0.0,0.0
+level,level,0.0,0.0,0.0,0.0
+parallelism,parallelism,0.0,0.0,0.0,0.0
+message,message,10.0,0.0,32.0,6.0
+passing,passing,0.0,0.0,0.0,0.0
+interface,interface,4.0,0.0,4.0,0.0
+long,long,84.0,0.0,261.0,0.0
+instruction,instruction,0.0,0.0,0.0,0.0
+word,word,8.0,0.0,8.0,4.0
+same,same,1.0,0.0,1.0,0.0
+merging,merging,0.0,0.0,0.0,0.0
+replacement,replacement,0.0,0.0,0.0,0.0
+algorithm,algorithm,0.0,0.0,0.0,0.0
+read,read,0.0,0.0,6.0,0.0
+update,update,6.0,0.0,6.0,0.0
+sxm,sxm,0.0,0.0,0.0,0.0
+transactional,transactional,0.0,0.0,0.0,0.0
+sandhya,sandhya,0.0,0.0,0.0,0.0
+dwarkadas,dwarkadas,0.0,0.0,0.0,0.0
+fortran,fortran,0.0,0.0,0.0,0.0
+virtualization,virtualization,0.0,0.0,0.0,0.0
+boolean,boolean,276.0,0.0,284.0,0.0
+satisfiability,satisfiability,0.0,0.0,76.0,0.0
+butterfly,butterfly,0.0,0.0,0.0,0.0
+protocol,protocol,0.0,0.0,0.0,0.0
+qore,qore,0.0,0.0,0.0,0.0
+qualcomm,qualcomm,0.0,0.0,0.0,0.0
+msm,msm,0.0,0.0,0.0,0.0
+prefix,prefix,0.0,0.0,0.0,0.0
+sum,sum,6.0,0.0,6.0,2.0
+migration,migration,0.0,0.0,0.0,0.0
+reverse,reverse,0.0,0.0,0.0,0.0
+computation,computation,0.0,0.0,0.0,0.0
+dev,dev,0.0,0.0,0.0,0.0
+shm,shm,0.0,0.0,0.0,0.0
+oriented,oriented,0.0,0.0,0.0,0.0
+list,list,519.0,0.0,531.0,75.0
+languages,languages,0.0,0.0,0.0,0.0
+lisp,lisp,0.0,0.0,0.0,0.0
+family,family,0.0,0.0,0.0,0.0
+multilisp,multilisp,0.0,0.0,0.0,0.0
+based,based,1.0,0.0,6.0,0.0
+queuing,queuing,0.0,0.0,0.0,0.0
+locks,locks,0.0,0.0,0.0,0.0
+dirac,dirac,0.0,0.0,0.0,0.0
+rendering,rendering,2.0,0.0,2.0,0.0
+infrastructure,infrastructure,0.0,0.0,0.0,0.0
+hardware,hardware,0.0,0.0,0.0,0.0
+description,description,0.0,0.0,0.0,0.0
+adreno,adreno,0.0,0.0,0.0,0.0
+multi,multi,2.0,0.0,2.0,0.0
+environment,environment,0.0,0.0,0.0,0.0
+real,real,0.0,0.0,0.0,0.0
+wayland,wayland,0.0,0.0,0.0,0.0
+display,display,100.0,0.0,100.0,0.0
+microkernel,microkernel,0.0,0.0,0.0,0.0
+operating,operating,0.0,0.0,0.0,0.0
+load,load,90.0,9.0,90.0,0.0
+balancing,balancing,0.0,0.0,0.0,0.0
+mach,mach,0.0,0.0,7.0,0.0
+mali,mali,0.0,0.0,0.0,0.0
+mapped,mapped,0.0,0.0,9.0,0.0
+apache,apache,0.0,0.0,0.0,0.0
+spark,spark,0.0,0.0,0.0,0.0
+endeavour,endeavour,0.0,0.0,0.0,0.0
+supercomputer,supercomputer,0.0,0.0,0.0,0.0
+fuzzing,fuzzing,0.0,0.0,0.0,0.0
+graph,graph,0.0,0.0,0.0,0.0
+abstract,abstract,0.0,0.0,0.0,0.0
+parallel,parallel,0.0,0.0,0.0,0.0
+parametric,parametric,0.0,0.0,0.0,0.0
+search,search,11.0,0.0,11.0,4.0
+partitioned,partitioned,0.0,0.0,0.0,0.0
+paradigm,paradigm,0.0,0.0,0.0,0.0
+manycore,manycore,0.0,0.0,0.0,0.0
+tdm,tdm,0.0,0.0,0.0,0.0
+gcc,gcc,0.0,0.0,0.0,0.0
+trame,trame,0.0,0.0,0.0,0.0
+oblivious,oblivious,0.0,0.0,0.0,0.0
+loop,loop,0.0,0.0,0.0,0.0
+multidimensional,multidimensional,0.0,0.0,0.0,0.0
+digital,digital,0.0,0.0,0.0,0.0
+signal,signal,0.0,0.0,0.0,0.0
+pascal,pascal,0.0,0.0,0.0,0.0
+scheduling,scheduling,0.0,0.0,0.0,0.0
+collective,collective,0.0,0.0,0.0,0.0
+operation,operation,0.0,0.0,0.0,0.0
+copland,copland,0.0,0.0,0.0,0.0
+core,core,0.0,0.0,0.0,0.0
+shim,shim,0.0,0.0,0.0,0.0
+jam,jam,0.0,0.0,0.0,0.0
+mit,mit,0.0,0.0,0.0,0.0
+cray,cray,0.0,0.0,0.0,0.0
+xmt,xmt,0.0,0.0,0.0,0.0
+modula,modula,0.0,0.0,0.0,0.0
+postgresql,postgresql,0.0,0.0,0.0,0.0
+mmp,mmp,0.0,0.0,0.0,0.0
+granularity,granularity,0.0,0.0,0.0,0.0
+block,block,0.0,0.0,0.0,0.0
+cuda,cuda,0.0,0.0,0.0,0.0
+globally,globally,0.0,0.0,0.0,0.0
+shared,shared,0.0,0.0,0.0,0.0
+universal,universal,0.0,0.0,0.0,0.0
+multiprocessor,multiprocessor,0.0,0.0,0.0,0.0
+multiprogramming,multiprogramming,0.0,0.0,0.0,0.0
+relocation,relocation,0.0,0.0,2.0,0.0
+linker,linker,0.0,0.0,6.0,0.0
+loader,loader,0.0,0.0,1.0,0.0
+overlay,overlay,0.0,0.0,0.0,0.0
+protection,protection,0.0,0.0,0.0,0.0
+paging,paging,0.0,0.0,0.0,0.0
+tlb,tlb,0.0,0.0,0.0,0.0
+lru,lru,0.0,0.0,0.0,0.0
+lfu,lfu,0.0,0.0,0.0,0.0
+fifo,fifo,0.0,0.0,0.0,0.0
+segmentation,segmentation,0.0,0.0,0.0,0.0
+attributes,attributes,32.0,0.0,36.0,0.0
+operations,operations,0.0,0.0,0.0,0.0
+structures,structures,0.0,0.0,0.0,0.0
+mbr,mbr,0.0,0.0,0.0,0.0
+scan,scan,0.0,0.0,20.0,0.0
+cscan,cscan,0.0,0.0,0.0,0.0
+look,look,0.0,0.0,0.0,0.0
+c-look,c-look,0.0,0.0,20.0,2.0
+abort,abort,0.0,0.0,0.0,0.0
+abs,abs,14.0,0.0,16.0,0.0
+acos,acos,0.0,0.0,0.0,0.0
+asctime,asctime,0.0,0.0,0.0,0.0
+asctime_r,asctime_r,0.0,0.0,0.0,0.0
+asin,asin,0.0,0.0,0.0,0.0
+assert,assert,0.0,0.0,0.0,0.0
+atan,atan,0.0,0.0,0.0,0.0
+atan2,atan2,0.0,0.0,0.0,0.0
+atexit,atexit,0.0,0.0,0.0,0.0
+atof,atof,0.0,0.0,0.0,0.0
+atoi,atoi,0.0,0.0,0.0,0.0
+atol,atol,0.0,0.0,0.0,0.0
+bsearch,bsearch,0.0,0.0,11.0,4.0
+btowc,btowc,0.0,0.0,0.0,0.0
+calloc,calloc,0.0,0.0,0.0,0.0
+catclose6,catclose6,0.0,0.0,0.0,0.0
+catgets6,catgets6,0.0,0.0,0.0,0.0
+catopen6,catopen6,0.0,0.0,0.0,0.0
+ceil,ceil,0.0,0.0,0.0,0.0
+clearerr,clearerr,0.0,0.0,0.0,0.0
+clock,clock,0.0,0.0,0.0,0.0
+cos,cos,0.0,0.0,0.0,0.0
+cosh,cosh,0.0,0.0,1.0,0.0
+ctime,ctime,0.0,0.0,32.0,4.0
+ctime64,ctime64,0.0,0.0,0.0,0.0
+ctime_r,ctime_r,0.0,0.0,2.0,0.0
+ctime64_r,ctime64_r,0.0,0.0,0.0,0.0
+difftime,difftime,0.0,0.0,0.0,0.0
+difftime64,difftime64,0.0,0.0,0.0,0.0
+div,div,0.0,0.0,0.0,0.0
+erf,erf,0.0,0.0,0.0,0.0
+erfc,erfc,0.0,0.0,0.0,0.0
+exit,exit,0.0,0.0,20.0,0.0
+exp,exp,3.0,0.0,3.0,0.0
+fabs,fabs,0.0,0.0,14.0,0.0
+fclose,fclose,0.0,0.0,0.0,0.0
+fdopen5,fdopen5,0.0,0.0,0.0,0.0
+feof,feof,0.0,0.0,0.0,0.0
+ferror,ferror,0.0,0.0,3.0,1.0
+fflush1,fflush1,0.0,0.0,0.0,0.0
+fgetc1,fgetc1,0.0,0.0,0.0,0.0
+fgetpos1,fgetpos1,0.0,0.0,0.0,0.0
+fgets1,fgets1,0.0,0.0,0.0,0.0
+fgetwc6,fgetwc6,0.0,0.0,0.0,0.0
+fgetws6,fgetws6,0.0,0.0,0.0,0.0
+fileno5,fileno5,0.0,0.0,0.0,0.0
+floor,floor,1.0,0.0,1.0,0.0
+fmod,fmod,0.0,0.0,0.0,0.0
+fopen,fopen,0.0,0.0,3.0,0.0
+fprintf,fprintf,0.0,0.0,2.0,1.0
+fputc1,fputc1,0.0,0.0,0.0,0.0
+fputs1,fputs1,0.0,0.0,0.0,0.0
+fputwc6,fputwc6,0.0,0.0,0.0,0.0
+fputws6,fputws6,0.0,0.0,0.0,0.0
+fread,fread,0.0,0.0,0.0,0.0
+free,free,0.0,0.0,0.0,0.0
+freopen,freopen,0.0,0.0,0.0,0.0
+frexp,frexp,0.0,0.0,0.0,0.0
+fscanf,fscanf,0.0,0.0,0.0,0.0
+fseek1,fseek1,0.0,0.0,0.0,0.0
+fsetpos1,fsetpos1,0.0,0.0,0.0,0.0
+ftell1,ftell1,0.0,0.0,0.0,0.0
+fwide6,fwide6,0.0,0.0,0.0,0.0
+fwprintf6,fwprintf6,0.0,0.0,0.0,0.0
+fwrite,fwrite,0.0,0.0,0.0,0.0
+fwscanf6,fwscanf6,0.0,0.0,0.0,0.0
+gamma,gamma,0.0,0.0,0.0,0.0
+getc1,getc1,0.0,0.0,0.0,0.0
+getchar1,getchar1,0.0,0.0,0.0,0.0
+getenv,getenv,0.0,0.0,0.0,0.0
+gets,gets,0.0,0.0,47.0,0.0
+getwc6,getwc6,0.0,0.0,0.0,0.0
+getwchar6,getwchar6,0.0,0.0,0.0,0.0
+gmtime,gmtime,0.0,0.0,0.0,0.0
+gmtime64,gmtime64,0.0,0.0,0.0,0.0
+gmtime_r,gmtime_r,0.0,0.0,0.0,0.0
+gmtime64_r,gmtime64_r,0.0,0.0,0.0,0.0
+hypot,hypot,0.0,0.0,0.0,0.0
+isalnum,isalnum,0.0,0.0,0.0,0.0
+isalpha,isalpha,0.0,0.0,15.0,1.0
+isascii4,isascii4,0.0,0.0,0.0,0.0
+isblank,isblank,0.0,0.0,0.0,0.0
+iscntrl,iscntrl,0.0,0.0,0.0,0.0
+isdigit,isdigit,0.0,0.0,0.0,0.0
+isgraph,isgraph,0.0,0.0,0.0,0.0
+islower,islower,0.0,0.0,0.0,0.0
+isprint,isprint,0.0,0.0,2.0,1.0
+ispunct,ispunct,0.0,0.0,0.0,0.0
+isspace,isspace,0.0,0.0,1.0,0.0
+isupper,isupper,0.0,0.0,79.0,0.0
+iswalnum4,iswalnum4,0.0,0.0,0.0,0.0
+iswalpha4,iswalpha4,0.0,0.0,0.0,0.0
+iswblank4,iswblank4,0.0,0.0,0.0,0.0
+iswcntrl4,iswcntrl4,0.0,0.0,0.0,0.0
+iswctype4,iswctype4,0.0,0.0,0.0,0.0
+iswdigit4,iswdigit4,0.0,0.0,0.0,0.0
+iswgraph4,iswgraph4,0.0,0.0,0.0,0.0
+iswlower4,iswlower4,0.0,0.0,0.0,0.0
+iswprint4,iswprint4,0.0,0.0,0.0,0.0
+iswpunct4,iswpunct4,0.0,0.0,0.0,0.0
+iswspace4,iswspace4,0.0,0.0,0.0,0.0
+iswupper4,iswupper4,0.0,0.0,0.0,0.0
+iswxdigit4,iswxdigit4,0.0,0.0,0.0,0.0
+isxdigit4,isxdigit4,0.0,0.0,0.0,0.0
+j0,j0,0.0,0.0,0.0,0.0
+j1,j1,0.0,0.0,0.0,0.0
+jn,jn,0.0,0.0,0.0,0.0
+labs,labs,0.0,0.0,14.0,0.0
+ldexp,ldexp,0.0,0.0,0.0,0.0
+ldiv,ldiv,0.0,0.0,0.0,0.0
+localeconv,localeconv,0.0,0.0,0.0,0.0
+localtime,localtime,0.0,0.0,0.0,0.0
+localtime64,localtime64,0.0,0.0,0.0,0.0
+localtime_r,localtime_r,0.0,0.0,0.0,0.0
+localtime64_r,localtime64_r,0.0,0.0,0.0,0.0
+log,log,56.0,0.0,84.0,0.0
+log10,log10,0.0,0.0,0.0,0.0
+longjmp,longjmp,0.0,0.0,0.0,0.0
+malloc,malloc,0.0,0.0,0.0,0.0
+mblen,mblen,0.0,0.0,0.0,0.0
+mbrlen4,mbrlen4,0.0,0.0,0.0,0.0
+mbrtowc4,mbrtowc4,0.0,0.0,0.0,0.0
+mbsinit4,mbsinit4,0.0,0.0,0.0,0.0
+mbsrtowcs4,mbsrtowcs4,0.0,0.0,0.0,0.0
+mbstowcs,mbstowcs,0.0,0.0,0.0,0.0
+mbtowc,mbtowc,0.0,0.0,0.0,0.0
+memchr,memchr,0.0,0.0,0.0,0.0
+memcmp,memcmp,0.0,0.0,0.0,0.0
+memcpy,memcpy,0.0,0.0,22.0,0.0
+memmove,memmove,0.0,0.0,0.0,0.0
+memset,memset,0.0,0.0,0.0,0.0
+mktime,mktime,0.0,0.0,0.0,0.0
+mktime64,mktime64,0.0,0.0,0.0,0.0
+modf,modf,0.0,0.0,0.0,0.0
+nextafter,nextafter,0.0,0.0,0.0,0.0
+nextafterl,nextafterl,0.0,0.0,0.0,0.0
+nexttoward,nexttoward,0.0,0.0,0.0,0.0
+nexttowardl,nexttowardl,0.0,0.0,0.0,0.0
+nl_langinfo4,nl_langinfo4,0.0,0.0,0.0,0.0
+perror,perror,0.0,0.0,3.0,1.0
+pow,pow,2.0,0.0,2.0,0.0
+printf,printf,0.0,0.0,6.0,1.0
+putc1,putc1,0.0,0.0,0.0,0.0
+putchar1,putchar1,0.0,0.0,0.0,0.0
+putenv,putenv,0.0,0.0,0.0,0.0
+puts,puts,0.0,0.0,22.0,0.0
+putwc6,putwc6,0.0,0.0,0.0,0.0
+putwchar6,putwchar6,0.0,0.0,0.0,0.0
+qsort,qsort,0.0,0.0,2.0,0.0
+quantexpd32,quantexpd32,0.0,0.0,0.0,0.0
+quantexpd64,quantexpd64,0.0,0.0,0.0,0.0
+quantexpd128,quantexpd128,0.0,0.0,0.0,0.0
+quantized32,quantized32,0.0,0.0,0.0,0.0
+quantized64,quantized64,0.0,0.0,0.0,0.0
+quantized128,quantized128,0.0,0.0,0.0,0.0
+samequantumd32,samequantumd32,0.0,0.0,0.0,0.0
+samequantumd64,samequantumd64,0.0,0.0,0.0,0.0
+samequantumd128,samequantumd128,0.0,0.0,0.0,0.0
+raise,raise,0.0,0.0,0.0,0.0
+rand,rand,2.0,0.0,38.0,0.0
+rand_r,rand_r,0.0,0.0,0.0,0.0
+realloc,realloc,0.0,0.0,0.0,0.0
+regcomp,regcomp,0.0,0.0,0.0,0.0
+regerror,regerror,0.0,0.0,0.0,0.0
+regexec,regexec,0.0,0.0,0.0,0.0
+regfree,regfree,0.0,0.0,0.0,0.0
+remove,remove,92.0,10.0,108.0,2.0
+rename,rename,0.0,0.0,0.0,0.0
+rewind1,rewind1,0.0,0.0,0.0,0.0
+scanf,scanf,0.0,0.0,0.0,0.0
+setbuf,setbuf,0.0,0.0,0.0,0.0
+setjmp,setjmp,0.0,0.0,0.0,0.0
+setlocale,setlocale,0.0,0.0,3.0,0.0
+setvbuf,setvbuf,0.0,0.0,0.0,0.0
+signal,signal,0.0,0.0,0.0,0.0
+sin,sin,0.0,0.0,0.0,0.0
+sinh,sinh,0.0,0.0,0.0,0.0
+snprintf,snprintf,0.0,0.0,0.0,0.0
+sprintf,sprintf,0.0,0.0,2.0,1.0
+sqrt,sqrt,1.0,0.0,1.0,0.0
+srand,srand,0.0,0.0,2.0,0.0
+sscanf,sscanf,0.0,0.0,0.0,0.0
+strcasecmp,strcasecmp,0.0,0.0,0.0,0.0
+strcat,strcat,0.0,0.0,0.0,0.0
+strchr,strchr,0.0,0.0,0.0,0.0
+strcmp,strcmp,0.0,0.0,0.0,0.0
+strcoll,strcoll,0.0,0.0,0.0,0.0
+strcpy,strcpy,0.0,0.0,0.0,0.0
+strcspn,strcspn,0.0,0.0,0.0,0.0
+strerror,strerror,0.0,0.0,0.0,0.0
+strfmon4,strfmon4,0.0,0.0,0.0,0.0
+strftime,strftime,0.0,0.0,0.0,0.0
+strlen,strlen,0.0,0.0,0.0,0.0
+strncasecmp,strncasecmp,0.0,0.0,0.0,0.0
+strncat,strncat,0.0,0.0,0.0,0.0
+strncmp,strncmp,0.0,0.0,0.0,0.0
+strncpy,strncpy,0.0,0.0,0.0,0.0
+strpbrk,strpbrk,0.0,0.0,0.0,0.0
+strptime4,strptime4,0.0,0.0,0.0,0.0
+strrchr,strrchr,0.0,0.0,0.0,0.0
+strspn,strspn,0.0,0.0,0.0,0.0
+strstr,strstr,0.0,0.0,0.0,0.0
+strtod,strtod,0.0,0.0,0.0,0.0
+strtod32,strtod32,0.0,0.0,0.0,0.0
+strtod64,strtod64,0.0,0.0,0.0,0.0
+strtod128,strtod128,0.0,0.0,0.0,0.0
+strtof,strtof,0.0,0.0,0.0,0.0
+strtok,strtok,0.0,0.0,2.0,0.0
+strtok_r,strtok_r,0.0,0.0,0.0,0.0
+strtol,strtol,0.0,0.0,0.0,0.0
+strtold,strtold,0.0,0.0,0.0,0.0
+strtoul,strtoul,0.0,0.0,0.0,0.0
+strxfrm,strxfrm,0.0,0.0,0.0,0.0
+swprintf,swprintf,0.0,0.0,0.0,0.0
+swscanf,swscanf,0.0,0.0,0.0,0.0
+system,system,4.0,0.0,4.0,0.0
+tan,tan,0.0,0.0,1.0,0.0
+tanh,tanh,0.0,0.0,0.0,0.0
+time,time,80.0,0.0,130.0,10.0
+time64,time64,0.0,0.0,0.0,0.0
+tmpfile,tmpfile,0.0,0.0,0.0,0.0
+tmpnam,tmpnam,0.0,0.0,0.0,0.0
+toascii,toascii,0.0,0.0,0.0,0.0
+tolower,tolower,0.0,0.0,0.0,0.0
+toupper,toupper,0.0,0.0,0.0,0.0
+towctrans,towctrans,0.0,0.0,0.0,0.0
+towlower4,towlower4,0.0,0.0,0.0,0.0
+towupper4,towupper4,0.0,0.0,0.0,0.0
+ungetc1,ungetc1,0.0,0.0,0.0,0.0
+ungetwc6,ungetwc6,0.0,0.0,0.0,0.0
+va_arg,va_arg,0.0,0.0,0.0,0.0
+va_copy,va_copy,0.0,0.0,0.0,0.0
+va_end,va_end,0.0,0.0,0.0,0.0
+va_start,va_start,0.0,0.0,0.0,0.0
+vfprintf,vfprintf,0.0,0.0,0.0,0.0
+vfscanf,vfscanf,0.0,0.0,0.0,0.0
+vfwprintf6,vfwprintf6,0.0,0.0,0.0,0.0
+vfwscanf,vfwscanf,0.0,0.0,0.0,0.0
+vprintf,vprintf,0.0,0.0,2.0,1.0
+vscanf,vscanf,0.0,0.0,0.0,0.0
+vsprintf,vsprintf,0.0,0.0,0.0,0.0
+vsnprintf,vsnprintf,0.0,0.0,0.0,0.0
+vsscanf,vsscanf,0.0,0.0,0.0,0.0
+vswprintf,vswprintf,0.0,0.0,0.0,0.0
+vswscanf,vswscanf,0.0,0.0,0.0,0.0
+vwprintf6,vwprintf6,0.0,0.0,0.0,0.0
+vwscanf,vwscanf,0.0,0.0,0.0,0.0
+wcrtomb4,wcrtomb4,0.0,0.0,0.0,0.0
+wcscat,wcscat,0.0,0.0,0.0,0.0
+wcschr,wcschr,0.0,0.0,0.0,0.0
+wcscmp,wcscmp,0.0,0.0,0.0,0.0
+wcscoll4,wcscoll4,0.0,0.0,0.0,0.0
+wcscpy,wcscpy,0.0,0.0,0.0,0.0
+wcscspn,wcscspn,0.0,0.0,0.0,0.0
+wcsftime,wcsftime,0.0,0.0,0.0,0.0
+wcslen,wcslen,0.0,0.0,0.0,0.0
+wcslocaleconv,wcslocaleconv,0.0,0.0,0.0,0.0
+wcsncat,wcsncat,0.0,0.0,0.0,0.0
+wcsncmp,wcsncmp,0.0,0.0,0.0,0.0
+wcsncpy,wcsncpy,0.0,0.0,0.0,0.0
+wcspbrk,wcspbrk,0.0,0.0,0.0,0.0
+wcsptime,wcsptime,0.0,0.0,0.0,0.0
+wcsrchr,wcsrchr,0.0,0.0,0.0,0.0
+wcsrtombs4,wcsrtombs4,0.0,0.0,0.0,0.0
+wcsspn,wcsspn,0.0,0.0,0.0,0.0
+wcsstr,wcsstr,0.0,0.0,0.0,0.0
+wcstod,wcstod,0.0,0.0,0.0,0.0
+wcstod32,wcstod32,0.0,0.0,0.0,0.0
+wcstod64,wcstod64,0.0,0.0,0.0,0.0
+wcstod128,wcstod128,0.0,0.0,0.0,0.0
+wcstof,wcstof,0.0,0.0,0.0,0.0
+wcstok,wcstok,0.0,0.0,0.0,0.0
+wcstol,wcstol,0.0,0.0,0.0,0.0
+wcstold,wcstold,0.0,0.0,0.0,0.0
+wcstombs,wcstombs,0.0,0.0,0.0,0.0
+wcstoul,wcstoul,0.0,0.0,0.0,0.0
+wcsxfrm4,wcsxfrm4,0.0,0.0,0.0,0.0
+wctob,wctob,0.0,0.0,0.0,0.0
+wctomb,wctomb,0.0,0.0,0.0,0.0
+wctrans,wctrans,0.0,0.0,0.0,0.0
+wctype4,wctype4,0.0,0.0,0.0,0.0
+wcwidth,wcwidth,0.0,0.0,13.0,0.0
+wmemchr,wmemchr,0.0,0.0,0.0,0.0
+wmemcmp,wmemcmp,0.0,0.0,0.0,0.0
+wmemcpy,wmemcpy,0.0,0.0,0.0,0.0
+wmemmove,wmemmove,0.0,0.0,0.0,0.0
+wmemset,wmemset,0.0,0.0,0.0,0.0
+wprintf6,wprintf6,0.0,0.0,0.0,0.0
+wscanf6,wscanf6,0.0,0.0,0.0,0.0
+y0,y0,0.0,0.0,0.0,0.0
+y1,y1,0.0,0.0,0.0,0.0
+yn,yn,0.0,0.0,0.0,0.0
+assert.h,assert.h,0.0,0.0,13.0,2.0
+ctype.h,ctype.h,0.0,0.0,13.0,2.0
+errno.h,errno.h,0.0,0.0,13.0,2.0
+float.h,float.h,0.0,0.0,82.0,2.0
+limits.h,limits.h,0.0,0.0,13.0,2.0
+locale.h,locale.h,0.0,0.0,13.0,2.0
+math.h,math.h,0.0,0.0,39.0,2.0
+setjmp.h,setjmp.h,0.0,0.0,13.0,2.0
+signal.h,signal.h,0.0,0.0,13.0,2.0
+stdarg.h,stdarg.h,0.0,0.0,13.0,2.0
+stddef.h,stddef.h,0.0,0.0,13.0,2.0
+stdio.h,stdio.h,0.0,0.0,13.0,2.0
+stdlib.h,stdlib.h,0.0,0.0,13.0,2.0
+string.h,string.h,0.0,0.0,172.0,2.0
+time.h,time.h,0.0,0.0,29.0,4.0
+bitset,bitset,0.0,0.0,0.0,0.0
+chrono,chrono,0.0,0.0,0.0,0.0
+compare,compare,0.0,0.0,4.0,0.0
+csetjmp,csetjmp,0.0,0.0,0.0,0.0
+csignal,csignal,0.0,0.0,0.0,0.0
+cstdarg,cstdarg,0.0,0.0,0.0,0.0
+cstddef,cstddef,0.0,0.0,0.0,0.0
+cstdlib,cstdlib,0.0,0.0,0.0,0.0
+ctime,ctime,0.0,0.0,32.0,4.0
+functional,functional,0.0,0.0,2.0,0.0
+initializer_list,initializer_list,0.0,0.0,0.0,0.0
+optional,optional,0.0,0.0,3.0,0.0
+source_location,source_location,0.0,0.0,0.0,0.0
+stacktrace,stacktrace,6.0,0.0,11.0,0.0
+tuple,tuple,0.0,0.0,0.0,0.0
+type_traits,type_traits,0.0,0.0,0.0,0.0
+typeindex,typeindex,0.0,0.0,0.0,0.0
+typeinfo,typeinfo,0.0,0.0,0.0,0.0
+utility,utility,0.0,0.0,0.0,0.0
+variant,variant,2.0,0.0,2.0,0.0
+version,version,17.0,0.0,17.0,0.0
+memory,memory,0.0,0.0,0.0,0.0
+memory_resource,memory_resource,0.0,0.0,0.0,0.0
+new,new,1516.0,0.0,1516.0,0.0
+scoped_allocator,scoped_allocator,0.0,0.0,0.0,0.0
+cfloat,cfloat,0.0,0.0,69.0,0.0
+cinttypes,cinttypes,0.0,0.0,0.0,0.0
+climits,climits,0.0,0.0,0.0,0.0
+cstdint,cstdint,0.0,0.0,0.0,0.0
+limits,limits,0.0,0.0,0.0,0.0
+cassert,cassert,0.0,0.0,0.0,0.0
+cerrno,cerrno,0.0,0.0,0.0,0.0
+exception,exception,74.0,0.0,74.0,0.0
+stdexcept,stdexcept,0.0,0.0,0.0,0.0
+system_error,system_error,0.0,0.0,0.0,0.0
+cctype,cctype,0.0,0.0,0.0,0.0
+charconv,charconv,0.0,0.0,0.0,0.0
+cstring,cstring,0.0,0.0,159.0,0.0
+cuchar,cuchar,0.0,0.0,0.0,0.0
+cwchar,cwchar,0.0,0.0,0.0,0.0
+cwctype,cwctype,0.0,0.0,0.0,0.0
+format,format,14.0,0.0,14.0,0.0
+string,string,477.0,0.0,510.0,3.0
+string_view,string_view,0.0,0.0,0.0,0.0
+array,array,18.0,0.0,18.0,0.0
+deque,deque,0.0,0.0,0.0,0.0
+forward_list,forward_list,0.0,0.0,0.0,0.0
+list,list,519.0,0.0,531.0,75.0
+map,map,9.0,0.0,9.0,0.0
+queue,queue,6.0,0.0,6.0,0.0
+set,set,96.0,0.0,108.0,4.0
+span,span,3.0,0.0,3.0,0.0
+stack,stack,0.0,0.0,0.0,0.0
+unordered_map,unordered_map,0.0,0.0,0.0,0.0
+unordered_set,unordered_set,0.0,0.0,0.0,0.0
+vector,vector,0.0,0.0,0.0,0.0
+bit,bit,0.0,0.0,0.0,0.0
+cfenv,cfenv,0.0,0.0,0.0,0.0
+cmath,cmath,0.0,0.0,26.0,0.0
+complex,complex,4.0,0.0,4.0,0.0
+numbers,numbers,0.0,0.0,2.0,0.0
+numeric,numeric,0.0,0.0,0.0,0.0
+random,random,12.0,0.0,12.0,0.0
+ratio,ratio,11.0,0.0,11.0,0.0
+valarray,valarray,0.0,0.0,0.0,0.0
+cstdio,cstdio,0.0,0.0,0.0,0.0
+fstream,fstream,0.0,0.0,0.0,0.0
+iomanip,iomanip,0.0,0.0,0.0,0.0
+ios,ios,0.0,0.0,0.0,0.0
+iosfwd,iosfwd,0.0,0.0,0.0,0.0
+iostream,iostream,0.0,0.0,0.0,0.0
+istream,istream,0.0,0.0,0.0,0.0
+ostream,ostream,0.0,0.0,0.0,0.0
+spanstream,spanstream,0.0,0.0,0.0,0.0
+sstream,sstream,0.0,0.0,0.0,0.0
+streambuf,streambuf,0.0,0.0,0.0,0.0
+strstream,strstream,0.0,0.0,0.0,0.0
+syncstream,syncstream,0.0,0.0,0.0,0.0
+barrier,barrier,0.0,0.0,0.0,0.0
+condition_variable,condition_variable,0.0,0.0,0.0,0.0
+future,future,1.0,0.0,1.0,0.0
+latch,latch,0.0,0.0,0.0,0.0
+mutex,mutex,0.0,0.0,0.0,0.0
+semaphore,semaphore,0.0,0.0,0.0,0.0
+shared_mutex,shared_mutex,0.0,0.0,0.0,0.0
+stop_token,stop_token,0.0,0.0,0.0,0.0
+thread,thread,4.0,0.0,4.0,0.0
+system,system,4.0,0.0,4.0,0.0
+command,command,0.0,0.0,0.0,0.0
+analyzer,analyzer,0.0,0.0,0.0,0.0
+name,name,13.0,0.0,14.0,2.0
+uppercase,uppercase,0.0,0.0,2.0,0.0
+ptr,ptr,1.0,0.0,1.0,0.0
+copy,copy,0.0,0.0,0.0,0.0
+return,return,1728.0,0.0,1728.0,9.0
+processing,processing,0.0,0.0,0.0,0.0
+use,use,3.0,0.0,6.0,0.0
+va,va,0.0,0.0,0.0,0.0
+fwprintf,fwprintf,0.0,0.0,0.0,0.0
+vsprintf,vsprintf,0.0,0.0,0.0,0.0
+wprintf,wprintf,0.0,0.0,2.0,1.0
+wctomb,wctomb,0.0,0.0,0.0,0.0
+segment,segment,0.0,0.0,0.0,0.0
+specification,specification,0.0,0.0,0.0,0.0
+timeptr,timeptr,0.0,0.0,2.0,0.0
+wcslconv,wcslconv,0.0,0.0,0.0,0.0
+strptime,strptime,0.0,0.0,0.0,0.0
+portion,portion,0.0,0.0,2.0,1.0
+member,member,0.0,0.0,0.0,0.0
+representation,representation,0.0,0.0,1.0,0.0
+byte,byte,6.0,0.0,6.0,0.0
+classification,classification,0.0,0.0,0.0,0.0
+display,display,100.0,0.0,100.0,0.0
+fwscanf,fwscanf,0.0,0.0,0.0,0.0
+bessel,bessel,0.0,0.0,0.0,0.0
+x25,x25,0.0,0.0,0.0,0.0
+throughput,throughput,0.0,0.0,0.0,0.0
+netware,netware,0.0,0.0,0.0,0.0
+checksum,checksum,0.0,0.0,0.0,0.0
+multicast,multicast,0.0,0.0,0.0,0.0
+multiplexing,multiplexing,0.0,0.0,0.0,0.0
+appletalk,appletalk,0.0,0.0,0.0,0.0
+internet,internet,0.0,0.0,26.0,2.0
+http,http,0.0,0.0,0.0,0.0
+datagram,datagram,0.0,0.0,0.0,0.0
+ipsec,ipsec,0.0,0.0,0.0,0.0
+decnet,decnet,0.0,0.0,0.0,0.0
+authentication,authentication,0.0,0.0,0.0,0.0
+authorization,authorization,0.0,0.0,0.0,0.0
+netbios,netbios,0.0,0.0,0.0,0.0
+l2f,l2f,0.0,0.0,0.0,0.0
+h245,h245,0.0,0.0,0.0,0.0
+socks,socks,0.0,0.0,0.0,0.0
+checkpointing,checkpointing,0.0,0.0,0.0,0.0
+isns,isns,0.0,0.0,0.0,0.0
+l2tp,l2tp,0.0,0.0,0.0,0.0
+pptp,pptp,0.0,0.0,0.0,0.0
+rtcp,rtcp,0.0,0.0,0.0,0.0
+algorithm,algorithm,0.0,0.0,0.0,0.0
+plotter,plotter,0.0,0.0,0.0,0.0
+vhdl,vhdl,0.0,0.0,0.0,0.0
+interoperability,interoperability,0.0,0.0,0.0,0.0
+abstraction,abstraction,0.0,0.0,0.0,0.0
+opengl,opengl,0.0,0.0,0.0,0.0
+compiler,compiler,0.0,0.0,0.0,0.0
+computing,computing,0.0,0.0,0.0,0.0
+software,software,9.0,0.0,9.0,0.0
+routing,routing,0.0,0.0,0.0,0.0
+slip,slip,0.0,0.0,0.0,0.0
+bit,bit,0.0,0.0,0.0,0.0
+bluetooth,bluetooth,0.0,0.0,0.0,0.0
+g703,g703,0.0,0.0,0.0,0.0
+phonenet,phonenet,0.0,0.0,0.0,0.0
+usb,usb,0.0,0.0,0.0,0.0
+i431,i431,0.0,0.0,0.0,0.0
+x400,x400,0.0,0.0,0.0,0.0
+x500,x500,0.0,0.0,8.0,2.0
+8p8c,8p8c,0.0,0.0,0.0,0.0
+arpanet,arpanet,0.0,0.0,0.0,0.0
+ascii,ascii,0.0,0.0,0.0,0.0
+voltage,voltage,0.0,0.0,0.0,0.0
+dwdm,dwdm,0.0,0.0,0.0,0.0
+fddi,fddi,0.0,0.0,0.0,0.0
+xml,xml,1.0,0.0,1.0,0.0
+ftam,ftam,0.0,0.0,0.0,0.0
+q931,q931,0.0,0.0,0.0,0.0
+inap,inap,0.0,0.0,0.0,0.0
+mime,mime,0.0,0.0,0.0,0.0
+ethernet,ethernet,0.0,0.0,0.0,0.0
+ghn,ghn,0.0,0.0,0.0,0.0
+https,https,0.0,0.0,0.0,0.0
+integrity,integrity,0.0,0.0,0.0,0.0
+internetwork,internetwork,0.0,0.0,0.0,0.0
+novell,novell,0.0,0.0,0.0,0.0
+i430,i430,0.0,0.0,0.0,0.0
+availability,availability,0.0,0.0,0.0,0.0
+serialization,serialization,0.0,0.0,0.0,0.0
+ebcdic,ebcdic,0.0,0.0,0.0,0.0
+lapb,lapb,0.0,0.0,0.0,0.0
+nwlink,nwlink,0.0,0.0,0.0,0.0
+concatenation,concatenation,0.0,0.0,0.0,0.0
+confidentiality,confidentiality,0.0,0.0,0.0,0.0
+telecommunication,telecommunication,0.0,0.0,0.0,0.0
+standardization,standardization,0.0,0.0,0.0,0.0
+websocket,websocket,0.0,0.0,0.0,0.0
+cyclades,cyclades,0.0,0.0,0.0,0.0
+docsis,docsis,0.0,0.0,0.0,0.0
+modbus,modbus,0.0,0.0,0.0,0.0
+mpeg,mpeg,0.0,0.0,0.0,0.0
+zigbee,zigbee,0.0,0.0,0.0,0.0
+cons,cons,0.0,0.0,0.0,0.0
+pdcp,pdcp,0.0,0.0,0.0,0.0
+localtalk,localtalk,0.0,0.0,0.0,0.0
+gosip,gosip,0.0,0.0,0.0,0.0
+hdlc,hdlc,0.0,0.0,0.0,0.0
+x200,x200,0.0,0.0,5.0,0.0
+ethertalk,ethertalk,0.0,0.0,0.0,0.0
+hl7,hl7,0.0,0.0,0.0,0.0
+ipx,ipx,0.0,0.0,0.0,0.0
+tokentalk,tokentalk,0.0,0.0,0.0,0.0
+clns,clns,0.0,0.0,0.0,0.0
+sbtv,sbtv,0.0,0.0,0.0,0.0
+x21bis,x21bis,0.0,0.0,0.0,0.0
+norsar,norsar,0.0,0.0,0.0,0.0
+smtp,smtp,0.0,0.0,0.0,0.0
+ka9q,ka9q,0.0,0.0,0.0,0.0
+internetworking,internetworking,0.0,0.0,0.0,0.0
+interop,interop,0.0,0.0,0.0,0.0
+itu,itu,0.0,0.0,0.0,0.0
+dos,dos,0.0,0.0,0.0,0.0
+darpa,darpa,0.0,0.0,0.0,0.0
+mvs,mvs,0.0,0.0,0.0,0.0
+firmware,firmware,0.0,0.0,0.0,0.0
+telnet,telnet,0.0,0.0,0.0,0.0
+chipsets,chipsets,0.0,0.0,0.0,0.0
+lwip,lwip,0.0,0.0,0.0,0.0
+ieee,ieee,0.0,0.0,0.0,0.0
+ietf,ietf,0.0,0.0,0.0,0.0
+ipsec,ipsec,0.0,0.0,0.0,0.0
+ipv4,ipv4,0.0,0.0,0.0,0.0
+ipv6,ipv6,0.0,0.0,0.0,0.0
+multihoming,multihoming,0.0,0.0,0.0,0.0
+connectionless,connectionless,0.0,0.0,0.0,0.0
+abstraction,abstraction,0.0,0.0,0.0,0.0
+layer,layer,2.0,0.0,2.0,0.0
+acknowledgement,acknowledgement,0.0,0.0,0.0,0.0
+data,data,420.0,8.0,420.0,8.0
+networks,networks,0.0,0.0,0.0,0.0
+asynchronous,asynchronous,0.0,0.0,0.0,0.0
+transfer,transfer,0.0,0.0,0.0,0.0
+mode,mode,24.0,0.0,24.0,1.0
+osi,osi,0.0,0.0,0.0,0.0
+model,model,0.0,0.0,48.0,2.0
+reliability,reliability,0.0,0.0,0.0,0.0
+computer,computer,0.0,0.0,0.0,0.0
+networking,networking,0.0,0.0,1.0,0.0
+reliable,reliable,0.0,0.0,0.0,0.0
+protocol,protocol,0.0,0.0,0.0,0.0
+structured,structured,0.0,0.0,0.0,0.0
+stream,stream,0.0,0.0,0.0,0.0
+transport,transport,0.0,0.0,0.0,0.0
+frame,frame,14.0,0.0,14.0,0.0
+relay,relay,0.0,0.0,0.0,0.0
+head,head,0.0,0.0,0.0,0.0
+line,line,1.0,0.0,1.0,0.0
+blocking,blocking,0.0,0.0,0.0,0.0
+computing,computing,0.0,0.0,0.0,0.0
+throughput,throughput,0.0,0.0,0.0,0.0
+flow,flow,0.0,0.0,0.0,0.0
+control,control,2.0,1.0,2.0,1.0
+transmission,transmission,0.0,0.0,0.0,0.0
+network,network,0.0,0.0,0.0,0.0
+multipath,multipath,0.0,0.0,0.0,0.0
+tcp,tcp,0.0,0.0,0.0,0.0
+nagle,nagle,0.0,0.0,0.0,0.0
+netware,netware,0.0,0.0,0.0,0.0
+broadcasting,broadcasting,0.0,0.0,0.0,0.0
+checksum,checksum,0.0,0.0,0.0,0.0
+buffer,buffer,0.0,0.0,0.0,0.0
+link,link,0.0,0.0,0.0,0.0
+multicast,multicast,0.0,0.0,0.0,0.0
+virtual,virtual,2.0,0.0,2.0,0.0
+circuit,circuit,0.0,0.0,0.0,0.0
+maximum,maximum,2.0,2.0,2.0,0.0
+unit,unit,2.0,0.0,2.0,0.0
+micro,micro,0.0,0.0,0.0,0.0
+multiplexing,multiplexing,0.0,0.0,0.0,0.0
+slow,slow,0.0,0.0,0.0,0.0
+start,start,92.0,0.0,104.0,20.0
+multi,multi,2.0,0.0,2.0,0.0
+homing,homing,0.0,0.0,0.0,0.0
+appletalk,appletalk,0.0,0.0,0.0,0.0
+error,error,9.0,0.0,12.0,3.0
+detecting,detecting,0.0,0.0,2.0,0.0
+code,code,0.0,0.0,20.0,0.0
+explicit,explicit,0.0,0.0,0.0,0.0
+congestion,congestion,0.0,0.0,0.0,0.0
+notification,notification,0.0,0.0,0.0,0.0
+fibre,fibre,0.0,0.0,1.0,0.0
+channel,channel,0.0,0.0,0.0,0.0
+internet,internet,0.0,0.0,26.0,2.0
+protocols,protocols,0.0,0.0,0.0,0.0
+udp,udp,0.0,0.0,0.0,0.0
+lite,lite,0.0,0.0,0.0,0.0
+nack,nack,0.0,0.0,0.0,0.0
+oriented,oriented,0.0,0.0,0.0,0.0
+application,application,0.0,0.0,18.0,2.0
+software,software,9.0,0.0,9.0,0.0
+automatic,automatic,0.0,0.0,0.0,0.0
+repeat,repeat,0.0,0.0,0.0,0.0
+request,request,12.0,1.0,18.0,0.0
+underrun,underrun,0.0,0.0,0.0,0.0
+datagram,datagram,0.0,0.0,0.0,0.0
+connection,connection,0.0,0.0,0.0,0.0
+communication,communication,0.0,0.0,0.0,0.0
+user,user,0.0,0.0,3.0,0.0
+service,service,4.0,0.0,4.0,0.0
+socket,socket,0.0,0.0,0.0,0.0
+http,http,0.0,0.0,0.0,0.0
+suite,suite,0.0,0.0,0.0,0.0
+negative,negative,2.0,0.0,2.0,0.0
+acknowledge,acknowledge,0.0,0.0,0.0,0.0
+character,character,0.0,0.0,0.0,0.0
+congestive,congestive,0.0,0.0,0.0,0.0
+collapse,collapse,0.0,0.0,0.0,0.0
+cyclic,cyclic,0.0,0.0,0.0,0.0
+stateful,stateful,0.0,0.0,0.0,0.0
+design,design,0.0,0.0,0.0,0.0
+detection,detection,2.0,1.0,2.0,0.0
+recovery,recovery,0.0,0.0,0.0,0.0
+ip,ip,0.0,0.0,0.0,0.0
+port,port,0.0,0.0,0.0,0.0
+avoidance,avoidance,0.0,0.0,0.0,0.0
+packet,packet,0.0,0.0,0.0,0.0
+information,information,1.0,0.0,1.0,0.0
+technology,technology,0.0,0.0,0.0,0.0
+statistical,statistical,0.0,0.0,0.0,0.0
+file,file,18.0,0.0,18.0,0.0
+analysis,analysis,0.0,0.0,0.0,0.0
+open,open,6.0,0.0,6.0,0.0
+shortest,shortest,0.0,0.0,0.0,0.0
+path,path,42.0,0.0,44.0,6.0
+first,first,18.0,0.0,18.0,0.0
+delivery,delivery,0.0,0.0,0.0,0.0
+exterior,exterior,0.0,0.0,0.0,0.0
+gateway,gateway,0.0,0.0,0.0,0.0
+forwarding,forwarding,0.0,0.0,0.0,0.0
+host,host,0.0,0.0,0.0,0.0
+message,message,10.0,0.0,32.0,6.0
+independent,independent,0.0,0.0,0.0,0.0
+ipsec,ipsec,0.0,0.0,0.0,0.0
+group,group,0.0,0.0,0.0,0.0
+management,management,0.0,0.0,0.0,0.0
+internetwork,internetwork,0.0,0.0,0.0,0.0
+exchange,exchange,0.0,0.0,6.0,0.0
+connectionless,connectionless,0.0,0.0,0.0,0.0
+enhanced,enhanced,1.0,0.0,1.0,0.0
+interior,interior,0.0,0.0,0.0,0.0
+routing,routing,0.0,0.0,0.0,0.0
+decnet,decnet,0.0,0.0,0.0,0.0
+remote,remote,0.0,0.0,46.0,1.0
+procedure,procedure,0.0,0.0,0.0,0.0
+call,call,0.0,0.0,26.0,2.0
+short,short,6.0,0.0,10.0,0.0
+peer,peer,0.0,0.0,0.0,0.0
+sockets,sockets,0.0,0.0,0.0,0.0
+direct,direct,6.0,0.0,6.0,0.0
+enterprise,enterprise,0.0,0.0,0.0,0.0
+javabeans,javabeans,0.0,0.0,0.0,0.0
+authentication,authentication,0.0,0.0,0.0,0.0
+authorization,authorization,0.0,0.0,0.0,0.0
+netbios,netbios,0.0,0.0,0.0,0.0
+lip,lip,0.0,0.0,0.0,0.0
+sync,sync,0.0,0.0,0.0,0.0
+duplex,duplex,0.0,0.0,0.0,0.0
+telecommunications,telecommunications,0.0,0.0,0.0,0.0
+password,password,0.0,0.0,0.0,0.0
+presentation,presentation,1.0,0.0,1.0,0.0
+web,web,0.0,0.0,0.0,0.0
+conferencing,conferencing,0.0,0.0,0.0,0.0
+socks,socks,0.0,0.0,0.0,0.0
+session,session,0.0,0.0,0.0,0.0
+science,science,0.0,0.0,0.0,0.0
+zone,zone,0.0,0.0,1.0,0.0
+checkpointing,checkpointing,0.0,0.0,0.0,0.0
+isns,isns,0.0,0.0,0.0,0.0
+tp,tp,0.0,0.0,0.0,0.0
+reference,reference,6.0,0.0,6.0,0.0
+live,live,0.0,0.0,0.0,0.0
+tv,tv,3.0,0.0,3.0,0.0
+pptp,pptp,0.0,0.0,0.0,0.0
+rtcp,rtcp,0.0,0.0,0.0,0.0
+synchronization,synchronization,0.0,0.0,0.0,0.0
+point,point,9.0,0.0,14.0,0.0
+restoration,restoration,0.0,0.0,0.0,0.0
+scripting,scripting,0.0,0.0,0.0,0.0
+language,language,0.0,0.0,0.0,0.0
+compiled,compiled,0.0,0.0,0.0,0.0
+binary,binary,0.0,0.0,0.0,0.0
+interface,interface,4.0,0.0,4.0,0.0
+hardware,hardware,0.0,0.0,0.0,0.0
+object,object,63.0,0.0,75.0,12.0
+separation,separation,0.0,0.0,0.0,0.0
+concerns,concerns,0.0,0.0,0.0,0.0
+engineering,engineering,0.0,0.0,0.0,0.0
+assembly,assembly,0.0,0.0,0.0,0.0
+architecture,architecture,0.0,0.0,0.0,0.0
+plotter,plotter,0.0,0.0,0.0,0.0
+protection,protection,0.0,0.0,0.0,0.0
+ring,ring,0.0,0.0,0.0,0.0
+interoperability,interoperability,0.0,0.0,0.0,0.0
+fundamental,fundamental,0.0,0.0,0.0,0.0
+theorem,theorem,0.0,0.0,3.0,0.0
+graphics,graphics,0.0,0.0,0.0,0.0
+library,library,0.0,0.0,0.0,0.0
+opengl,opengl,0.0,0.0,0.0,0.0
+hiding,hiding,0.0,0.0,0.0,0.0
+tube,tube,0.0,0.0,0.0,0.0
+conceptual,conceptual,0.0,0.0,0.0,0.0
+interpreted,interpreted,0.0,0.0,0.0,0.0
+operating,operating,0.0,0.0,0.0,0.0
+system,system,4.0,0.0,4.0,0.0
+platform,platform,0.0,0.0,0.0,0.0
+independence,independence,0.0,0.0,0.0,0.0
+primitive,primitive,0.0,0.0,0.0,0.0
+programmable,programmable,0.0,0.0,0.0,0.0
+logic,logic,0.0,0.0,0.0,0.0
+display,display,100.0,0.0,100.0,0.0
+machine,machine,0.0,0.0,0.0,0.0
+synchronous,synchronous,0.0,0.0,0.0,0.0
+optical,optical,0.0,0.0,0.0,0.0
+abstract,abstract,0.0,0.0,0.0,0.0
+syntax,syntax,0.0,0.0,0.0,0.0
+notation,notation,0.0,0.0,0.0,0.0
+logical,logical,0.0,0.0,0.0,0.0
+models,models,0.0,0.0,0.0,0.0
+radio,radio,0.0,0.0,0.0,0.0
+resource,resource,6.0,0.0,44.0,10.0
+real,real,0.0,0.0,0.0,0.0
+time,time,80.0,0.0,130.0,10.0
+operations,operations,0.0,0.0,0.0,0.0
+table,table,0.0,0.0,0.0,0.0
+maintenance,maintenance,0.0,0.0,0.0,0.0
+segmentation,segmentation,0.0,0.0,0.0,0.0
+security,security,0.0,0.0,0.0,0.0
+telecommunication,telecommunication,0.0,0.0,0.0,0.0
+advertising,advertising,0.0,0.0,0.0,0.0
+announcement,announcement,0.0,0.0,0.0,0.0
+signalling,signalling,0.0,0.0,0.0,0.0
+part,part,0.0,0.0,0.0,0.0
+digital,digital,0.0,0.0,0.0,0.0
+hierarchy,hierarchy,0.0,0.0,0.0,0.0
+systems,systems,0.0,0.0,1.0,0.0
+ethernet,ethernet,0.0,0.0,0.0,0.0
+framing,framing,0.0,0.0,0.0,0.0
+broadcast,broadcast,0.0,0.0,0.0,0.0
+slip,slip,0.0,0.0,0.0,0.0
+zip,zip,0.0,0.0,0.0,0.0
+format,format,14.0,0.0,14.0,0.0
+physical,physical,0.0,0.0,0.0,0.0
+multiprotocol,multiprotocol,0.0,0.0,0.0,0.0
+label,label,0.0,0.0,0.0,0.0
+switching,switching,0.0,0.0,0.0,0.0
+basic,basic,0.0,0.0,0.0,0.0
+encoding,encoding,0.0,0.0,0.0,0.0
+rules,rules,0.0,0.0,0.0,0.0
+bit,bit,0.0,0.0,0.0,0.0
+bluetooth,bluetooth,0.0,0.0,0.0,0.0
+related,related,0.0,0.0,2.0,0.0
+introductions,introductions,0.0,0.0,0.0,0.0
+stuffing,stuffing,0.0,0.0,0.0,0.0
+streaming,streaming,0.0,0.0,0.0,0.0
+media,media,0.0,0.0,0.0,0.0
+transaction,transaction,0.0,0.0,78.0,0.0
+capabilities,capabilities,0.0,0.0,0.0,0.0
+portable,portable,0.0,0.0,0.0,0.0
+document,document,0.0,0.0,0.0,0.0
+isdn,isdn,0.0,0.0,0.0,0.0
+phonenet,phonenet,0.0,0.0,0.0,0.0
+frames,frames,0.0,0.0,14.0,0.0
+base,base,10.0,0.0,12.0,0.0
+iso,iso,0.0,0.0,0.0,0.0
+standards,standards,0.0,0.0,0.0,0.0
+itu,itu,0.0,0.0,0.0,0.0
+recommendations,recommendations,0.0,0.0,0.0,0.0
+usb,usb,0.0,0.0,0.0,0.0
+npl,npl,0.0,0.0,0.0,0.0
+national,national,0.0,0.0,0.0,0.0
+centre,centre,0.0,0.0,12.0,0.0
+neighbor,neighbor,0.0,0.0,0.0,0.0
+discovery,discovery,0.0,0.0,0.0,0.0
+driver,driver,0.0,0.0,3.0,0.0
+specification,specification,0.0,0.0,0.0,0.0
+nortel,nortel,0.0,0.0,0.0,0.0
+hierarchical,hierarchical,0.0,0.0,0.0,0.0
+internetworking,internetworking,0.0,0.0,0.0,0.0
+arpanet,arpanet,0.0,0.0,0.0,0.0
+ascii,ascii,0.0,0.0,0.0,0.0
+bus,bus,0.0,0.0,0.0,0.0
+cisco,cisco,0.0,0.0,0.0,0.0
+structure,structure,0.0,0.0,0.0,0.0
+equipment,equipment,0.0,0.0,0.0,0.0
+corporation,corporation,0.0,0.0,0.0,0.0
+subscriber,subscriber,0.0,0.0,0.0,0.0
+directory,directory,0.0,0.0,1.0,0.0
+concatenation,concatenation,0.0,0.0,0.0,0.0
+confidentiality,confidentiality,0.0,0.0,0.0,0.0
+stack,stack,0.0,0.0,0.0,0.0
+simplex,simplex,0.0,0.0,22.0,0.0
+standardization,standardization,0.0,0.0,0.0,0.0
+websocket,websocket,0.0,0.0,0.0,0.0
+cyclades,cyclades,0.0,0.0,0.0,0.0
+common,common,0.0,0.0,0.0,0.0
+docsis,docsis,0.0,0.0,0.0,0.0
+modbus,modbus,0.0,0.0,0.0,0.0
+distributed,distributed,0.0,0.0,0.0,0.0
+mpeg,mpeg,0.0,0.0,0.0,0.0
+signaling,signaling,0.0,0.0,0.0,0.0
+tabbed,tabbed,0.0,0.0,0.0,0.0
+zigbee,zigbee,0.0,0.0,0.0,0.0
+cons,cons,0.0,0.0,0.0,0.0
+iec,iec,0.0,0.0,0.0,0.0
+organization,organization,0.0,0.0,0.0,0.0
+pdcp,pdcp,0.0,0.0,0.0,0.0
+localtalk,localtalk,0.0,0.0,0.0,0.0
+recursive,recursive,0.0,0.0,0.0,0.0
+gosip,gosip,0.0,0.0,0.0,0.0
+working,working,1.0,0.0,2.0,0.0
+cookies,cookies,0.0,0.0,0.0,0.0
+half,half,0.0,0.0,0.0,0.0
+hdlc,hdlc,0.0,0.0,0.0,0.0
+ethertalk,ethertalk,0.0,0.0,0.0,0.0
+plane,plane,0.0,0.0,0.0,0.0
+sequenced,sequenced,0.0,0.0,1.0,0.0
+correction,correction,0.0,0.0,0.0,0.0
+tokentalk,tokentalk,0.0,0.0,0.0,0.0
+named,named,0.0,0.0,28.0,4.0
+pipes,pipes,0.0,0.0,0.0,0.0
+accessibility,accessibility,0.0,0.0,0.0,0.0
+gui,gui,0.0,0.0,0.0,0.0
+pseudolocalization,pseudolocalization,0.0,0.0,0.0,0.0
+sql,sql,0.0,0.0,0.0,0.0
+testbed,testbed,0.0,0.0,1.0,0.0
+performance,performance,0.0,0.0,1.0,0.0
+scalability,scalability,0.0,0.0,0.0,0.0
+debugger,debugger,0.0,0.0,0.0,0.0
+breakpoint,breakpoint,0.0,0.0,0.0,0.0
+currency,currency,0.0,0.0,3.0,0.0
+database,database,0.0,0.0,0.0,0.0
+maintainability,maintainability,0.0,0.0,0.0,0.0
+failure,failure,0.0,0.0,0.0,0.0
+feedback,feedback,0.0,0.0,0.0,0.0
+usability,usability,0.0,0.0,0.0,0.0
+outsourcing,outsourcing,0.0,0.0,0.0,0.0
+software,software,9.0,0.0,9.0,0.0
+hypervisor,hypervisor,0.0,0.0,0.0,0.0
+porting,porting,0.0,0.0,0.0,0.0
+blackbox,blackbox,0.0,0.0,0.0,0.0
+iso,iso,0.0,0.0,0.0,0.0
+prototype,prototype,0.0,0.0,0.0,0.0
+devops,devops,0.0,0.0,0.0,0.0
+deliverable,deliverable,0.0,0.0,0.0,0.0
+methodology,methodology,0.0,0.0,0.0,0.0
+openup,openup,0.0,0.0,0.0,0.0
+requirement,requirement,0.0,0.0,0.0,0.0
+illusion,illusion,0.0,0.0,0.0,0.0
+togaf,togaf,0.0,0.0,0.0,0.0
+dependability,dependability,0.0,0.0,0.0,0.0
+security,security,0.0,0.0,0.0,0.0
+gqm,gqm,0.0,0.0,0.0,0.0
+debugging,debugging,0.0,0.0,0.0,0.0
+availability,availability,0.0,0.0,0.0,0.0
+ifpug,ifpug,0.0,0.0,0.0,0.0
+cisq,cisq,0.0,0.0,0.0,0.0
+ubiquitous binary,ubiquitous binary,0.0,0.0,0.0,0.0
+pan cake,pan cake,0.0,0.0,0.0,0.0
+beam stack,beam stack,0.0,0.0,0.0,0.0
+best first,best first,0.0,0.0,0.0,0.0
+bloom filter,bloom filter,0.0,0.0,0.0,0.0
+breadth first,breadth first,0.0,0.0,0.0,0.0
+brute force,brute force,0.0,0.0,0.0,0.0
+depth first,depth first,0.0,0.0,0.0,0.0
+jump point,jump point,0.0,0.0,2.0,0.0
+uniform cost,uniform cost,0.0,0.0,0.0,0.0
+topological sort,topological sort,0.0,0.0,0.0,0.0
+state space,state space,0.0,0.0,6.0,0.0
+pure heuristic,pure heuristic,0.0,0.0,0.0,0.0
+hill climbing,hill climbing,0.0,0.0,0.0,0.0
+local beam,local beam,0.0,0.0,0.0,0.0
+simulated annealing,simulated annealing,0.0,0.0,0.0,0.0
+belief propagation,belief propagation,0.0,0.0,0.0,0.0
+ubiquitous binary,ubiquitous binary,0.0,0.0,0.0,0.0
+cartesian tree,cartesian tree,0.0,0.0,0.0,0.0
+breadth first,breadth first,0.0,0.0,0.0,0.0
+bi directional,bi directional,0.0,0.0,0.0,0.0
+iterative deepening,iterative deepening,0.0,0.0,0.0,0.0
+lexicographic breadthfirst,lexicographic breadthfirst,0.0,0.0,0.0,0.0
+depthfirst traversal,depthfirst traversal,0.0,0.0,0.0,0.0
+iterativedeepening a-star,iterativedeepening a-star,0.0,0.0,0.0,0.0
+travellingsalesman problem,travellingsalesman problem,0.0,0.0,0.0,0.0
+greedy breathfirst,greedy breathfirst,0.0,0.0,0.0,0.0
+linear probing,linear probing,0.0,0.0,0.0,0.0
+quadratic probing,quadratic probing,0.0,0.0,0.0,0.0
+double hashing,double hashing,0.0,0.0,4.0,0.0
+minimum hashing,minimum hashing,0.0,0.0,0.0,0.0
+maximum hashing,maximum hashing,0.0,0.0,0.0,0.0
+maximal hashing,maximal hashing,0.0,0.0,0.0,0.0
+rolling hash,rolling hash,0.0,0.0,0.0,0.0
+bloom filt,bloom filt,0.0,0.0,0.0,0.0
+hill climb,hill climb,0.0,0.0,0.0,0.0
+simulated ann,simulated ann,0.0,0.0,0.0,0.0
+double hash,double hash,0.0,0.0,4.0,0.0
+minimum hash,minimum hash,0.0,0.0,0.0,0.0
+maximum hash,maximum hash,0.0,0.0,0.0,0.0
+maximal hash,maximal hash,0.0,0.0,0.0,0.0
+weak entity,weak entity,0.0,0.0,0.0,0.0
+er diagram,er diagram,0.0,0.0,0.0,0.0
+domain constraints,domain constraints,0.0,0.0,1.0,0.0
+key constraints,key constraints,0.0,0.0,0.0,0.0
+referencial integrity,referencial integrity,0.0,0.0,0.0,0.0
+constraints voilations,constraints voilations,0.0,0.0,0.0,0.0
+er diagram,er diagram,0.0,0.0,0.0,0.0
+referential integrity,referential integrity,0.0,0.0,0.0,0.0
+partial key,partial key,0.0,0.0,0.0,0.0
+primary key,primary key,0.0,0.0,0.0,0.0
+foreign key,foreign key,0.0,0.0,0.0,0.0
+functional dependencies,functional dependencies,0.0,0.0,0.0,0.0
+closure set,closure set,0.0,0.0,0.0,0.0
+sub relation,sub relation,0.0,0.0,0.0,0.0
+minimal cover,minimal cover,0.0,0.0,0.0,0.0
+lossless decomposition,lossless decomposition,0.0,0.0,0.0,0.0
+lossy decomposition,lossy decomposition,0.0,0.0,0.0,0.0
+dependency preserving,dependency preserving,0.0,0.0,0.0,0.0
+cartesian product,cartesian product,0.0,0.0,0.0,0.0
+natural join,natural join,0.0,0.0,0.0,0.0
+complete set,complete set,0.0,0.0,0.0,0.0
+join types,join types,0.0,0.0,0.0,0.0
+generalized projection,generalized projection,0.0,0.0,0.0,0.0
+aggregate function,aggregate function,0.0,0.0,0.0,0.0
+free variable,free variable,0.0,0.0,0.0,0.0
+bounded variable,bounded variable,0.0,0.0,0.0,0.0
+create table,create table,0.0,0.0,0.0,0.0
+pattern matching,pattern matching,0.0,0.0,0.0,0.0
+set operations,set operations,0.0,0.0,0.0,0.0
+order by,order by,0.0,0.0,0.0,0.0
+null values,null values,0.0,0.0,1.0,0.0
+exist in,exist in,0.0,0.0,0.0,0.0
+for any,for any,0.0,0.0,1.0,0.0
+for some,for some,0.0,0.0,1.0,0.0
+for all,for all,0.0,0.0,0.0,0.0
+not exists,not exists,0.0,0.0,0.0,0.0
+aggregate functions,aggregate functions,0.0,0.0,0.0,0.0
+group by,group by,0.0,0.0,0.0,0.0
+having clause,having clause,0.0,0.0,0.0,0.0
+data type,data type,0.0,0.0,5.0,0.0
+acid properties,acid properties,0.0,0.0,4.0,0.0
+lost update,lost update,0.0,0.0,0.0,0.0
+unrepeatable read,unrepeatable read,0.0,0.0,0.0,0.0
+phantom problem,phantom problem,0.0,0.0,0.0,0.0
+serial schedules,serial schedules,0.0,0.0,0.0,0.0
+complete schedule,complete schedule,0.0,0.0,2.0,0.0
+recoverable schedule,recoverable schedule,0.0,0.0,2.0,0.0
+strict schedule,strict schedule,0.0,0.0,2.0,0.0
+view serializability,view serializability,0.0,0.0,107.0,0.0
+strict 2pl,strict 2pl,0.0,0.0,0.0,0.0
+rigerious 2pl,rigerious 2pl,0.0,0.0,0.0,0.0
+conservative 2pl,conservative 2pl,0.0,0.0,0.0,0.0
+primary index,primary index,0.0,0.0,4.0,0.0
+clustering index,clustering index,0.0,0.0,4.0,0.0
+secondary index,secondary index,0.0,0.0,4.0,0.0
+single valued,single valued,0.0,0.0,0.0,0.0
+cardinality ratio,cardinality ratio,0.0,0.0,1.0,0.0
+partial participation,partial participation,0.0,0.0,0.0,0.0
+total participation,total participation,0.0,0.0,0.0,0.0
+structural constraints,structural constraints,0.0,0.0,0.0,0.0
+b trees,b trees,0.0,0.0,0.0,0.0
+recursive relationship,recursive relationship,0.0,0.0,0.0,0.0
+indentifying relationship,indentifying relationship,0.0,0.0,0.0,0.0
+weak entity,weak entity,0.0,0.0,0.0,0.0
+stong entity,stong entity,0.0,0.0,0.0,0.0
+key constraints,key constraints,0.0,0.0,0.0,0.0
+referencial integrity,referencial integrity,0.0,0.0,0.0,0.0
+constraints voilations,constraints voilations,0.0,0.0,0.0,0.0
+super key,super key,0.0,0.0,8.0,0.0
+candidate key,candidate key,0.0,0.0,0.0,0.0
+primary key,primary key,0.0,0.0,0.0,0.0
+entity constraints,entity constraints,0.0,0.0,0.0,0.0
+prime attribute,prime attribute,0.0,0.0,0.0,0.0
+foreign key,foreign key,0.0,0.0,0.0,0.0
+null value,null value,0.0,0.0,1.0,0.0
+set null,set null,0.0,0.0,6.0,0.0
+referential triggered,referential triggered,0.0,0.0,0.0,0.0
+meterialised view,meterialised view,0.0,0.0,107.0,0.0
+xml schema,xml schema,0.0,0.0,0.0,0.0
+schema integration,schema integration,0.0,0.0,0.0,0.0
+overlap preservation,overlap preservation,0.0,0.0,0.0,0.0
+schema object,schema object,0.0,0.0,7.0,0.0
+sub schema,sub schema,0.0,0.0,0.0,0.0
+weak entity,weak entity,0.0,0.0,0.0,0.0
+strong entity,strong entity,0.0,0.0,0.0,0.0
+identifying relationship,identifying relationship,0.0,0.0,0.0,0.0
+total participation,total participation,0.0,0.0,0.0,0.0
+partial participation,partial participation,0.0,0.0,0.0,0.0
+foreign key,foreign key,0.0,0.0,0.0,0.0
+data quality,data quality,0.0,0.0,0.0,0.0
+data validation,data validation,0.0,0.0,0.0,0.0
+data corruption,data corruption,0.0,0.0,0.0,0.0
+data security,data security,0.0,0.0,0.0,0.0
+physical integrity,physical integrity,0.0,0.0,0.0,0.0
+logical intergrity,logical intergrity,0.0,0.0,0.0,0.0
+cyptographic function,cyptographic function,0.0,0.0,0.0,0.0
+hash function,hash function,0.0,0.0,0.0,0.0
+referential integrity,referential integrity,0.0,0.0,0.0,0.0
+entity integrity,entity integrity,0.0,0.0,0.0,0.0
+key constraint,key constraint,0.0,0.0,2.0,0.0
+check constraint,check constraint,0.0,0.0,3.0,0.0
+data retention,data retention,0.0,0.0,0.0,0.0
+partial dependency,partial dependency,0.0,0.0,0.0,0.0
+candidate keys,candidate keys,0.0,0.0,0.0,0.0
+super key,super key,0.0,0.0,8.0,0.0
+prime attributes,prime attributes,0.0,0.0,2.0,0.0
+super key,super key,0.0,0.0,8.0,0.0
+cartesian product,cartesian product,0.0,0.0,0.0,0.0
+selection operation,selection operation,0.0,0.0,6.0,0.0
+natural join,natural join,0.0,0.0,0.0,0.0
+outer join,outer join,0.0,0.0,0.0,0.0
+binary float,binary float,0.0,0.0,12.0,0.0
+long raw,long raw,0.0,0.0,0.0,0.0
+union all,union all,0.0,0.0,0.0,0.0
+intersect all,intersect all,0.0,0.0,0.0,0.0
+except all,except all,0.0,0.0,0.0,0.0
+partially commited,partially commited,0.0,0.0,0.0,0.0
+lost update,lost update,0.0,0.0,0.0,0.0
+unrepeatable read,unrepeatable read,0.0,0.0,0.0,0.0
+phantom problem,phantom problem,0.0,0.0,0.0,0.0
+serial schedules,serial schedules,0.0,0.0,0.0,0.0
+complete schedule,complete schedule,0.0,0.0,2.0,0.0
+recoverable schedule,recoverable schedule,0.0,0.0,2.0,0.0
+strict schedule,strict schedule,0.0,0.0,2.0,0.0
+non strict,non strict,0.0,0.0,0.0,0.0
+result equivalent,result equivalent,0.0,0.0,1.0,0.0
+conflict equivalent,conflict equivalent,0.0,0.0,0.0,0.0
+view equivalent,view equivalent,0.0,0.0,107.0,0.0
+blind write,blind write,0.0,0.0,0.0,0.0
+strict 2pl,strict 2pl,0.0,0.0,0.0,0.0
+rigerious 2pl,rigerious 2pl,0.0,0.0,0.0,0.0
+conservative 2pl,conservative 2pl,0.0,0.0,0.0,0.0
+growing phase,growing phase,0.0,0.0,0.0,0.0
+shrinking phase,shrinking phase,0.0,0.0,0.0,0.0
+tree protocol,tree protocol,0.0,0.0,0.0,0.0
+shared locks,shared locks,0.0,0.0,0.0,0.0
+exclusive lock,exclusive lock,0.0,0.0,0.0,0.0
+primary key,primary key,0.0,0.0,0.0,0.0
+secondary key,secondary key,0.0,0.0,0.0,0.0
+composite key,composite key,0.0,0.0,0.0,0.0
+alternate key,alternate key,0.0,0.0,0.0,0.0
+foreign key,foreign key,0.0,0.0,0.0,0.0
+candidate key,candidate key,0.0,0.0,0.0,0.0
+super key,super key,0.0,0.0,8.0,0.0
+unique key,unique key,0.0,0.0,0.0,0.0
+process state,process state,0.0,0.0,5.0,0.0
+transition diagram,transition diagram,0.0,0.0,0.0,0.0
+process queues,process queues,0.0,0.0,0.0,0.0
+various times,various times,0.0,0.0,0.0,0.0
+cpu scheduling,cpu scheduling,0.0,0.0,0.0,0.0
+round robin,round robin,0.0,0.0,0.0,0.0
+priority scheduling,priority scheduling,0.0,0.0,2.0,0.0
+non preemptive,non preemptive,0.0,0.0,0.0,0.0
+cpu time,cpu time,0.0,0.0,0.0,0.0
+io time,io time,0.0,0.0,1.0,0.0
+feedback queue,feedback queue,0.0,0.0,0.0,0.0
+computer program,computer program,0.0,0.0,0.0,0.0
+time sharing,time sharing,0.0,0.0,0.0,0.0
+cpu time,cpu time,0.0,0.0,0.0,0.0
+i/o time,i/o time,0.0,0.0,1.0,0.0
+lock variable,lock variable,0.0,0.0,0.0,0.0
+round robin,round robin,0.0,0.0,0.0,0.0
+disabling interrupts,disabling interrupts,0.0,0.0,0.0,0.0
+trun variable,trun variable,0.0,0.0,0.0,0.0
+strict alteration,strict alteration,0.0,0.0,0.0,0.0
+interested variable,interested variable,0.0,0.0,0.0,0.0
+petersons solution,petersons solution,0.0,0.0,0.0,0.0
+busy waiting,busy waiting,0.0,0.0,0.0,0.0
+counting semaphores,counting semaphores,0.0,0.0,0.0,0.0
+binary semaphores,binary semaphores,0.0,0.0,0.0,0.0
+dining philosophers,dining philosophers,0.0,0.0,0.0,0.0
+concurrent processes,concurrent processes,0.0,0.0,0.0,0.0
+necessary conditions,necessary conditions,0.0,0.0,0.0,0.0
+handling mechanism,handling mechanism,0.0,0.0,0.0,0.0
+deadlock prevention,deadlock prevention,0.0,0.0,0.0,0.0
+deadlock avoidance,deadlock avoidance,0.0,0.0,0.0,0.0
+bankers algorithm,bankers algorithm,0.0,0.0,0.0,0.0
+mutual exclusion,mutual exclusion,0.0,0.0,0.0,0.0
+no premption,no premption,0.0,0.0,0.0,0.0
+circular wait,circular wait,0.0,0.0,0.0,0.0
+real time,real time,0.0,0.0,0.0,0.0
+multi user,multi user,0.0,0.0,0.0,0.0
+suspend ready,suspend ready,0.0,0.0,0.0,0.0
+suspend wait,suspend wait,0.0,0.0,0.0,0.0
+i/o completion,i/o completion,0.0,0.0,1.0,0.0
+i/o request,i/o request,0.0,0.0,9.0,0.0
+long term,long term,0.0,0.0,0.0,0.0
+short term,short term,0.0,0.0,0.0,0.0
+medium term,medium term,0.0,0.0,0.0,0.0
+switching context,switching context,0.0,0.0,12.0,0.0
+round robin,round robin,0.0,0.0,0.0,0.0
+priority scheduling,priority scheduling,0.0,0.0,2.0,0.0
+critical section,critical section,0.0,0.0,0.0,0.0
+race condition,race condition,0.0,0.0,0.0,0.0
+entry section,entry section,0.0,0.0,15.0,0.0
+exit section,exit section,0.0,0.0,18.0,0.0
+mutual exclusion,mutual exclusion,0.0,0.0,0.0,0.0
+bounded waiting,bounded waiting,0.0,0.0,0.0,0.0
+busy waiting,busy waiting,0.0,0.0,0.0,0.0
+lock variable,lock variable,0.0,0.0,0.0,0.0
+text segment,text segment,0.0,0.0,1.0,0.0
+data segment,data segment,0.0,0.0,0.0,0.0
+relocation information,relocation information,0.0,0.0,1.0,0.0
+symbol table,symbol table,0.0,0.0,0.0,0.0
+debugging information,debugging information,0.0,0.0,1.0,0.0
+fixed partitioning,fixed partitioning,0.0,0.0,0.0,0.0
+internal fragmentation,internal fragmentation,0.0,0.0,0.0,0.0
+external fragmentation,external fragmentation,0.0,0.0,0.0,0.0
+limit register,limit register,0.0,0.0,0.0,0.0
+relocation register,relocation register,0.0,0.0,0.0,0.0
+fcfs scheduling,fcfs scheduling,0.0,0.0,0.0,0.0
+sstf scheduling,sstf scheduling,0.0,0.0,0.0,0.0
+seek time,seek time,0.0,0.0,0.0,0.0
+ex or,ex or,0.0,0.0,0.0,0.0
+ex nor,ex nor,0.0,0.0,0.0,0.0
+half adder,half adder,0.0,0.0,0.0,0.0
+full adder,full adder,0.0,0.0,0.0,0.0
+half subtracter,half subtracter,0.0,0.0,0.0,0.0
+full subtracter,full subtracter,0.0,0.0,0.0,0.0
+functionally completeness,functionally completeness,0.0,0.0,0.0,0.0
+enable inputs,enable inputs,0.0,0.0,0.0,0.0
+select lines,select lines,0.0,0.0,3.0,0.0
+cascading multiplexers,cascading multiplexers,0.0,0.0,0.0,0.0
+code conversion,code conversion,0.0,0.0,27.0,0.0
+address expansion,address expansion,0.0,0.0,0.0,0.0
+word expansion,word expansion,0.0,0.0,0.0,0.0
+adress range,adress range,0.0,0.0,0.0,0.0
+priority encoder,priority encoder,0.0,0.0,2.0,0.0
+test vectors,test vectors,0.0,0.0,0.0,0.0
+hybrid adder,hybrid adder,0.0,0.0,0.0,0.0
+serial adder,serial adder,0.0,0.0,0.0,0.0
+binary adder,binary adder,0.0,0.0,0.0,0.0
+bcd adder,bcd adder,0.0,0.0,0.0,0.0
+sr flipflop,sr flipflop,0.0,0.0,0.0,0.0
+clocked flipflop,clocked flipflop,0.0,0.0,0.0,0.0
+edge triggered,edge triggered,0.0,0.0,0.0,0.0
+jk flipflop,jk flipflop,0.0,0.0,0.0,0.0
+inter conversion,inter conversion,0.0,0.0,0.0,0.0
+asynchronus counter,asynchronus counter,0.0,0.0,0.0,0.0
+synchronus counter,synchronus counter,0.0,0.0,0.0,0.0
+shift counter,shift counter,0.0,0.0,3.0,0.0
+counting state,counting state,0.0,0.0,5.0,0.0
+squence generation,squence generation,0.0,0.0,0.0,0.0
+clock frequency,clock frequency,0.0,0.0,0.0,0.0
+self starting,self starting,0.0,0.0,0.0,0.0
+free running,free running,0.0,0.0,0.0,0.0
+combinational circuits,combinational circuits,0.0,0.0,0.0,0.0
+shift reguster,shift reguster,0.0,0.0,3.0,0.0
+gray convertor,gray convertor,0.0,0.0,0.0,0.0
+2' complement,2' complement,0.0,0.0,5.0,0.0
+counting sequence,counting sequence,0.0,0.0,0.0,0.0
+bit sequence,bit sequence,0.0,0.0,0.0,0.0
+switching algebra,switching algebra,0.0,0.0,0.0,0.0
+switchiing expression,switchiing expression,0.0,0.0,0.0,0.0
+demordans law,demordans law,0.0,0.0,0.0,0.0
+switching function,switching function,0.0,0.0,0.0,0.0
+neutral function,neutral function,0.0,0.0,0.0,0.0
+venn diagram,venn diagram,0.0,0.0,0.0,0.0
+contact representation,contact representation,0.0,0.0,0.0,0.0
+nested function,nested function,0.0,0.0,3.0,0.0
+logic gates,logic gates,0.0,0.0,0.0,0.0
+functionally completeness,functionally completeness,0.0,0.0,0.0,0.0
+self dual,self dual,0.0,0.0,0.0,0.0
+electronics gates,electronics gates,0.0,0.0,0.0,0.0
+venn diagram,venn diagram,0.0,0.0,0.0,0.0
+gray code,gray code,0.0,0.0,0.0,0.0
+identify law,identify law,0.0,0.0,0.0,0.0
+complement law,complement law,0.0,0.0,0.0,0.0
+idempotent law,idempotent law,0.0,0.0,0.0,0.0
+dominant law,dominant law,0.0,0.0,0.0,0.0
+involution law,involution law,0.0,0.0,0.0,0.0
+commutative law,commutative law,0.0,0.0,0.0,0.0
+associative law,associative law,0.0,0.0,0.0,0.0
+distributive law,distributive law,0.0,0.0,0.0,0.0
+demorgan's law,demorgan's law,0.0,0.0,3.0,0.0
+absorption law,absorption law,0.0,0.0,0.0,0.0
+single bit,single bit,0.0,0.0,0.0,0.0
+error correction,error correction,0.0,0.0,4.0,0.0
+hamming distance,hamming distance,0.0,0.0,0.0,0.0
+signal converter,signal converter,0.0,0.0,0.0,0.0
+liner encoders,liner encoders,0.0,0.0,0.0,0.0
+rotary encoders,rotary encoders,0.0,0.0,0.0,0.0
+position encoder,position encoder,0.0,0.0,350.0,0.0
+mathematical puzzle,mathematical puzzle,0.0,0.0,0.0,0.0
+genetic algorithm,genetic algorithm,0.0,0.0,0.0,0.0
+clock domains,clock domains,0.0,0.0,0.0,0.0
+inter conversion,inter conversion,0.0,0.0,0.0,0.0
+unsigned number,unsigned number,0.0,0.0,0.0,0.0
+signed number,signed number,0.0,0.0,0.0,0.0
+binary codes,binary codes,0.0,0.0,0.0,0.0
+8421 code,8421 code,0.0,0.0,0.0,0.0
+3321 code,3321 code,0.0,0.0,0.0,0.0
+bcd addition,bcd addition,0.0,0.0,0.0,0.0
+gray code,gray code,0.0,0.0,0.0,0.0
+error detection,error detection,0.0,0.0,9.0,0.0
+error correction,error correction,0.0,0.0,4.0,0.0
+hammming code,hammming code,0.0,0.0,0.0,0.0
+ieee standard,ieee standard,0.0,0.0,0.0,0.0
+single precision,single precision,0.0,0.0,0.0,0.0
+double precision,double precision,0.0,0.0,8.0,0.0
+binary multiplication,binary multiplication,0.0,0.0,0.0,0.0
+booth's algorithm,booth's algorithm,0.0,0.0,3.0,0.0
+fractional form,fractional form,0.0,0.0,0.0,0.0
+half subtracter,half subtracter,0.0,0.0,0.0,0.0
+full subtracter,full subtracter,0.0,0.0,0.0,0.0
+2's complement,2's complement,0.0,0.0,8.0,0.0
+combinational circuit,combinational circuit,0.0,0.0,0.0,0.0
+cascading multiplexers,cascading multiplexers,0.0,0.0,0.0,0.0
+electronic switch,electronic switch,0.0,0.0,6.0,0.0
+n inputs,n inputs,0.0,0.0,0.0,0.0
+one output,one output,0.0,0.0,0.0,0.0
+functionally complete,functionally complete,0.0,0.0,0.0,0.0
+select lines,select lines,0.0,0.0,3.0,0.0
+constant function,constant function,0.0,0.0,0.0,0.0
+differential voltage,differential voltage,0.0,0.0,0.0,0.0
+unipolar ttl/cmos,unipolar ttl/cmos,0.0,0.0,0.0,0.0
+p-n-p transistor,p-n-p transistor,0.0,0.0,0.0,0.0
+op-amp voltage,op-amp voltage,0.0,0.0,0.0,0.0
+linear mode,linear mode,0.0,0.0,1.0,0.0
+negative feedback,negative feedback,0.0,0.0,1.0,0.0
+slew rate,slew rate,0.0,0.0,0.0,0.0
+propagation delay,propagation delay,0.0,0.0,0.0,0.0
+one inputs,one inputs,0.0,0.0,0.0,0.0
+n output,n output,0.0,0.0,0.0,0.0
+electronic switch,electronic switch,0.0,0.0,6.0,0.0
+select lines,select lines,0.0,0.0,3.0,0.0
+straight connection,straight connection,0.0,0.0,0.0,0.0
+receiving end,receiving end,0.0,0.0,0.0,0.0
+cross connection,cross connection,0.0,0.0,0.0,0.0
+n input,n input,0.0,0.0,22.0,0.0
+2^n output,2^n output,0.0,0.0,5.0,0.0
+code conversion,code conversion,0.0,0.0,27.0,0.0
+address expansion,address expansion,0.0,0.0,0.0,0.0
+word expansion,word expansion,0.0,0.0,0.0,0.0
+n input,n input,0.0,0.0,22.0,0.0
+code conversion,code conversion,0.0,0.0,27.0,0.0
+priority encoder,priority encoder,0.0,0.0,2.0,0.0
+lossless compression,lossless compression,0.0,0.0,0.0,0.0
+interrupt service,interrupt service,0.0,0.0,0.0,0.0
+input activation,input activation,0.0,0.0,0.0,0.0
+sr flipflop,sr flipflop,0.0,0.0,0.0,0.0
+clocked flipflop,clocked flipflop,0.0,0.0,0.0,0.0
+edge triggered,edge triggered,0.0,0.0,0.0,0.0
+jk flipflop,jk flipflop,0.0,0.0,0.0,0.0
+8421 code,8421 code,0.0,0.0,0.0,0.0
+3321 code,3321 code,0.0,0.0,0.0,0.0
+bcd addition,bcd addition,0.0,0.0,0.0,0.0
+gray code,gray code,0.0,0.0,0.0,0.0
+error detection,error detection,0.0,0.0,9.0,0.0
+error correction,error correction,0.0,0.0,4.0,0.0
+hammming code,hammming code,0.0,0.0,0.0,0.0
+ieee standard,ieee standard,0.0,0.0,0.0,0.0
+single precision,single precision,0.0,0.0,0.0,0.0
+double precision,double precision,0.0,0.0,8.0,0.0
+digital communication,digital communication,0.0,0.0,0.0,0.0
+digital circuit,digital circuit,0.0,0.0,0.0,0.0
+weighted code,weighted code,0.0,0.0,0.0,0.0
+alphanumeric code,alphanumeric code,0.0,0.0,0.0,0.0
+cyclic code,cyclic code,0.0,0.0,0.0,0.0
+single bit,single bit,0.0,0.0,0.0,0.0
+signal converter,signal converter,0.0,0.0,0.0,0.0
+liner encoders,liner encoders,0.0,0.0,0.0,0.0
+rotary encoders,rotary encoders,0.0,0.0,0.0,0.0
+position encoder,position encoder,0.0,0.0,350.0,0.0
+mathematical puzzle,mathematical puzzle,0.0,0.0,0.0,0.0
+genetic algorithm,genetic algorithm,0.0,0.0,0.0,0.0
+clock domains,clock domains,0.0,0.0,0.0,0.0
+universal set,universal set,0.0,0.0,0.0,0.0
+finite set,finite set,0.0,0.0,0.0,0.0
+infinite set,infinite set,0.0,0.0,0.0,0.0
+singleton set,singleton set,0.0,0.0,0.0,0.0
+super set,super set,0.0,0.0,8.0,0.0
+disjoint set,disjoint set,0.0,0.0,0.0,0.0
+equivalent set,equivalent set,0.0,0.0,0.0,0.0
+equal sets,equal sets,0.0,0.0,0.0,0.0
+null sets,null sets,0.0,0.0,2.0,0.0
+overlapping sets,overlapping sets,0.0,0.0,0.0,0.0
+unit set,unit set,0.0,0.0,8.0,0.0
+ring sum,ring sum,0.0,0.0,0.0,0.0
+cartesian product,cartesian product,0.0,0.0,0.0,0.0
+commutative property,commutative property,0.0,0.0,0.0,0.0
+associative property,associative property,0.0,0.0,0.0,0.0
+demorgans law,demorgans law,0.0,0.0,0.0,0.0
+distributive law,distributive law,0.0,0.0,0.0,0.0
+domination law,domination law,0.0,0.0,0.0,0.0
+absorption law,absorption law,0.0,0.0,0.0,0.0
+identity law,identity law,0.0,0.0,0.0,0.0
+empty set,empty set,0.0,0.0,4.0,0.0
+power set,power set,0.0,0.0,0.0,0.0
+proper subset,proper subset,0.0,0.0,2.0,0.0
+venn diagram,venn diagram,0.0,0.0,0.0,0.0
+statement form,statement form,0.0,0.0,0.0,0.0
+tabular form,tabular form,0.0,0.0,0.0,0.0
+matrix addition,matrix addition,0.0,0.0,2.0,0.0
+matrix subtraction,matrix subtraction,0.0,0.0,2.0,0.0
+matrix multiplication,matrix multiplication,0.0,0.0,5.0,0.0
+upper triangular,upper triangular,0.0,0.0,0.0,0.0
+lower triangular,lower triangular,0.0,0.0,0.0,0.0
+null matrix,null matrix,0.0,0.0,4.0,0.0
+square matrix,square matrix,0.0,0.0,2.0,0.0
+complex matrix,complex matrix,0.0,0.0,2.0,0.0
+scalar matrix,scalar matrix,0.0,0.0,2.0,0.0
+identity matrix,identity matrix,0.0,0.0,2.0,0.0
+horizontal matrix,horizontal matrix,0.0,0.0,2.0,0.0
+vertical matrix,vertical matrix,0.0,0.0,4.0,0.0
+symmetric matrix,symmetric matrix,0.0,0.0,2.0,0.0
+zero matrix,zero matrix,0.0,0.0,2.0,0.0
+augmented matrix,augmented matrix,0.0,0.0,2.0,0.0
+row matrix,row matrix,0.0,0.0,2.0,0.0
+column matrix,column matrix,0.0,0.0,10.0,0.0
+rectangular matrix,rectangular matrix,0.0,0.0,2.0,0.0
+triangular matrix,triangular matrix,0.0,0.0,2.0,0.0
+path graph,path graph,0.0,0.0,2.0,0.0
+complete graph,complete graph,0.0,0.0,0.0,0.0
+regular graph,regular graph,0.0,0.0,0.0,0.0
+irregular graph,irregular graph,0.0,0.0,0.0,0.0
+acyclic graph,acyclic graph,0.0,0.0,0.0,0.0
+disconnected graph,disconnected graph,0.0,0.0,0.0,0.0
+star graph,star graph,0.0,0.0,0.0,0.0
+directed graph,directed graph,0.0,0.0,0.0,0.0
+undirected graph,undirected graph,0.0,0.0,0.0,0.0
+multi graph,multi graph,0.0,0.0,0.0,0.0
+weighted graph,weighted graph,0.0,0.0,0.0,0.0
+count inversions,count inversions,0.0,0.0,3.0,0.0
+closest pair,closest pair,0.0,0.0,0.0,0.0
+quick sort,quick sort,0.0,0.0,0.0,0.0
+merge sort,merge sort,0.0,0.0,0.0,0.0
+integer multiplication,integer multiplication,0.0,0.0,0.0,0.0
+maximal subsequence,maximal subsequence,0.0,0.0,0.0,0.0
+fourier transform,fourier transform,0.0,0.0,0.0,0.0
+fork join,fork join,0.0,0.0,0.0,0.0
+map reduce,map reduce,0.0,0.0,0.0,0.0
+maximal subarray,maximal subarray,0.0,0.0,0.0,0.0
+base case,base case,0.0,0.0,0.0,0.0
+matrix multiplication,matrix multiplication,0.0,0.0,5.0,0.0
+matrix product,matrix product,0.0,0.0,1.0,0.0
+matrix multiply,matrix multiply,0.0,0.0,1.0,0.0
+integer multiply,integer multiply,0.0,0.0,0.0,0.0
+binary search,binary search,0.0,0.0,2.0,0.0
+strassen algorithm,strassen algorithm,0.0,0.0,0.0,0.0
+topdown parsers,topdown parsers,0.0,0.0,0.0,0.0
+bottomup parsers,bottomup parsers,0.0,0.0,0.0,0.0
+fast fourier,fast fourier,0.0,0.0,0.0,0.0
+euclidean algorithm,euclidean algorithm,0.0,0.0,0.0,0.0
+radix sort,radix sort,0.0,0.0,0.0,0.0
+convex hull,convex hull,0.0,0.0,0.0,0.0
+mo algorithm,mo algorithm,0.0,0.0,0.0,0.0
+mo's algorithm,mo's algorithm,0.0,0.0,3.0,0.0
+maximum subarray,maximum subarray,0.0,0.0,0.0,0.0
+tiling problem,tiling problem,0.0,0.0,0.0,0.0
+modular exponentiation,modular exponentiation,0.0,0.0,0.0,0.0
+quick hull,quick hull,0.0,0.0,0.0,0.0
+divide conquer,divide conquer,0.0,0.0,0.0,0.0
+decrease conquer,decrease conquer,0.0,0.0,0.0,0.0
+breadthfirst recursion,breadthfirst recursion,0.0,0.0,0.0,0.0
+mathematical induction,mathematical induction,0.0,0.0,0.0,0.0
+tail recursion,tail recursion,0.0,0.0,0.0,0.0
+sorted list,sorted list,0.0,0.0,6.0,0.0
+hanoi puzzle,hanoi puzzle,0.0,0.0,0.0,0.0
+sub problems,sub problems,0.0,0.0,0.0,0.0
+list sorting,list sorting,0.0,0.0,23.0,0.0
+polynomial multiplication,polynomial multiplication,0.0,0.0,0.0,0.0
+fast multiplication,fast multiplication,0.0,0.0,0.0,0.0
+multiplication method,multiplication method,0.0,0.0,0.0,0.0
+multiplication algorithm,multiplication algorithm,0.0,0.0,0.0,0.0
+binary searching,binary searching,0.0,0.0,0.0,0.0
+quick sorting,quick sorting,0.0,0.0,0.0,0.0
+merge sorting,merge sorting,0.0,0.0,0.0,0.0
+fourier transforming,fourier transforming,0.0,0.0,0.0,0.0
+fourier transformation,fourier transformation,0.0,0.0,0.0,0.0
+median calcul,median calcul,0.0,0.0,0.0,0.0
+count invers,count invers,0.0,0.0,3.0,0.0
+integer multipl,integer multipl,0.0,0.0,0.0,0.0
+maximal subsequ,maximal subsequ,0.0,0.0,0.0,0.0
+map reduc,map reduc,0.0,0.0,0.0,0.0
+base cas,base cas,0.0,0.0,0.0,0.0
+matrix multipl,matrix multipl,0.0,0.0,3.0,0.0
+matrix multipli,matrix multipli,0.0,0.0,1.0,0.0
+integer multipli,integer multipli,0.0,0.0,0.0,0.0
+topdown pars,topdown pars,0.0,0.0,0.0,0.0
+bottomup pars,bottomup pars,0.0,0.0,0.0,0.0
+fast fouri,fast fouri,0.0,0.0,0.0,0.0
+convex hul,convex hul,0.0,0.0,0.0,0.0
+modular exponenti,modular exponenti,0.0,0.0,0.0,0.0
+quick hul,quick hul,0.0,0.0,0.0,0.0
+divide conqu,divide conqu,0.0,0.0,0.0,0.0
+decrease conqu,decrease conqu,0.0,0.0,0.0,0.0
+breadthfirst recurs,breadthfirst recurs,0.0,0.0,0.0,0.0
+mathematical induct,mathematical induct,0.0,0.0,0.0,0.0
+tail recurs,tail recurs,0.0,0.0,0.0,0.0
+hanoi puzzl,hanoi puzzl,0.0,0.0,0.0,0.0
+sub problem,sub problem,0.0,0.0,0.0,0.0
+list sort,list sort,0.0,0.0,9.0,0.0
+polynomial multipl,polynomial multipl,0.0,0.0,0.0,0.0
+substitution method,substitution method,0.0,0.0,0.0,0.0
+solving recurrences,solving recurrences,0.0,0.0,0.0,0.0
+master theorem,master theorem,0.0,0.0,0.0,0.0
+recurrence relation,recurrence relation,0.0,0.0,0.0,0.0
+recurrence tree,recurrence tree,0.0,0.0,0.0,0.0
+amortised analysis,amortised analysis,0.0,0.0,0.0,0.0
+maximum subarray,maximum subarray,0.0,0.0,0.0,0.0
+solving recurr,solving recurr,0.0,0.0,0.0,0.0
+recurrence rel,recurrence rel,0.0,0.0,0.0,0.0
+recurrence tre,recurrence tre,0.0,0.0,0.0,0.0
+amortised analysi,amortised analysi,0.0,0.0,0.0,0.0
+maximum clique,maximum clique,0.0,0.0,0.0,0.0
+eulerian path,eulerian path,0.0,0.0,2.0,0.0
+transitive closure,transitive closure,0.0,0.0,0.0,0.0
+euler circuit,euler circuit,0.0,0.0,0.0,0.0
+biconnected components,biconnected components,0.0,0.0,0.0,0.0
+graph coloring,graph coloring,0.0,0.0,0.0,0.0
+travelling salesman,travelling salesman,0.0,0.0,0.0,0.0
+hamiltonian cycle,hamiltonian cycle,0.0,0.0,0.0,0.0
+ford fulkerson,ford fulkerson,0.0,0.0,0.0,0.0
+minimum cut,minimum cut,0.0,0.0,0.0,0.0
+transitive reduction,transitive reduction,0.0,0.0,0.0,0.0
+eulerian circuit,eulerian circuit,0.0,0.0,0.0,0.0
+euler path,euler path,0.0,0.0,2.0,0.0
+maximal clique,maximal clique,0.0,0.0,0.0,0.0
+minimum clique,minimum clique,0.0,0.0,0.0,0.0
+minimal clique,minimal clique,0.0,0.0,0.0,0.0
+minimal cut,minimal cut,0.0,0.0,0.0,0.0
+transitive decrease,transitive decrease,0.0,0.0,0.0,0.0
+activity selection,activity selection,0.0,0.0,15.0,0.0
+minimum spanning,minimum spanning,0.0,0.0,0.0,0.0
+shortest path,shortest path,0.0,0.0,1.0,0.0
+huffman coding,huffman coding,0.0,0.0,0.0,0.0
+job sequencing,job sequencing,0.0,0.0,0.0,0.0
+minimum centers,minimum centers,0.0,0.0,0.0,0.0
+shortest distance,shortest distance,0.0,0.0,0.0,0.0
+a-star search,a-star search,0.0,0.0,1.0,0.0
+johnson's algorithm,johnson's algorithm,0.0,0.0,3.0,0.0
+johnson algorithm,johnson algorithm,0.0,0.0,0.0,0.0
+viterbi algorithm,viterbi algorithm,0.0,0.0,0.0,0.0
+set cover,set cover,0.0,0.0,0.0,0.0
+load balancing,load balancing,0.0,0.0,0.0,0.0
+independent set,independent set,0.0,0.0,0.0,0.0
+relaxed greedy,relaxed greedy,0.0,0.0,0.0,0.0
+orthogonal greedy,orthogonal greedy,0.0,0.0,0.0,0.0
+fractional knapsack,fractional knapsack,0.0,0.0,0.0,0.0
+huffman codes,huffman codes,0.0,0.0,0.0,0.0
+maximum cliqu,maximum cliqu,0.0,0.0,0.0,0.0
+transitive closur,transitive closur,0.0,0.0,0.0,0.0
+biconnected compon,biconnected compon,0.0,0.0,0.0,0.0
+graph color,graph color,0.0,0.0,21.0,0.0
+hamiltonian cycl,hamiltonian cycl,0.0,0.0,0.0,0.0
+transitive reduct,transitive reduct,0.0,0.0,0.0,0.0
+maximal cliqu,maximal cliqu,0.0,0.0,0.0,0.0
+minimum cliqu,minimum cliqu,0.0,0.0,0.0,0.0
+minimal cliqu,minimal cliqu,0.0,0.0,0.0,0.0
+transitive decreas,transitive decreas,0.0,0.0,0.0,0.0
+activity select,activity select,0.0,0.0,10.0,0.0
+minimum span,minimum span,0.0,0.0,0.0,0.0
+huffman cod,huffman cod,0.0,0.0,0.0,0.0
+job sequenc,job sequenc,0.0,0.0,0.0,0.0
+minimum cent,minimum cent,0.0,0.0,0.0,0.0
+shortest dist,shortest dist,0.0,0.0,0.0,0.0
+set cov,set cov,0.0,0.0,0.0,0.0
+load balanc,load balanc,0.0,0.0,0.0,0.0
+relaxed greedi,relaxed greedi,0.0,0.0,0.0,0.0
+orthogonal greedi,orthogonal greedi,0.0,0.0,0.0,0.0
+edit distance,edit distance,0.0,0.0,0.0,0.0
+coin change,coin change,0.0,0.0,3.0,0.0
+binomial coefficient,binomial coefficient,0.0,0.0,0.0,0.0
+0-1 knapsack,0-1 knapsack,0.0,0.0,11.0,0.0
+floyd warshall,floyd warshall,0.0,0.0,0.0,0.0
+palindrome partitioning,palindrome partitioning,0.0,0.0,0.0,0.0
+word wrap,word wrap,0.0,0.0,0.0,0.0
+box stacking,box stacking,0.0,0.0,0.0,0.0
+fibonacci numbers,fibonacci numbers,0.0,0.0,0.0,0.0
+palindromic substring,palindromic substring,0.0,0.0,11.0,0.0
+binary search,binary search,0.0,0.0,2.0,0.0
+subset sum,subset sum,0.0,0.0,0.0,0.0
+overlapping subproblems,overlapping subproblems,0.0,0.0,0.0,0.0
+optimal substructure,optimal substructure,0.0,0.0,0.0,0.0
+bellman ford,bellman ford,0.0,0.0,0.0,0.0
+longest palindromic,longest palindromic,0.0,0.0,0.0,0.0
+maximum sum,maximum sum,0.0,0.0,0.0,0.0
+increasing subsequence,increasing subsequence,0.0,0.0,0.0,0.0
+matrix chain,matrix chain,0.0,0.0,1.0,0.0
+matrix multiplication,matrix multiplication,0.0,0.0,5.0,0.0
+common subsequence,common subsequence,0.0,0.0,0.0,0.0
+longest subsequence,longest subsequence,0.0,0.0,0.0,0.0
+checker board,checker board,0.0,0.0,0.0,0.0
+sequence allignment,sequence allignment,0.0,0.0,0.0,0.0
+bitonic subsequence,bitonic subsequence,0.0,0.0,0.0,0.0
+largest sum,largest sum,0.0,0.0,0.0,0.0
+boolean parenthesization,boolean parenthesization,0.0,0.0,15.0,0.0
+sum contiguous,sum contiguous,0.0,0.0,0.0,0.0
+contiguous subarray,contiguous subarray,0.0,0.0,0.0,0.0
+polygon triangulation,polygon triangulation,0.0,0.0,0.0,0.0
+flooding algorithm,flooding algorithm,0.0,0.0,0.0,0.0
+n knapsack,n knapsack,0.0,0.0,0.0,0.0
+eggdropping puzzle,eggdropping puzzle,0.0,0.0,0.0,0.0
+dropping puzzle,dropping puzzle,0.0,0.0,0.0,0.0
+egg puzzle,egg puzzle,0.0,0.0,0.0,0.0
+palindromic subsequence,palindromic subsequence,0.0,0.0,0.0,0.0
+longest bitonic,longest bitonic,0.0,0.0,0.0,0.0
+fibonacci computation,fibonacci computation,0.0,0.0,0.0,0.0
+subproblems property,subproblems property,0.0,0.0,0.0,0.0
+substructure property,substructure property,0.0,0.0,0.0,0.0
+chain multiplication,chain multiplication,0.0,0.0,0.0,0.0
+chain multiply,chain multiply,0.0,0.0,0.0,0.0
+tower hanoi,tower hanoi,0.0,0.0,0.0,0.0
+vertex cover,vertex cover,0.0,0.0,0.0,0.0
+weighted job,weighted job,0.0,0.0,0.0,0.0
+job scheduling,job scheduling,0.0,0.0,0.0,0.0
+ford fulkerson,ford fulkerson,0.0,0.0,0.0,0.0
+dynamic program,dynamic program,0.0,0.0,0.0,0.0
+edit dist,edit dist,0.0,0.0,0.0,0.0
+coin chang,coin chang,0.0,0.0,0.0,0.0
+binomial coeffici,binomial coeffici,0.0,0.0,0.0,0.0
+floyd warshal,floyd warshal,0.0,0.0,0.0,0.0
+palindrome partit,palindrome partit,0.0,0.0,0.0,0.0
+box stack,box stack,0.0,0.0,0.0,0.0
+fibonacci numb,fibonacci numb,0.0,0.0,0.0,0.0
+palindromic substr,palindromic substr,0.0,0.0,0.0,0.0
+overlapping subproblem,overlapping subproblem,0.0,0.0,0.0,0.0
+optimal substructur,optimal substructur,0.0,0.0,0.0,0.0
+longest palindrom,longest palindrom,0.0,0.0,0.0,0.0
+increasing subsequ,increasing subsequ,0.0,0.0,0.0,0.0
+matrix multipl,matrix multipl,0.0,0.0,3.0,0.0
+common subsequ,common subsequ,0.0,0.0,0.0,0.0
+longest subsequ,longest subsequ,0.0,0.0,0.0,0.0
+sequence allign,sequence allign,0.0,0.0,0.0,0.0
+bitonic subsequ,bitonic subsequ,0.0,0.0,0.0,0.0
+boolean parenthes,boolean parenthes,0.0,0.0,15.0,0.0
+sum contigu,sum contigu,0.0,0.0,0.0,0.0
+polygon triangul,polygon triangul,0.0,0.0,0.0,0.0
+eggdropping puzzl,eggdropping puzzl,0.0,0.0,0.0,0.0
+dropping puzzl,dropping puzzl,0.0,0.0,0.0,0.0
+egg puzzl,egg puzzl,0.0,0.0,0.0,0.0
+palindromic subsequ,palindromic subsequ,0.0,0.0,0.0,0.0
+longest biton,longest biton,0.0,0.0,0.0,0.0
+fibonacci comput,fibonacci comput,0.0,0.0,0.0,0.0
+subproblems properti,subproblems properti,0.0,0.0,0.0,0.0
+substructure properti,substructure properti,0.0,0.0,0.0,0.0
+chain multipl,chain multipl,0.0,0.0,0.0,0.0
+chain multipli,chain multipli,0.0,0.0,0.0,0.0
+vertex cov,vertex cov,0.0,0.0,0.0,0.0
+job schedul,job schedul,0.0,0.0,0.0,0.0
+euler method,euler method,0.0,0.0,0.0,0.0
+trapezoidal rule,trapezoidal rule,0.0,0.0,0.0,0.0
+euler integration,euler integration,0.0,0.0,0.0,0.0
+multigrid methods,multigrid methods,0.0,0.0,0.0,0.0
+verlet integration,verlet integration,0.0,0.0,0.0,0.0
+long division,long division,0.0,0.0,0.0,0.0
+restoring division,restoring division,0.0,0.0,0.0,0.0
+goldschmidt division,goldschmidt division,0.0,0.0,0.0,0.0
+exponentiating squaring,exponentiating squaring,0.0,0.0,0.0,0.0
+montgomery reduction,montgomery reduction,0.0,0.0,0.0,0.0
+booth's multiplication,booth's multiplication,0.0,0.0,3.0,0.0
+multiplicative inverse,multiplicative inverse,0.0,0.0,0.0,0.0
+newton's method,newton's method,0.0,0.0,3.0,0.0
+rounding functions,rounding functions,0.0,0.0,0.0,0.0
+binary splitting,binary splitting,0.0,0.0,0.0,0.0
+kahan summation,kahan summation,0.0,0.0,0.0,0.0
+bisection method,bisection method,0.0,0.0,0.0,0.0
+halley's method,halley's method,0.0,0.0,3.0,0.0
+secant method,secant method,0.0,0.0,0.0,0.0
+ridder's method,ridder's method,0.0,0.0,3.0,0.0
+muller's method,muller's method,0.0,0.0,3.0,0.0
+euler algorithm,euler algorithm,0.0,0.0,0.0,0.0
+trapezoidal method,trapezoidal method,0.0,0.0,0.0,0.0
+linear method,linear method,0.0,0.0,1.0,0.0
+multigrid algorithm,multigrid algorithm,0.0,0.0,0.0,0.0
+booths multiplication,booths multiplication,0.0,0.0,0.0,0.0
+ridders method,ridders method,0.0,0.0,0.0,0.0
+mullers method,mullers method,0.0,0.0,0.0,0.0
+newtons method,newtons method,0.0,0.0,0.0,0.0
+halleys method,halleys method,0.0,0.0,0.0,0.0
+ridders algorithm,ridders algorithm,0.0,0.0,0.0,0.0
+mullers algorithm,mullers algorithm,0.0,0.0,0.0,0.0
+newtons algorithm,newtons algorithm,0.0,0.0,0.0,0.0
+halleys algorithm,halleys algorithm,0.0,0.0,0.0,0.0
+median approximation,median approximation,0.0,0.0,0.0,0.0
+reservoir sampling,reservoir sampling,0.0,0.0,0.0,0.0
+n queen,n queen,0.0,0.0,0.0,0.0
+8 queen,8 queen,0.0,0.0,0.0,0.0
+15 queen,15 queen,0.0,0.0,0.0,0.0
+n puzzle,n puzzle,0.0,0.0,0.0,0.0
+birkhoff interpolation,birkhoff interpolation,0.0,0.0,0.0,0.0
+cubic interpolation,cubic interpolation,0.0,0.0,0.0,0.0
+hermite interpolation,hermite interpolation,0.0,0.0,0.0,0.0
+lagrange interpolation,lagrange interpolation,0.0,0.0,0.0,0.0
+linear interpolation,linear interpolation,0.0,0.0,0.0,0.0
+multivariate interpolation,multivariate interpolation,0.0,0.0,0.0,0.0
+bicubic interpolation,bicubic interpolation,0.0,0.0,0.0,0.0
+cubic interpolation,cubic interpolation,0.0,0.0,0.0,0.0
+bilinear interpolation,bilinear interpolation,0.0,0.0,0.0,0.0
+linear interpolation,linear interpolation,0.0,0.0,0.0,0.0
+lanczos resampling,lanczos resampling,0.0,0.0,0.0,0.0
+tricubic interpolation,tricubic interpolation,0.0,0.0,0.0,0.0
+pareto interpolation,pareto interpolation,0.0,0.0,0.0,0.0
+polynomial interpolation,polynomial interpolation,0.0,0.0,0.0,0.0
+spline interpolation,spline interpolation,0.0,0.0,0.0,0.0
+runge's phenomenon,runge's phenomenon,0.0,0.0,3.0,0.0
+de boor,de boor,0.0,0.0,0.0,0.0
+b splines,b splines,0.0,0.0,0.0,0.0
+bezier curves,bezier curves,0.0,0.0,0.0,0.0
+trigonometric interpolation,trigonometric interpolation,0.0,0.0,0.0,0.0
+runges phenomenon,runges phenomenon,0.0,0.0,0.0,0.0
+runges interpolation,runges interpolation,0.0,0.0,0.0,0.0
+regression analysis,regression analysis,0.0,0.0,0.0,0.0
+interior reconstruction,interior reconstruction,0.0,0.0,0.0,0.0
+richardson extrapolation,richardson extrapolation,0.0,0.0,0.0,0.0
+numerical algorithms,numerical algorithms,0.0,0.0,0.0,0.0
+topological space,topological space,0.0,0.0,0.0,0.0
+matrix multiplication,matrix multiplication,0.0,0.0,5.0,0.0
+conjugate gradient,conjugate gradient,0.0,0.0,0.0,0.0
+gaussian elimination,gaussian elimination,0.0,0.0,0.0,0.0
+levinson recursion,levinson recursion,0.0,0.0,0.0,0.0
+stone's method,stone's method,0.0,0.0,3.0,0.0
+stones method,stones method,0.0,0.0,0.0,0.0
+stones algorithm,stones algorithm,0.0,0.0,0.0,0.0
+tridiagonal matrix,tridiagonal matrix,0.0,0.0,1.0,0.0
+sparse matrix,sparse matrix,0.0,0.0,2.0,0.0
+cuthill mckee,cuthill mckee,0.0,0.0,0.0,0.0
+minimum degree,minimum degree,0.0,0.0,0.0,0.0
+cholesky decomposition,cholesky decomposition,0.0,0.0,0.0,0.0
+gibbs sampling,gibbs sampling,0.0,0.0,0.0,0.0
+markov chain,markov chain,0.0,0.0,0.0,0.0
+metropolis hastings,metropolis hastings,0.0,0.0,0.0,0.0
+probability distribution,probability distribution,0.0,0.0,0.0,0.0
+least squares,least squares,0.0,0.0,0.0,0.0
+quantum mechanics,quantum mechanics,0.0,0.0,0.0,0.0
+fourier series,fourier series,0.0,0.0,0.0,0.0
+linear transformations,linear transformations,0.0,0.0,0.0,0.0
+special relativity,special relativity,0.0,0.0,0.0,0.0
+scalar multiplication,scalar multiplication,0.0,0.0,0.0,0.0
+vector addition,vector addition,0.0,0.0,0.0,0.0
+vector multiplication,vector multiplication,0.0,0.0,0.0,0.0
+linear combination,linear combination,0.0,0.0,0.0,0.0
+determinants calculation,determinants calculation,0.0,0.0,0.0,0.0
+cramers rule,cramers rule,0.0,0.0,0.0,0.0
+inverse calculation,inverse calculation,0.0,0.0,0.0,0.0
+conjugate symmetry,conjugate symmetry,0.0,0.0,0.0,0.0
+positive definiteness,positive definiteness,0.0,0.0,0.0,0.0
+fourier transformation,fourier transformation,0.0,0.0,0.0,0.0
+hamiltonian operator,hamiltonian operator,0.0,0.0,0.0,0.0
+wave function,wave function,0.0,0.0,0.0,0.0
+tensor products,tensor products,0.0,0.0,0.0,0.0
+algebraic geometry,algebraic geometry,0.0,0.0,0.0,0.0
+polynomial equations,polynomial equations,0.0,0.0,0.0,0.0
+representation theory,representation theory,0.0,0.0,0.0,0.0
+linear algebra,linear algebra,0.0,0.0,0.0,0.0
+linear transformation,linear transformation,0.0,0.0,0.0,0.0
+linear equation,linear equation,0.0,0.0,0.0,0.0
+transformation matrix,transformation matrix,0.0,0.0,1.0,0.0
+co tangents,co tangents,0.0,0.0,0.0,0.0
+co secant,co secant,0.0,0.0,0.0,0.0
+periodic functions,periodic functions,0.0,0.0,0.0,0.0
+trapezoidal rul,trapezoidal rul,0.0,0.0,0.0,0.0
+euler integr,euler integr,0.0,0.0,0.0,0.0
+multigrid method,multigrid method,0.0,0.0,0.0,0.0
+verlet integr,verlet integr,0.0,0.0,0.0,0.0
+long divis,long divis,0.0,0.0,0.0,0.0
+restoring divis,restoring divis,0.0,0.0,0.0,0.0
+goldschmidt divis,goldschmidt divis,0.0,0.0,0.0,0.0
+exponentiating squar,exponentiating squar,0.0,0.0,0.0,0.0
+montgomery reduct,montgomery reduct,0.0,0.0,0.0,0.0
+booth's multipl,booth's multipl,0.0,0.0,3.0,0.0
+multiplicative invers,multiplicative invers,0.0,0.0,0.0,0.0
+rounding funct,rounding funct,0.0,0.0,0.0,0.0
+binary split,binary split,0.0,0.0,0.0,0.0
+kahan summ,kahan summ,0.0,0.0,0.0,0.0
+booths multipl,booths multipl,0.0,0.0,0.0,0.0
+median approxim,median approxim,0.0,0.0,0.0,0.0
+reservoir sampl,reservoir sampl,0.0,0.0,0.0,0.0
+n puzzl,n puzzl,0.0,0.0,0.0,0.0
+birkhoff interpol,birkhoff interpol,0.0,0.0,0.0,0.0
+cubic interpol,cubic interpol,0.0,0.0,0.0,0.0
+hermite interpol,hermite interpol,0.0,0.0,0.0,0.0
+lagrange interpol,lagrange interpol,0.0,0.0,0.0,0.0
+linear interpol,linear interpol,0.0,0.0,0.0,0.0
+multivariate interpol,multivariate interpol,0.0,0.0,0.0,0.0
+bicubic interpol,bicubic interpol,0.0,0.0,0.0,0.0
+bilinear interpol,bilinear interpol,0.0,0.0,0.0,0.0
+lanczos resampl,lanczos resampl,0.0,0.0,0.0,0.0
+tricubic interpol,tricubic interpol,0.0,0.0,0.0,0.0
+pareto interpol,pareto interpol,0.0,0.0,0.0,0.0
+polynomial interpol,polynomial interpol,0.0,0.0,0.0,0.0
+spline interpol,spline interpol,0.0,0.0,0.0,0.0
+b spline,b spline,0.0,0.0,0.0,0.0
+bezier curv,bezier curv,0.0,0.0,0.0,0.0
+trigonometric interpol,trigonometric interpol,0.0,0.0,0.0,0.0
+runges interpol,runges interpol,0.0,0.0,0.0,0.0
+regression analysi,regression analysi,0.0,0.0,0.0,0.0
+interior reconstruct,interior reconstruct,0.0,0.0,0.0,0.0
+richardson extrapol,richardson extrapol,0.0,0.0,0.0,0.0
+numerical algorithm,numerical algorithm,0.0,0.0,0.0,0.0
+topological spac,topological spac,0.0,0.0,0.0,0.0
+matrix multipl,matrix multipl,0.0,0.0,3.0,0.0
+conjugate gradi,conjugate gradi,0.0,0.0,0.0,0.0
+gaussian elimin,gaussian elimin,0.0,0.0,0.0,0.0
+levinson recurs,levinson recurs,0.0,0.0,0.0,0.0
+cuthill mcke,cuthill mcke,0.0,0.0,0.0,0.0
+minimum degre,minimum degre,0.0,0.0,0.0,0.0
+cholesky decomposit,cholesky decomposit,0.0,0.0,0.0,0.0
+gibbs sampl,gibbs sampl,0.0,0.0,0.0,0.0
+metropolis hast,metropolis hast,0.0,0.0,0.0,0.0
+probability distribut,probability distribut,0.0,0.0,0.0,0.0
+least squar,least squar,0.0,0.0,0.0,0.0
+quantum mechan,quantum mechan,0.0,0.0,0.0,0.0
+fourier seri,fourier seri,0.0,0.0,0.0,0.0
+linear transform,linear transform,0.0,0.0,0.0,0.0
+special rel,special rel,0.0,0.0,0.0,0.0
+scalar multipl,scalar multipl,0.0,0.0,0.0,0.0
+vector addit,vector addit,0.0,0.0,0.0,0.0
+vector multipl,vector multipl,0.0,0.0,0.0,0.0
+linear combin,linear combin,0.0,0.0,0.0,0.0
+determinants calcul,determinants calcul,0.0,0.0,0.0,0.0
+cramers rul,cramers rul,0.0,0.0,0.0,0.0
+inverse calcul,inverse calcul,0.0,0.0,0.0,0.0
+conjugate symmetri,conjugate symmetri,0.0,0.0,0.0,0.0
+positive definit,positive definit,0.0,0.0,0.0,0.0
+fourier transform,fourier transform,0.0,0.0,0.0,0.0
+hamiltonian oper,hamiltonian oper,0.0,0.0,0.0,0.0
+wave funct,wave funct,0.0,0.0,0.0,0.0
+tensor product,tensor product,0.0,0.0,0.0,0.0
+algebraic geometri,algebraic geometri,0.0,0.0,0.0,0.0
+polynomial equ,polynomial equ,0.0,0.0,0.0,0.0
+representation theori,representation theori,0.0,0.0,0.0,0.0
+linear equ,linear equ,0.0,0.0,0.0,0.0
+co tang,co tang,0.0,0.0,0.0,0.0
+co sec,co sec,0.0,0.0,0.0,0.0
+periodic funct,periodic funct,0.0,0.0,0.0,0.0
+mathematical optimization,mathematical optimization,0.0,0.0,0.0,0.0
+bruss algorithm,bruss algorithm,0.0,0.0,0.0,0.0
+combinatorial optimization,combinatorial optimization,0.0,0.0,0.0,0.0
+hungarian method,hungarian method,0.0,0.0,0.0,0.0
+constraint satisfaction,constraint satisfaction,0.0,0.0,2.0,0.0
+difference map,difference map,0.0,0.0,0.0,0.0
+min conflicts,min conflicts,0.0,0.0,1.0,0.0
+minimum conflicts,minimum conflicts,0.0,0.0,0.0,0.0
+davis putnam,davis putnam,0.0,0.0,0.0,0.0
+satisfiability problem,satisfiability problem,0.0,0.0,0.0,0.0
+exact cover,exact cover,0.0,0.0,1.0,0.0
+algorithm x,algorithm x,0.0,0.0,0.0,0.0
+dancing links,dancing links,0.0,0.0,0.0,0.0
+differential evolution,differential evolution,0.0,0.0,0.0,0.0
+dynamic programming,dynamic programming,0.0,0.0,0.0,0.0
+overlapping subproblems,overlapping subproblems,0.0,0.0,0.0,0.0
+optimal substructure,optimal substructure,0.0,0.0,0.0,0.0
+ellipsoid method,ellipsoid method,0.0,0.0,0.0,0.0
+evolutionary computation,evolutionary computation,0.0,0.0,0.0,0.0
+evolution strategy,evolution strategy,0.0,0.0,0.0,0.0
+truncation selection,truncation selection,0.0,0.0,6.0,0.0
+tournament selection,tournament selection,0.0,0.0,7.0,0.0
+swarm intelligence,swarm intelligence,0.0,0.0,0.0,0.0
+particle swarm,particle swarm,0.0,0.0,0.0,0.0
+harmony search,harmony search,0.0,0.0,1.0,0.0
+linear programming,linear programming,0.0,0.0,0.0,0.0
+cutting-plane method,cutting-plane method,0.0,0.0,0.0,0.0
+linear programming,linear programming,0.0,0.0,0.0,0.0
+polynomial time,polynomial time,0.0,0.0,0.0,0.0
+line search,line search,0.0,0.0,11.0,0.0
+tabu search,tabu search,0.0,0.0,1.0,0.0
+optimization algorithms,optimization algorithms,0.0,0.0,0.0,0.0
+nonlinear optimization,nonlinear optimization,0.0,0.0,0.0,0.0
+bfgs method,bfgs method,0.0,0.0,0.0,0.0
+nonlinear optimization,nonlinear optimization,0.0,0.0,0.0,0.0
+gauss newton,gauss newton,0.0,0.0,0.0,0.0
+least squares,least squares,0.0,0.0,0.0,0.0
+levenberg marquardt,levenberg marquardt,0.0,0.0,0.0,0.0
+simulated annealing,simulated annealing,0.0,0.0,0.0,0.0
+stochastic tunneling,stochastic tunneling,0.0,0.0,0.0,0.0
+subset sum,subset sum,0.0,0.0,0.0,0.0
+variance computation,variance computation,0.0,0.0,0.0,0.0
+variance calculation,variance calculation,0.0,0.0,0.0,0.0
+approximate counting,approximate counting,0.0,0.0,4.0,0.0
+bayesian statistics,bayesian statistics,0.0,0.0,0.0,0.0
+nested sampling,nested sampling,0.0,0.0,0.0,0.0
+clustering algorithms,clustering algorithms,0.0,0.0,0.0,0.0
+canopy clustering,canopy clustering,0.0,0.0,0.0,0.0
+expectation maximization,expectation maximization,0.0,0.0,0.0,0.0
+fuzzy clustering,fuzzy clustering,0.0,0.0,0.0,0.0
+fuzzy c-means,fuzzy c-means,0.0,0.0,0.0,0.0
+flame clustering,flame clustering,0.0,0.0,0.0,0.0
+khopca clustering,khopca clustering,0.0,0.0,0.0,0.0
+k means,k means,0.0,0.0,0.0,0.0
+k medoids,k medoids,0.0,0.0,0.0,0.0
+ward's method,ward's method,0.0,0.0,3.0,0.0
+wards method,wards method,0.0,0.0,0.0,0.0
+waca clustering,waca clustering,0.0,0.0,0.0,0.0
+estimation theory,estimation theory,0.0,0.0,0.0,0.0
+kalman filter,kalman filter,0.0,0.0,0.0,0.0
+baum welch,baum welch,0.0,0.0,0.0,0.0
+ground state,ground state,0.0,0.0,5.0,0.0
+variational method,variational method,0.0,0.0,0.0,0.0
+ritz method,ritz method,0.0,0.0,1.0,0.0
+rainflow counting,rainflow counting,0.0,0.0,0.0,0.0
+decision trees,decision trees,0.0,0.0,0.0,0.0
+random forest,random forest,0.0,0.0,4.0,0.0
+discriminant analysis,discriminant analysis,0.0,0.0,0.0,0.0
+linear regression,linear regression,0.0,0.0,0.0,0.0
+standard deviation,standard deviation,0.0,0.0,0.0,0.0
+correlation coefficient,correlation coefficient,0.0,0.0,0.0,0.0
+logistic regression,logistic regression,0.0,0.0,0.0,0.0
+activation functions,activation functions,0.0,0.0,0.0,0.0
+weight adjustment,weight adjustment,0.0,0.0,1.0,0.0
+mathematical optim,mathematical optim,0.0,0.0,0.0,0.0
+combinatorial optim,combinatorial optim,0.0,0.0,0.0,0.0
+constraint satisfact,constraint satisfact,0.0,0.0,2.0,0.0
+min conflict,min conflict,0.0,0.0,1.0,0.0
+minimum conflict,minimum conflict,0.0,0.0,0.0,0.0
+exact cov,exact cov,0.0,0.0,1.0,0.0
+dancing link,dancing link,0.0,0.0,0.0,0.0
+differential evolut,differential evolut,0.0,0.0,0.0,0.0
+dynamic program,dynamic program,0.0,0.0,0.0,0.0
+overlapping subproblem,overlapping subproblem,0.0,0.0,0.0,0.0
+optimal substructur,optimal substructur,0.0,0.0,0.0,0.0
+evolutionary comput,evolutionary comput,0.0,0.0,0.0,0.0
+evolution strategi,evolution strategi,0.0,0.0,0.0,0.0
+truncation select,truncation select,0.0,0.0,1.0,0.0
+tournament select,tournament select,0.0,0.0,1.0,0.0
+swarm intellig,swarm intellig,0.0,0.0,0.0,0.0
+linear program,linear program,0.0,0.0,0.0,0.0
+polynomial tim,polynomial tim,0.0,0.0,0.0,0.0
+optimization algorithm,optimization algorithm,0.0,0.0,0.0,0.0
+nonlinear optim,nonlinear optim,0.0,0.0,0.0,0.0
+least squar,least squar,0.0,0.0,0.0,0.0
+simulated ann,simulated ann,0.0,0.0,0.0,0.0
+stochastic tunnel,stochastic tunnel,0.0,0.0,0.0,0.0
+variance comput,variance comput,0.0,0.0,0.0,0.0
+variance calcul,variance calcul,0.0,0.0,0.0,0.0
+approximate count,approximate count,0.0,0.0,7.0,0.0
+bayesian statist,bayesian statist,0.0,0.0,0.0,0.0
+nested sampl,nested sampl,0.0,0.0,0.0,0.0
+clustering algorithm,clustering algorithm,0.0,0.0,0.0,0.0
+canopy clust,canopy clust,0.0,0.0,0.0,0.0
+expectation maxim,expectation maxim,0.0,0.0,0.0,0.0
+fuzzy clust,fuzzy clust,0.0,0.0,0.0,0.0
+fuzzy c-mean,fuzzy c-mean,0.0,0.0,0.0,0.0
+flame clust,flame clust,0.0,0.0,0.0,0.0
+khopca clust,khopca clust,0.0,0.0,0.0,0.0
+k mean,k mean,0.0,0.0,0.0,0.0
+k medoid,k medoid,0.0,0.0,0.0,0.0
+waca clust,waca clust,0.0,0.0,0.0,0.0
+estimation theori,estimation theori,0.0,0.0,0.0,0.0
+kalman filt,kalman filt,0.0,0.0,0.0,0.0
+ground stat,ground stat,0.0,0.0,0.0,0.0
+rainflow count,rainflow count,0.0,0.0,3.0,0.0
+decision tre,decision tre,0.0,0.0,0.0,0.0
+discriminant analysi,discriminant analysi,0.0,0.0,0.0,0.0
+linear regress,linear regress,0.0,0.0,0.0,0.0
+standard devi,standard devi,0.0,0.0,0.0,0.0
+correlation coeffici,correlation coeffici,0.0,0.0,0.0,0.0
+logistic regress,logistic regress,0.0,0.0,0.0,0.0
+activation funct,activation funct,0.0,0.0,0.0,0.0
+weight adjust,weight adjust,0.0,0.0,1.0,0.0
+file handling,file handling,0.0,0.0,1.0,0.0
+find start,find start,0.0,0.0,11.0,0.0
+find end,find end,0.0,0.0,0.0,0.0
+array doubling,array doubling,0.0,0.0,5.0,0.0
+dynamic allocation,dynamic allocation,0.0,0.0,0.0,0.0
+else if,else if,85.0,0.0,97.0,0.0
+check if,check if,0.0,0.0,5.0,0.0
+do while,do while,0.0,0.0,1.0,0.0
+smaller than,smaller than,0.0,0.0,0.0,0.0
+lesser than,lesser than,0.0,0.0,0.0,0.0
+greater than,greater than,0.0,0.0,0.0,0.0
+shorter than,shorter than,0.0,0.0,1.0,0.0
+bigger than,bigger than,0.0,0.0,0.0,0.0
+larger than,larger than,0.0,0.0,0.0,0.0
+less than,less than,0.0,0.0,0.0,0.0
+equal to,equal to,0.0,0.0,0.0,0.0
+file handl,file handl,0.0,0.0,1.0,0.0
+array doubl,array doubl,0.0,0.0,5.0,0.0
+dynamic alloc,dynamic alloc,0.0,0.0,0.0,0.0
+do whil,do whil,0.0,0.0,0.0,0.0
+buffer overflow,buffer overflow,0.0,0.0,0.0,0.0
+exception handler,exception handler,0.0,0.0,40.0,0.0
+try again,try again,0.0,0.0,0.0,0.0
+permission denied,permission denied,0.0,0.0,0.0,0.0
+catch all,catch all,0.0,0.0,1.0,0.0
+error number,error number,0.0,0.0,1.0,0.0
+error no,error no,0.0,0.0,2.0,0.0
+default exception,default exception,0.0,0.0,35.0,0.0
+pre allocation,pre allocation,0.0,0.0,0.0,0.0
+de allocation,de allocation,0.0,0.0,0.0,0.0
+memory leak,memory leak,0.0,0.0,0.0,0.0
+garbage collection,garbage collection,0.0,0.0,1.0,0.0
+default initialisation,default initialisation,0.0,0.0,5.0,0.0
+dangling pointers,dangling pointers,0.0,0.0,0.0,0.0
+object destruction,object destruction,0.0,0.0,7.0,0.0
+object construction,object construction,0.0,0.0,7.0,0.0
+dynamic allocation,dynamic allocation,0.0,0.0,0.0,0.0
+static allocation,static allocation,0.0,0.0,1.0,0.0
+smart pointer,smart pointer,0.0,0.0,0.0,0.0
+contiguous allocation,contiguous allocation,0.0,0.0,0.0,0.0
+non contiguous,non contiguous,0.0,0.0,0.0,0.0
+virtual address,virtual address,0.0,0.0,0.0,0.0
+physical address,physical address,0.0,0.0,0.0,0.0
+logical address,logical address,0.0,0.0,0.0,0.0
+memory pool,memory pool,0.0,0.0,0.0,0.0
+memory resizing,memory resizing,0.0,0.0,0.0,0.0
+resizing memory,resizing memory,0.0,0.0,0.0,0.0
+void pointer,void pointer,0.0,0.0,0.0,0.0
+type conversion,type conversion,0.0,0.0,5.0,0.0
+implicit typecasting,implicit typecasting,0.0,0.0,0.0,0.0
+type coercion,type coercion,0.0,0.0,5.0,0.0
+wild pointer,wild pointer,0.0,0.0,0.0,0.0
+memory debugger,memory debugger,0.0,0.0,0.0,0.0
+memory protection,memory protection,0.0,0.0,0.0,0.0
+page size,page size,0.0,0.0,0.0,0.0
+abnormal termination,abnormal termination,0.0,0.0,0.0,0.0
+segmentation fault,segmentation fault,0.0,0.0,0.0,0.0
+storage violation,storage violation,0.0,0.0,0.0,0.0
+virtual memory,virtual memory,0.0,0.0,0.0,0.0
+physical memory,physical memory,0.0,0.0,0.0,0.0
+page table,page table,0.0,0.0,0.0,0.0
+instruction set,instruction set,0.0,0.0,0.0,0.0
+static tainting,static tainting,0.0,0.0,1.0,0.0
+dynamic tainting,dynamic tainting,0.0,0.0,0.0,0.0
+weak typing,weak typing,0.0,0.0,0.0,0.0
+strong typing,strong typing,0.0,0.0,0.0,0.0
+privileged instructions,privileged instructions,0.0,0.0,0.0,0.0
+exception handl,exception handl,0.0,0.0,30.0,0.0
+permission deni,permission deni,0.0,0.0,0.0,0.0
+catch al,catch al,0.0,0.0,1.0,0.0
+error numb,error numb,0.0,0.0,1.0,0.0
+default except,default except,0.0,0.0,5.0,0.0
+pre alloc,pre alloc,0.0,0.0,0.0,0.0
+de alloc,de alloc,0.0,0.0,0.0,0.0
+garbage collect,garbage collect,0.0,0.0,0.0,0.0
+default initialis,default initialis,0.0,0.0,5.0,0.0
+dangling point,dangling point,0.0,0.0,2.0,0.0
+object destruct,object destruct,0.0,0.0,7.0,0.0
+object construct,object construct,0.0,0.0,7.0,0.0
+dynamic alloc,dynamic alloc,0.0,0.0,0.0,0.0
+static alloc,static alloc,0.0,0.0,1.0,0.0
+smart point,smart point,0.0,0.0,2.0,0.0
+contiguous alloc,contiguous alloc,0.0,0.0,0.0,0.0
+non contigu,non contigu,0.0,0.0,0.0,0.0
+memory res,memory res,0.0,0.0,0.0,0.0
+resizing memori,resizing memori,0.0,0.0,0.0,0.0
+void point,void point,0.0,0.0,5.0,0.0
+type convers,type convers,0.0,0.0,5.0,0.0
+implicit typecast,implicit typecast,0.0,0.0,0.0,0.0
+wild point,wild point,0.0,0.0,2.0,0.0
+memory debugg,memory debugg,0.0,0.0,0.0,0.0
+memory protect,memory protect,0.0,0.0,0.0,0.0
+page s,page s,0.0,0.0,3.0,0.0
+abnormal termin,abnormal termin,0.0,0.0,0.0,0.0
+storage viol,storage viol,0.0,0.0,0.0,0.0
+virtual memori,virtual memori,0.0,0.0,0.0,0.0
+physical memori,physical memori,0.0,0.0,0.0,0.0
+page t,page t,0.0,0.0,0.0,0.0
+static taint,static taint,0.0,0.0,6.0,0.0
+dynamic taint,dynamic taint,0.0,0.0,0.0,0.0
+weak typ,weak typ,0.0,0.0,0.0,0.0
+strong typ,strong typ,0.0,0.0,0.0,0.0
+privileged instruct,privileged instruct,0.0,0.0,0.0,0.0
+null pointers,null pointers,0.0,0.0,1.0,0.0
+near pointer,near pointer,0.0,0.0,0.0,0.0
+far pointer,far pointer,0.0,0.0,0.0,0.0
+huge pointer,huge pointer,0.0,0.0,0.0,0.0
+uninitialised pointer,uninitialised pointer,0.0,0.0,0.0,0.0
+function pointer,function pointer,0.0,0.0,1.0,0.0
+double pointer,double pointer,0.0,0.0,4.0,0.0
+memory address,memory address,0.0,0.0,0.0,0.0
+address assignment,address assignment,0.0,0.0,0.0,0.0
+uninitialised data,uninitialised data,0.0,0.0,0.0,0.0
+data pointers,data pointers,0.0,0.0,0.0,0.0
+global scope,global scope,0.0,0.0,0.0,0.0
+block scope,block scope,0.0,0.0,0.0,0.0
+re allocation,re allocation,0.0,0.0,0.0,0.0
+signal handler,signal handler,0.0,0.0,11.0,0.0
+exception handling,exception handling,0.0,0.0,60.0,0.0
+catch exception,catch exception,14.0,0.0,44.0,0.0
+error stream,error stream,0.0,0.0,1.0,0.0
+null point,null point,0.0,0.0,9.0,0.0
+near point,near point,0.0,0.0,5.0,0.0
+far point,far point,0.0,0.0,2.0,0.0
+huge point,huge point,0.0,0.0,2.0,0.0
+uninitialised point,uninitialised point,0.0,0.0,2.0,0.0
+function point,function point,0.0,0.0,4.0,0.0
+double point,double point,0.0,0.0,6.0,0.0
+address assign,address assign,0.0,0.0,0.0,0.0
+data point,data point,0.0,0.0,20.0,0.0
+global scop,global scop,0.0,0.0,0.0,0.0
+block scop,block scop,0.0,0.0,0.0,0.0
+re alloc,re alloc,0.0,0.0,0.0,0.0
+signal handl,signal handl,0.0,0.0,0.0,0.0
+catch except,catch except,0.0,0.0,14.0,0.0
+big o,big o,0.0,0.0,2.0,0.0
+big omega,big omega,0.0,0.0,0.0,0.0
+little omega,little omega,0.0,0.0,0.0,0.0
+little o,little o,0.0,0.0,0.0,0.0
+growth functions,growth functions,0.0,0.0,0.0,0.0
+aymptotic analysis,aymptotic analysis,0.0,0.0,0.0,0.0
+asymptotic growth,asymptotic growth,0.0,0.0,0.0,0.0
+upper bound,upper bound,0.0,0.0,0.0,0.0
+lower bound,lower bound,0.0,0.0,0.0,0.0
+big omega,big omega,0.0,0.0,0.0,0.0
+tight bound,tight bound,0.0,0.0,0.0,0.0
+big theta,big theta,0.0,0.0,0.0,0.0
+substitution method,substitution method,0.0,0.0,0.0,0.0
+mathematical induction,mathematical induction,0.0,0.0,0.0,0.0
+solving recurrences,solving recurrences,0.0,0.0,0.0,0.0
+master theorem,master theorem,0.0,0.0,0.0,0.0
+recurrence relation,recurrence relation,0.0,0.0,0.0,0.0
+recurrence tree,recurrence tree,0.0,0.0,0.0,0.0
+amortised analysis,amortised analysis,0.0,0.0,0.0,0.0
+little oh,little oh,0.0,0.0,0.0,0.0
+little omega,little omega,0.0,0.0,0.0,0.0
+big oh,big oh,0.0,0.0,1.0,0.0
+space complexity,space complexity,0.0,0.0,0.0,0.0
+time complexity,time complexity,0.0,0.0,0.0,0.0
+instruction space,instruction space,0.0,0.0,0.0,0.0
+environmental stack,environmental stack,0.0,0.0,0.0,0.0
+time bounded,time bounded,0.0,0.0,0.0,0.0
+space bounded,space bounded,0.0,0.0,0.0,0.0
+asymptotic notation,asymptotic notation,0.0,0.0,0.0,0.0
+asymptotically positive,asymptotically positive,0.0,0.0,0.0,0.0
+asymptotically nonnegative,asymptotically nonnegative,0.0,0.0,0.0,0.0
+monotonically increasing,monotonically increasing,0.0,0.0,0.0,0.0
+monotonically decreasing,monotonically decreasing,0.0,0.0,0.0,0.0
+strictly increasing,strictly increasing,0.0,0.0,0.0,0.0
+strictly decreasing,strictly decreasing,0.0,0.0,0.0,0.0
+polynomially bounded,polynomially bounded,0.0,0.0,0.0,0.0
+polylogarithmically bounded,polylogarithmically bounded,0.0,0.0,0.0,0.0
+functional iteration,functional iteration,0.0,0.0,0.0,0.0
+asymptotic behavior,asymptotic behavior,0.0,0.0,0.0,0.0
+appropriately bounded,appropriately bounded,0.0,0.0,0.0,0.0
+inductive hypothesis,inductive hypothesis,0.0,0.0,0.0,0.0
+time complex,time complex,0.0,0.0,0.0,0.0
+growth funct,growth funct,0.0,0.0,0.0,0.0
+aymptotic analysi,aymptotic analysi,0.0,0.0,0.0,0.0
+mathematical induct,mathematical induct,0.0,0.0,0.0,0.0
+solving recurr,solving recurr,0.0,0.0,0.0,0.0
+recurrence rel,recurrence rel,0.0,0.0,0.0,0.0
+recurrence tre,recurrence tre,0.0,0.0,0.0,0.0
+amortised analysi,amortised analysi,0.0,0.0,0.0,0.0
+space complex,space complex,0.0,0.0,0.0,0.0
+instruction spac,instruction spac,0.0,0.0,0.0,0.0
+time bound,time bound,0.0,0.0,0.0,0.0
+space bound,space bound,0.0,0.0,0.0,0.0
+asymptotic not,asymptotic not,0.0,0.0,0.0,0.0
+asymptotically posit,asymptotically posit,0.0,0.0,0.0,0.0
+asymptotically nonneg,asymptotically nonneg,0.0,0.0,0.0,0.0
+monotonically increas,monotonically increas,0.0,0.0,0.0,0.0
+monotonically decreas,monotonically decreas,0.0,0.0,0.0,0.0
+strictly increas,strictly increas,0.0,0.0,0.0,0.0
+strictly decreas,strictly decreas,0.0,0.0,0.0,0.0
+polynomially bound,polynomially bound,0.0,0.0,0.0,0.0
+polylogarithmically bound,polylogarithmically bound,0.0,0.0,0.0,0.0
+functional iter,functional iter,0.0,0.0,1.0,0.0
+appropriately bound,appropriately bound,0.0,0.0,0.0,0.0
+inductive hypothesi,inductive hypothesi,0.0,0.0,0.0,0.0
+uncaught exceptions,uncaught exceptions,0.0,0.0,0.0,0.0
+exception ptr,exception ptr,0.0,0.0,70.0,0.0
+current exception,current exception,0.0,0.0,31.0,0.0
+rethrow exception,rethrow exception,0.0,0.0,34.0,0.0
+nested exception,nested exception,0.0,0.0,30.0,0.0
+terminate handler,terminate handler,0.0,0.0,10.0,0.0
+get terminate,get terminate,0.0,0.0,0.0,0.0
+set terminate,set terminate,0.0,0.0,0.0,0.0
+bad exception,bad exception,0.0,0.0,70.0,0.0
+unexpected handler,unexpected handler,0.0,0.0,10.0,0.0
+get unexpected,get unexpected,0.0,0.0,0.0,0.0
+set unexpected,set unexpected,0.0,0.0,0.0,0.0
+logic error,logic error,0.0,0.0,2.0,0.0
+invalid argument,invalid argument,1.0,0.0,1.0,0.0
+domain error,domain error,0.0,0.0,1.0,0.0
+length error,length error,0.0,0.0,12.0,0.0
+runtime error,runtime error,0.0,0.0,1.0,0.0
+range error,range error,0.0,0.0,1.0,0.0
+overflow error,overflow error,0.0,0.0,1.0,0.0
+underflow error,underflow error,0.0,0.0,1.0,0.0
+tx exception,tx exception,0.0,0.0,70.0,0.0
+error category,error category,0.0,0.0,1.0,0.0
+generic category,generic category,0.0,0.0,0.0,0.0
+system category,system category,0.0,0.0,0.0,0.0
+error condition,error condition,0.0,0.0,1.0,0.0
+error code,error code,0.0,0.0,1.0,0.0
+system error,system error,0.0,0.0,1.0,0.0
+neagtive cycles,neagtive cycles,0.0,0.0,0.0,0.0
+neagtive cycle,neagtive cycle,0.0,0.0,0.0,0.0
+bi linear,bi linear,0.0,0.0,0.0,0.0
+linearly independent,linearly independent,0.0,0.0,0.0,0.0
+one dimensional,one dimensional,0.0,0.0,0.0,0.0
+two dimensional,two dimensional,0.0,0.0,0.0,0.0
+multi dimensional,multi dimensional,0.0,0.0,0.0,0.0
+zero based,zero based,0.0,0.0,0.0,0.0
+one based,one based,0.0,0.0,1.0,0.0
+base pointer,base pointer,0.0,0.0,0.0,0.0
+non planar,non planar,0.0,0.0,0.0,0.0
+self loops,self loops,0.0,0.0,0.0,0.0
+cut edges,cut edges,0.0,0.0,0.0,0.0
+non prime,non prime,0.0,0.0,0.0,0.0
+self reference,self reference,0.0,0.0,0.0,0.0
+double ended,double ended,0.0,0.0,4.0,0.0
+singly linked,singly linked,0.0,0.0,0.0,0.0
+doubly linked,doubly linked,0.0,0.0,0.0,0.0
+zero product,zero product,0.0,0.0,0.0,0.0
+little endian,little endian,0.0,0.0,0.0,0.0
+big endian,big endian,0.0,0.0,0.0,0.0
+single valued,single valued,0.0,0.0,0.0,0.0
+multi valued,multi valued,0.0,0.0,0.0,0.0
+base case,base case,0.0,0.0,0.0,0.0
+recursive equations,recursive equations,0.0,0.0,0.0,0.0
+in range,in range,0.0,0.0,0.0,0.0
+strongly connect,strongly connect,0.0,0.0,0.0,0.0
+neagtive cycl,neagtive cycl,0.0,0.0,0.0,0.0
+linearly independ,linearly independ,0.0,0.0,0.0,0.0
+one dimension,one dimension,0.0,0.0,2.0,0.0
+two dimension,two dimension,0.0,0.0,2.0,0.0
+multi dimension,multi dimension,0.0,0.0,0.0,0.0
+zero bas,zero bas,0.0,0.0,0.0,0.0
+one bas,one bas,0.0,0.0,0.0,0.0
+base point,base point,0.0,0.0,3.0,0.0
+self loop,self loop,0.0,0.0,0.0,0.0
+cut edg,cut edg,0.0,0.0,0.0,0.0
+non prim,non prim,0.0,0.0,0.0,0.0
+self refer,self refer,0.0,0.0,0.0,0.0
+double end,double end,0.0,0.0,4.0,0.0
+singly link,singly link,0.0,0.0,0.0,0.0
+doubly link,doubly link,0.0,0.0,0.0,0.0
+single valu,single valu,0.0,0.0,0.0,0.0
+multi valu,multi valu,0.0,0.0,0.0,0.0
+base cas,base cas,0.0,0.0,0.0,0.0
+recursive equ,recursive equ,0.0,0.0,0.0,0.0
+in rang,in rang,0.0,0.0,0.0,0.0
+function parameters,function parameters,0.0,0.0,0.0,0.0
+loop variables,loop variables,0.0,0.0,0.0,0.0
+loop iterator,loop iterator,0.0,0.0,1.0,0.0
+switch variable,switch variable,0.0,0.0,3.0,0.0
+left half,left half,0.0,0.0,0.0,0.0
+right half,right half,0.0,0.0,0.0,0.0
+no.of item,no.of item,0.0,0.0,0.0,0.0
+no.of element,no.of element,0.0,0.0,0.0,0.0
+no.of record,no.of record,0.0,0.0,0.0,0.0
+no.of input,no.of input,0.0,0.0,0.0,0.0
+no.of word,no.of word,0.0,0.0,0.0,0.0
+no.of samples,no.of samples,0.0,0.0,0.0,0.0
+head node,head node,0.0,0.0,0.0,0.0
+starting index,starting index,0.0,0.0,4.0,0.0
+ending index,ending index,0.0,0.0,4.0,0.0
+first few,first few,0.0,0.0,0.0,0.0
+any number,any number,0.0,0.0,0.0,0.0
+left bit,left bit,0.0,0.0,2.0,0.0
+right bit,right bit,0.0,0.0,2.0,0.0
+leftmost bit,leftmost bit,0.0,0.0,0.0,0.0
+rightmost bit,rightmost bit,0.0,0.0,2.0,0.0
+returned from,returned from,0.0,0.0,0.0,0.0
+final output,final output,0.0,0.0,23.0,0.0
+final result,final result,0.0,0.0,28.0,0.0
+final outcome,final outcome,0.0,0.0,23.0,0.0
+function paramet,function paramet,0.0,0.0,0.0,0.0
+loop vari,loop vari,0.0,0.0,0.0,0.0
+loop iter,loop iter,0.0,0.0,0.0,0.0
+switch vari,switch vari,0.0,0.0,5.0,0.0
+no.of el,no.of el,0.0,0.0,0.0,0.0
+no.of sampl,no.of sampl,0.0,0.0,0.0,0.0
+head nod,head nod,0.0,0.0,1.0,0.0
+any numb,any numb,0.0,0.0,0.0,0.0
+final outcom,final outcom,0.0,0.0,23.0,0.0
+linked list,linked list,0.0,0.0,10.0,0.0
+binary tree,binary tree,0.0,0.0,0.0,0.0
+suffix tree,suffix tree,0.0,0.0,0.0,0.0
+avl tree,avl tree,0.0,0.0,0.0,0.0
+splay tree,splay tree,0.0,0.0,0.0,0.0
+b tree,b tree,0.0,0.0,0.0,0.0
+red-black tree,red-black tree,0.0,0.0,0.0,0.0
+segment tree,segment tree,0.0,0.0,0.0,0.0
+suffix array,suffix array,0.0,0.0,5.0,0.0
+tagged union,tagged union,0.0,0.0,0.0,0.0
+small int,small int,0.0,0.0,1.0,0.0
+big int,big int,0.0,0.0,48.0,0.0
+priority queue,priority queue,0.0,0.0,1.0,0.0
+double-ended queue,double-ended queue,0.0,0.0,4.0,0.0
+euler circuit,euler circuit,0.0,0.0,0.0,0.0
+eulerian path,eulerian path,0.0,0.0,2.0,0.0
+eulerian circuit,eulerian circuit,0.0,0.0,0.0,0.0
+euler path,euler path,0.0,0.0,2.0,0.0
+hash tree,hash tree,0.0,0.0,0.0,0.0
+hash list,hash list,0.0,0.0,5.0,0.0
+adjacency matrix,adjacency matrix,0.0,0.0,1.0,0.0
+adjacency list,adjacency list,0.0,0.0,5.0,0.0
+zero vector,zero vector,0.0,0.0,0.0,0.0
+identity matrix,identity matrix,0.0,0.0,2.0,0.0
+diagonalizable matrix,diagonalizable matrix,0.0,0.0,1.0,0.0
+data segment,data segment,0.0,0.0,0.0,0.0
+binary tre,binary tre,0.0,0.0,0.0,0.0
+suffix tre,suffix tre,0.0,0.0,0.0,0.0
+avl tre,avl tre,0.0,0.0,0.0,0.0
+splay tre,splay tre,0.0,0.0,0.0,0.0
+red-black tre,red-black tre,0.0,0.0,0.0,0.0
+segment tre,segment tre,0.0,0.0,0.0,0.0
+priority queu,priority queu,0.0,0.0,1.0,0.0
+double-ended queu,double-ended queu,0.0,0.0,4.0,0.0
+hash tre,hash tre,0.0,0.0,0.0,0.0
+data seg,data seg,0.0,0.0,18.0,0.0
+cartesian tree,cartesian tree,0.0,0.0,0.0,0.0
+sparse set,sparse set,0.0,0.0,0.0,0.0
+interval tree,interval tree,0.0,0.0,0.0,0.0
+decision tree,decision tree,0.0,0.0,0.0,0.0
+binary heap,binary heap,0.0,0.0,0.0,0.0
+incidence matrix,incidence matrix,0.0,0.0,1.0,0.0
+disjoint set,disjoint set,0.0,0.0,0.0,0.0
+binomial heap,binomial heap,0.0,0.0,0.0,0.0
+fibonacci heap,fibonacci heap,0.0,0.0,0.0,0.0
+hash table,hash table,0.0,0.0,0.0,0.0
+bit array,bit array,0.0,0.0,5.0,0.0
+circular buffer,circular buffer,0.0,0.0,0.0,0.0
+dynamic array,dynamic array,0.0,0.0,5.0,0.0
+skip list,skip list,0.0,0.0,6.0,0.0
+r tree,r tree,0.0,0.0,0.0,0.0
+di graph,di graph,0.0,0.0,0.0,0.0
+sparse matrix,sparse matrix,0.0,0.0,2.0,0.0
+associative array,associative array,0.0,0.0,5.0,0.0
+cartesian tre,cartesian tre,0.0,0.0,0.0,0.0
+interval tre,interval tre,0.0,0.0,0.0,0.0
+decision tre,decision tre,0.0,0.0,0.0,0.0
+hash tabl,hash tabl,0.0,0.0,0.0,0.0
+circular buff,circular buff,0.0,0.0,0.0,0.0
+universal set,universal set,0.0,0.0,0.0,0.0
+finite set,finite set,0.0,0.0,0.0,0.0
+infinite set,infinite set,0.0,0.0,0.0,0.0
+singleton set,singleton set,0.0,0.0,0.0,0.0
+super set,super set,0.0,0.0,8.0,0.0
+equivalent set,equivalent set,0.0,0.0,0.0,0.0
+equal sets,equal sets,0.0,0.0,0.0,0.0
+null sets,null sets,0.0,0.0,2.0,0.0
+overlapping sets,overlapping sets,0.0,0.0,0.0,0.0
+unit set,unit set,0.0,0.0,8.0,0.0
+ring sum,ring sum,0.0,0.0,0.0,0.0
+cartesian product,cartesian product,0.0,0.0,0.0,0.0
+commutative property,commutative property,0.0,0.0,0.0,0.0
+associative property,associative property,0.0,0.0,0.0,0.0
+demorgans law,demorgans law,0.0,0.0,0.0,0.0
+distributive law,distributive law,0.0,0.0,0.0,0.0
+domination law,domination law,0.0,0.0,0.0,0.0
+absorption law,absorption law,0.0,0.0,0.0,0.0
+identity law,identity law,0.0,0.0,0.0,0.0
+empty set,empty set,0.0,0.0,4.0,0.0
+power set,power set,0.0,0.0,0.0,0.0
+proper subset,proper subset,0.0,0.0,2.0,0.0
+venn diagram,venn diagram,0.0,0.0,0.0,0.0
+statement form,statement form,0.0,0.0,0.0,0.0
+tabular form,tabular form,0.0,0.0,0.0,0.0
+matrix addition,matrix addition,0.0,0.0,2.0,0.0
+matrix subtraction,matrix subtraction,0.0,0.0,2.0,0.0
+matrix multiplication,matrix multiplication,0.0,0.0,5.0,0.0
+upper triangular,upper triangular,0.0,0.0,0.0,0.0
+lower triangular,lower triangular,0.0,0.0,0.0,0.0
+null matrix,null matrix,0.0,0.0,4.0,0.0
+square matrix,square matrix,0.0,0.0,2.0,0.0
+complex matrix,complex matrix,0.0,0.0,2.0,0.0
+scalar matrix,scalar matrix,0.0,0.0,2.0,0.0
+horizontal matrix,horizontal matrix,0.0,0.0,2.0,0.0
+vertical matrix,vertical matrix,0.0,0.0,4.0,0.0
+symmetric matrix,symmetric matrix,0.0,0.0,2.0,0.0
+zero matrix,zero matrix,0.0,0.0,2.0,0.0
+augmented matrix,augmented matrix,0.0,0.0,2.0,0.0
+row matrix,row matrix,0.0,0.0,2.0,0.0
+column matrix,column matrix,0.0,0.0,10.0,0.0
+rectangular matrix,rectangular matrix,0.0,0.0,2.0,0.0
+triangular matrix,triangular matrix,0.0,0.0,2.0,0.0
+path graph,path graph,0.0,0.0,2.0,0.0
+complete graph,complete graph,0.0,0.0,0.0,0.0
+regular graph,regular graph,0.0,0.0,0.0,0.0
+irregular graph,irregular graph,0.0,0.0,0.0,0.0
+acyclic graph,acyclic graph,0.0,0.0,0.0,0.0
+disconnected graph,disconnected graph,0.0,0.0,0.0,0.0
+star graph,star graph,0.0,0.0,0.0,0.0
+directed graph,directed graph,0.0,0.0,0.0,0.0
+undirected graph,undirected graph,0.0,0.0,0.0,0.0
+multi graph,multi graph,0.0,0.0,0.0,0.0
+weighted graph,weighted graph,0.0,0.0,0.0,0.0
+simple graph,simple graph,0.0,0.0,0.0,0.0
+isomorphic graph,isomorphic graph,0.0,0.0,0.0,0.0
+bipartite graph,bipartite graph,0.0,0.0,0.0,0.0
+eulerian graph,eulerian graph,0.0,0.0,0.0,0.0
+hamilton graph,hamilton graph,0.0,0.0,0.0,0.0
+vertex set,vertex set,0.0,0.0,0.0,0.0
+edge set,edge set,0.0,0.0,0.0,0.0
+spanning subgraph,spanning subgraph,0.0,0.0,0.0,0.0
+induced subgraph,induced subgraph,0.0,0.0,0.0,0.0
+cut vertex,cut vertex,0.0,0.0,0.0,0.0
+cut edge,cut edge,0.0,0.0,0.0,0.0
+articulation points,articulation points,0.0,0.0,0.0,0.0
+eulearian trail,eulearian trail,0.0,0.0,0.0,0.0
+eulerian circuit,eulerian circuit,0.0,0.0,0.0,0.0
+isolated vertex,isolated vertex,0.0,0.0,0.0,0.0
+odd degree,odd degree,0.0,0.0,0.0,0.0
+even degree,even degree,0.0,0.0,0.0,0.0
+red hat,red hat,0.0,0.0,0.0,0.0
+von neuman,von neuman,0.0,0.0,0.0,0.0
+object code,object code,0.0,0.0,8.0,0.0
+dynamic linked,dynamic linked,0.0,0.0,0.0,0.0
+contiguous memory,contiguous memory,0.0,0.0,0.0,0.0
+bit map,bit map,0.0,0.0,4.0,0.0
+linked list,linked list,0.0,0.0,10.0,0.0
+first fit,first fit,0.0,0.0,1.0,0.0
+next fit,next fit,0.0,0.0,0.0,0.0
+best fit,best fit,0.0,0.0,0.0,0.0
+worst fit,worst fit,0.0,0.0,0.0,0.0
+variable partitioning,variable partitioning,0.0,0.0,0.0,0.0
+dynamic partitioning,dynamic partitioning,0.0,0.0,0.0,0.0
+fixed partitioning,fixed partitioning,0.0,0.0,0.0,0.0
+binary address,binary address,0.0,0.0,0.0,0.0
+page table,page table,0.0,0.0,0.0,0.0
+virtual memory,virtual memory,0.0,0.0,0.0,0.0
+page fault,page fault,0.0,0.0,0.0,0.0
+dirty bit,dirty bit,0.0,0.0,0.0,0.0
+frame allocation,frame allocation,0.0,0.0,2.0,0.0
+page replacement,page replacement,0.0,0.0,0.0,0.0
+belady's anamoly,belady's anamoly,0.0,0.0,3.0,0.0
+stack algorithm,stack algorithm,0.0,0.0,0.0,0.0
+segmented paging,segmented paging,0.0,0.0,0.0,0.0
+accessing files,accessing files,0.0,0.0,0.0,0.0
+directory structure,directory structure,0.0,0.0,0.0,0.0
+single level,single level,0.0,0.0,0.0,0.0
+acyclic graph,acyclic graph,0.0,0.0,0.0,0.0
+file system,file system,0.0,0.0,2.0,0.0
+directory implementation,directory implementation,0.0,0.0,5.0,0.0
+allocation method,allocation method,0.0,0.0,0.0,0.0
+indexed allocation,indexed allocation,0.0,0.0,0.0,0.0
+disk scheduling,disk scheduling,0.0,0.0,0.0,0.0
+fcfs scheduling,fcfs scheduling,0.0,0.0,0.0,0.0
+sstf scheduling,sstf scheduling,0.0,0.0,0.0,0.0
+complex.h  ,complex.h  ,0.0,0.0,2.0,0.0
+fenv.h  ,fenv.h  ,0.0,0.0,0.0,0.0
+inttypes.h  ,inttypes.h  ,0.0,0.0,0.0,0.0
+iso646.h  ,iso646.h  ,0.0,0.0,0.0,0.0
+stdalign.h  ,stdalign.h  ,0.0,0.0,0.0,0.0
+stdatomic.h  ,stdatomic.h  ,0.0,0.0,0.0,0.0
+stdbool.h  ,stdbool.h  ,0.0,0.0,0.0,0.0
+stdint.h  ,stdint.h  ,0.0,0.0,0.0,0.0
+stdnoreturn.h  ,stdnoreturn.h  ,0.0,0.0,0.0,0.0
+tgmath.h  ,tgmath.h  ,0.0,0.0,0.0,0.0
+threads.h  ,threads.h  ,0.0,0.0,0.0,0.0
+uchar.h  ,uchar.h  ,0.0,0.0,0.0,0.0
+wchar.h  ,wchar.h  ,0.0,0.0,0.0,0.0
+wctype.h  ,wctype.h  ,0.0,0.0,0.0,0.0
+osi model,osi model,0.0,0.0,0.0,0.0
+ipx spx,ipx spx,0.0,0.0,0.0,0.0
+frame relay,frame relay,0.0,0.0,2.0,0.0
+data stream,data stream,0.0,0.0,1.0,0.0
+stream computing,stream computing,0.0,0.0,0.0,0.0
+computer network,computer network,0.0,0.0,0.0,0.0
+multipath tcp,multipath tcp,0.0,0.0,0.0,0.0
+nagle's algorithm,nagle's algorithm,0.0,0.0,3.0,0.0
+broadcasting networking,broadcasting networking,0.0,0.0,0.0,0.0
+data buffer,data buffer,0.0,0.0,0.0,0.0
+data link,data link,0.0,0.0,16.0,0.0
+virtual circuit,virtual circuit,0.0,0.0,0.0,0.0
+slow start,slow start,0.0,0.0,9.0,0.0
+multi homing,multi homing,0.0,0.0,0.0,0.0
+fibre channel,fibre channel,0.0,0.0,0.0,0.0
+il protocol,il protocol,0.0,0.0,0.0,0.0
+internet protocol,internet protocol,0.0,0.0,0.0,0.0
+osi protocols,osi protocols,0.0,0.0,0.0,0.0
+udp lite,udp lite,0.0,0.0,0.0,0.0
+application software,application software,0.0,0.0,0.0,0.0
+buffer underrun,buffer underrun,0.0,0.0,0.0,0.0
+network congestion,network congestion,0.0,0.0,0.0,0.0
+network service,network service,0.0,0.0,0.0,0.0
+network socket,network socket,0.0,0.0,0.0,0.0
+congestion control,congestion control,0.0,0.0,0.0,0.0
+congestive collapse,congestive collapse,0.0,0.0,0.0,0.0
+cyclic udp,cyclic udp,0.0,0.0,0.0,0.0
+stateful design,stateful design,0.0,0.0,0.0,0.0
+error recovery,error recovery,0.0,0.0,1.0,0.0
+congestion avoidance,congestion avoidance,0.0,0.0,0.0,0.0
+statistical multiplexing,statistical multiplexing,0.0,0.0,0.0,0.0
+internet layer,internet layer,0.0,0.0,0.0,0.0
+link layer,link layer,0.0,0.0,0.0,0.0
+packet forwarding,packet forwarding,0.0,0.0,0.0,0.0
+host network,host network,0.0,0.0,0.0,0.0
+network packet,network packet,0.0,0.0,0.0,0.0
+transport layer,transport layer,0.0,0.0,0.0,0.0
+computer networking,computer networking,0.0,0.0,0.0,0.0
+enterprise javabeans,enterprise javabeans,0.0,0.0,0.0,0.0
+application layer,application layer,0.0,0.0,0.0,0.0
+lip sync,lip sync,0.0,0.0,0.0,0.0
+duplex telecommunications,duplex telecommunications,0.0,0.0,0.0,0.0
+presentation layer,presentation layer,0.0,0.0,1.0,0.0
+web conferencing,web conferencing,0.0,0.0,0.0,0.0
+live tv,live tv,0.0,0.0,0.0,0.0
+synchronization point,synchronization point,0.0,0.0,2.0,0.0
+session restoration,session restoration,0.0,0.0,0.0,0.0
+scripting language,scripting language,0.0,0.0,0.0,0.0
+compiled language,compiled language,0.0,0.0,0.0,0.0
+hardware abstraction,hardware abstraction,0.0,0.0,0.0,0.0
+assembly language,assembly language,0.0,0.0,0.0,0.0
+computer architecture,computer architecture,0.0,0.0,0.0,0.0
+graphics library,graphics library,0.0,0.0,0.0,0.0
+computer hardware,computer hardware,0.0,0.0,0.0,0.0
+information hiding,information hiding,0.0,0.0,1.0,0.0
+design pattern,design pattern,0.0,0.0,0.0,0.0
+interpreted language,interpreted language,0.0,0.0,0.0,0.0
+operating system,operating system,0.0,0.0,0.0,0.0
+platform independence,platform independence,0.0,0.0,0.0,0.0
+programmable logic,programmable logic,0.0,0.0,0.0,0.0
+computer display,computer display,0.0,0.0,16.0,0.0
+machine language,machine language,0.0,0.0,0.0,0.0
+network protocol,network protocol,0.0,0.0,0.0,0.0
+session layer,session layer,0.0,0.0,0.0,0.0
+abstraction layer,abstraction layer,0.0,0.0,0.0,0.0
+link aggregation,link aggregation,0.0,0.0,0.0,0.0
+lead electronics,lead electronics,0.0,0.0,0.0,0.0
+reference models,reference models,0.0,0.0,0.0,0.0
+packet segmentation,packet segmentation,0.0,0.0,0.0,0.0
+communication protocol,communication protocol,0.0,0.0,0.0,0.0
+bit stuffing,bit stuffing,0.0,0.0,0.0,0.0
+packet switching,packet switching,0.0,0.0,0.0,0.0
+streaming media,streaming media,0.0,0.0,0.0,0.0
+tcp ip,tcp ip,0.0,0.0,0.0,0.0
+network layer,network layer,0.0,0.0,0.0,0.0
+ieee 8022,ieee 8022,0.0,0.0,0.0,0.0
+100base tx,100base tx,0.0,0.0,0.0,0.0
+netbios frames,netbios frames,0.0,0.0,0.0,0.0
+10base t,10base t,0.0,0.0,0.0,0.0
+iso standards,iso standards,0.0,0.0,0.0,0.0
+npl network,npl network,0.0,0.0,0.0,0.0
+can bus,can bus,0.0,0.0,0.0,0.0
+data structure,data structure,0.0,0.0,0.0,0.0
+media communication,media communication,0.0,0.0,0.0,0.0
+transmission medium,transmission medium,0.0,0.0,0.0,0.0
+rs 232,rs 232,0.0,0.0,0.0,0.0
+ieee 8023,ieee 8023,0.0,0.0,0.0,0.0
+wi fi,wi fi,0.0,0.0,0.0,0.0
+"washington, dc","washington, dc",0.0,0.0,0.0,0.0
+eia 530,eia 530,0.0,0.0,0.0,0.0
+network management,network management,0.0,0.0,0.0,0.0
+computer file,computer file,0.0,0.0,1.0,0.0
+characteristic impedance,characteristic impedance,0.0,0.0,0.0,0.0
+layer 8,layer 8,0.0,0.0,4.0,0.0
+twinaxial cabling,twinaxial cabling,0.0,0.0,0.0,0.0
+network topology,network topology,0.0,0.0,0.0,0.0
+protocol wars,protocol wars,0.0,0.0,0.0,0.0
+iso 7498,iso 7498,0.0,0.0,0.0,0.0
+communications protocol,communications protocol,0.0,0.0,0.0,0.0
+token ring,token ring,0.0,0.0,0.0,0.0
+e carrier,e carrier,0.0,0.0,6.0,0.0
+is is,is is,0.0,0.0,80.0,0.0
+ieee 8021ae,ieee 8021ae,0.0,0.0,0.0,0.0
+marshall rose,marshall rose,0.0,0.0,0.0,0.0
+considered harmful,considered harmful,0.0,0.0,0.0,0.0
+ieee 802,ieee 802,0.0,0.0,0.0,0.0
+ieee 8021q,ieee 8021q,0.0,0.0,0.0,0.0
+cloud computing,cloud computing,0.0,0.0,0.0,0.0
+conceptual model,conceptual model,0.0,0.0,0.0,0.0
+protocol stack,protocol stack,0.0,0.0,0.0,0.0
+service layer,service layer,0.0,0.0,4.0,0.0
+simplex communication,simplex communication,0.0,0.0,0.0,0.0
+rs 422,rs 422,0.0,0.0,0.0,0.0
+distributed application,distributed application,0.0,0.0,0.0,0.0
+t carrier,t carrier,0.0,0.0,0.0,0.0
+ieee 80211,ieee 80211,0.0,0.0,0.0,0.0
+physical layer,physical layer,0.0,0.0,0.0,0.0
+information security,information security,0.0,0.0,1.0,0.0
+communication protocols,communication protocols,0.0,0.0,0.0,0.0
+http cookies,http cookies,0.0,0.0,0.0,0.0
+half duplex,half duplex,0.0,0.0,0.0,0.0
+network design,network design,0.0,0.0,0.0,0.0
+management plane,management plane,0.0,0.0,0.0,0.0
+1000base t,1000base t,0.0,0.0,0.0,0.0
+error correction,error correction,0.0,0.0,4.0,0.0
+token bus,token bus,0.0,0.0,0.0,0.0
+named pipes,named pipes,0.0,0.0,0.0,0.0
+v35 recommendation,v35 recommendation,0.0,0.0,0.0,0.0
+v34 recommendation,v34 recommendation,0.0,0.0,0.0,0.0
+selective repeat,selective repeat,0.0,0.0,0.0,0.0
+tunnelling protocol,tunnelling protocol,0.0,0.0,0.0,0.0
+connectionless communication,connectionless communication,0.0,0.0,0.0,0.0
+wollongong group,wollongong group,0.0,0.0,0.0,0.0
+network segmentation,network segmentation,0.0,0.0,0.0,0.0
+router computing,router computing,0.0,0.0,0.0,0.0
+black box,black box,0.0,0.0,0.0,0.0
+process computing,process computing,0.0,0.0,0.0,0.0
+proprietary protocol,proprietary protocol,0.0,0.0,0.0,0.0
+network switch,network switch,0.0,0.0,3.0,0.0
+t tcp,t tcp,0.0,0.0,0.0,0.0
+network architecture,network architecture,0.0,0.0,0.0,0.0
+robert metcalfe,robert metcalfe,0.0,0.0,0.0,0.0
+client–server model,client–server model,0.0,0.0,0.0,0.0
+routing protocol,routing protocol,0.0,0.0,0.0,0.0
+directory service,directory service,0.0,0.0,0.0,0.0
+service discovery,service discovery,0.0,0.0,0.0,0.0
+bandwidth throttling,bandwidth throttling,0.0,0.0,0.0,0.0
+vm cms,vm cms,0.0,0.0,0.0,0.0
+bbn technologies,bbn technologies,0.0,0.0,0.0,0.0
+device driver,device driver,0.0,0.0,0.0,0.0
+embedded system,embedded system,0.0,0.0,0.0,0.0
+encapsulation networking,encapsulation networking,0.0,0.0,0.0,0.0
+ephemeral port,ephemeral port,0.0,0.0,0.0,0.0
+ftp software,ftp software,0.0,0.0,2.0,0.0
+firewall computing,firewall computing,0.0,0.0,0.0,0.0
+gateway telecommunications,gateway telecommunications,0.0,0.0,0.0,0.0
+ip address,ip address,0.0,0.0,0.0,0.0
+packet radio,packet radio,0.0,0.0,0.0,0.0
+personal computer,personal computer,0.0,0.0,0.0,0.0
+os 2,os 2,0.0,0.0,5.0,0.0
+tunneling protocol,tunneling protocol,0.0,0.0,0.0,0.0
+client computing,client computing,0.0,0.0,0.0,0.0
+technical standard,technical standard,0.0,0.0,0.0,0.0
+internet protocols,internet protocols,0.0,0.0,0.0,0.0
+internetwork protocol,internetwork protocol,0.0,0.0,0.0,0.0
+robustness principle,robustness principle,0.0,0.0,0.0,0.0
+internet socket,internet socket,0.0,0.0,0.0,0.0
+error detection,error detection,0.0,0.0,9.0,0.0
+flip protocol,flip protocol,0.0,0.0,0.0,0.0
+open architecture,open architecture,0.0,0.0,0.0,0.0
+connection oriented,connection oriented,0.0,0.0,0.0,0.0
+network card,network card,0.0,0.0,0.0,0.0
+network port,network port,0.0,0.0,0.0,0.0
+xerox parc,xerox parc,0.0,0.0,0.0,0.0
+bsd unix,bsd unix,0.0,0.0,0.0,0.0
+vinton cerf,vinton cerf,0.0,0.0,0.0,0.0
+iso/iec 9126,iso/iec 9126,0.0,0.0,0.0,0.0
+test design,test design,0.0,0.0,0.0,0.0
+test plan,test plan,0.0,0.0,0.0,0.0
+algorithmic efficiency,algorithmic efficiency,0.0,0.0,0.0,0.0
+keyboard layout,keyboard layout,0.0,0.0,86.0,0.0
+library computing,library computing,0.0,0.0,0.0,0.0
+agile testing,agile testing,0.0,0.0,0.0,0.0
+regression testing,regression testing,0.0,0.0,0.0,0.0
+reliability engineering,reliability engineering,0.0,0.0,0.0,0.0
+software regression,software regression,0.0,0.0,0.0,0.0
+software engineering,software engineering,0.0,0.0,1.0,0.0
+environment variable,environment variable,0.0,0.0,0.0,0.0
+equivalence partitioning,equivalence partitioning,0.0,0.0,0.0,0.0
+extreme programming,extreme programming,0.0,0.0,0.0,0.0
+functional testing,functional testing,0.0,0.0,2.0,0.0
+requirements analysis,requirements analysis,0.0,0.0,0.0,0.0
+backward compatibility,backward compatibility,0.0,0.0,0.0,0.0
+quality assurance,quality assurance,0.0,0.0,0.0,0.0
+test automation,test automation,0.0,0.0,0.0,0.0
+web application,web application,0.0,0.0,1.0,0.0
+benchmark computing,benchmark computing,0.0,0.0,0.0,0.0
+perpetual beta,perpetual beta,0.0,0.0,0.0,0.0
+computer occupations,computer occupations,0.0,0.0,0.0,0.0
+computer performance,computer performance,0.0,0.0,0.0,0.0
+computer terminal,computer terminal,0.0,0.0,0.0,0.0
+method stub,method stub,0.0,0.0,0.0,0.0
+stress testing,stress testing,0.0,0.0,0.0,0.0
+test case,test case,0.0,0.0,0.0,0.0
+traceability matrix,traceability matrix,0.0,0.0,1.0,0.0
+hard coding,hard coding,0.0,0.0,0.0,0.0
+test effort,test effort,0.0,0.0,2.0,0.0
+web testing,web testing,0.0,0.0,0.0,0.0
+system testing,system testing,0.0,0.0,0.0,0.0
+mutation testing,mutation testing,0.0,0.0,0.0,0.0
+manual testing,manual testing,0.0,0.0,0.0,0.0
+iso/iec 29119,iso/iec 29119,0.0,0.0,0.0,0.0
+software testing,software testing,0.0,0.0,0.0,0.0
+log analysis,log analysis,0.0,0.0,0.0,0.0
+backdoor computing,backdoor computing,0.0,0.0,0.0,0.0
+requirements traceability,requirements traceability,0.0,0.0,0.0,0.0
+code review,code review,0.0,0.0,0.0,0.0
+continuous deployment,continuous deployment,0.0,0.0,0.0,0.0
+continuous integration,continuous integration,0.0,0.0,0.0,0.0
+software bug,software bug,0.0,0.0,0.0,0.0
+use case,use case,0.0,0.0,1.0,0.0
+web browser,web browser,0.0,0.0,0.0,0.0
+desktop metaphor,desktop metaphor,0.0,0.0,0.0,0.0
+software development,software development,0.0,0.0,0.0,0.0
+software metric,software metric,0.0,0.0,0.0,0.0
+data validation,data validation,0.0,0.0,0.0,0.0
+end user,end user,0.0,0.0,0.0,0.0
+runtime verification,runtime verification,0.0,0.0,0.0,0.0
+software verification,software verification,0.0,0.0,0.0,0.0
+software versioning,software versioning,0.0,0.0,0.0,0.0
+software walkthrough,software walkthrough,0.0,0.0,0.0,0.0
+unit testing,unit testing,0.0,0.0,0.0,0.0
+version control,version control,0.0,0.0,0.0,0.0
+waterfall model,waterfall model,0.0,0.0,0.0,0.0
+modular programming,modular programming,0.0,0.0,0.0,0.0
+sanity testing,sanity testing,0.0,0.0,0.0,0.0
+character encoding,character encoding,0.0,0.0,0.0,0.0
+trace table,trace table,0.0,0.0,0.0,0.0
+usability testing,usability testing,0.0,0.0,0.0,0.0
+api testing,api testing,0.0,0.0,0.0,0.0
+source data,source data,0.0,0.0,2.0,0.0
+test script,test script,0.0,0.0,0.0,0.0
+program animation,program animation,0.0,0.0,2.0,0.0
+load testing,load testing,0.0,0.0,0.0,0.0
+project management,project management,0.0,0.0,0.0,0.0
+risk management,risk management,0.0,0.0,0.0,0.0
+software maintenance,software maintenance,0.0,0.0,0.0,0.0
+exception handling,exception handling,0.0,0.0,60.0,0.0
+exploratory testing,exploratory testing,0.0,0.0,0.0,0.0
+fault technology,fault technology,0.0,0.0,0.0,0.0
+formal verification,formal verification,0.0,0.0,0.0,0.0
+test fixture,test fixture,0.0,0.0,0.0,0.0
+computer hardware,computer hardware,0.0,0.0,0.0,0.0
+test harness,test harness,0.0,0.0,0.0,0.0
+fault injection,fault injection,0.0,0.0,0.0,0.0
+human error,human error,0.0,0.0,1.0,0.0
+integration testing,integration testing,0.0,0.0,0.0,0.0
+operating system,operating system,0.0,0.0,0.0,0.0
+pair programming,pair programming,0.0,0.0,0.0,0.0
+test oracle,test oracle,0.0,0.0,0.0,0.0
+operating environment,operating environment,0.0,0.0,0.0,0.0
+software quality,software quality,0.0,0.0,0.0,0.0
+dynamic testing,dynamic testing,0.0,0.0,0.0,0.0
+application software,application software,0.0,0.0,0.0,0.0
+computer bug,computer bug,0.0,0.0,0.0,0.0
+computer security,computer security,0.0,0.0,0.0,0.0
+concurrent computing,concurrent computing,0.0,0.0,0.0,0.0
+volume testing,volume testing,0.0,0.0,0.0,0.0
+software inspection,software inspection,0.0,0.0,0.0,0.0
+beta version,beta version,0.0,0.0,0.0,0.0
+dead code,dead code,0.0,0.0,0.0,0.0
+decision table,decision table,0.0,0.0,0.0,0.0
+security testing,security testing,0.0,0.0,0.0,0.0
+code coverage,code coverage,0.0,0.0,0.0,0.0
+computer compatibility,computer compatibility,0.0,0.0,0.0,0.0
+configuration file,configuration file,0.0,0.0,3.0,0.0
+constraint mathematics,constraint mathematics,0.0,0.0,2.0,0.0
+control flow,control flow,0.0,0.0,0.0,0.0
+file comparison,file comparison,0.0,0.0,1.0,0.0
+machine code,machine code,0.0,0.0,0.0,0.0
+software component,software component,0.0,0.0,0.0,0.0
+source code,source code,0.0,0.0,1.0,0.0
+unintended consequence,unintended consequence,0.0,0.0,0.0,0.0
+keyboard shortcut,keyboard shortcut,0.0,0.0,0.0,0.0
+scalability testing,scalability testing,0.0,0.0,0.0,0.0
+software testability,software testability,0.0,0.0,0.0,0.0
+fuzz testing,fuzz testing,0.0,0.0,0.0,0.0
+test suite,test suite,0.0,0.0,0.0,0.0
+corner case,corner case,0.0,0.0,0.0,0.0
+software validation,software validation,0.0,0.0,0.0,0.0
+pair testing,pair testing,0.0,0.0,0.0,0.0
+test strategy,test strategy,0.0,0.0,0.0,0.0
+function points,function points,0.0,0.0,0.0,0.0
+functional requirements,functional requirements,0.0,0.0,0.0,0.0
+static testing,static testing,0.0,0.0,6.0,0.0
+reverse coding,reverse coding,0.0,0.0,0.0,0.0
+waterfall development,waterfall development,0.0,0.0,0.0,0.0
+acceptance test,acceptance test,0.0,0.0,0.0,0.0
+unit test,unit test,0.0,0.0,0.0,0.0
+unit tests,unit tests,0.0,0.0,0.0,0.0
+scenario test,scenario test,0.0,0.0,0.0,0.0
+symbolic debugging,symbolic debugging,0.0,0.0,0.0,0.0
+computer programming,computer programming,0.0,0.0,0.0,0.0
+software design,software design,0.0,0.0,0.0,0.0
+iso/iec 24744,iso/iec 24744,0.0,0.0,0.0,0.0
+programming style,programming style,0.0,0.0,0.0,0.0
+structured programming,structured programming,0.0,0.0,0.0,0.0
+data processing,data processing,0.0,0.0,0.0,0.0
+software deployment,software deployment,0.0,0.0,0.0,0.0
+unified process,unified process,0.0,0.0,0.0,0.0
+arms industry,arms industry,0.0,0.0,0.0,0.0
+data model,data model,0.0,0.0,3.0,0.0
+inner source,inner source,0.0,0.0,1.0,0.0
+scrum development,scrum development,0.0,0.0,0.0,0.0
+agile manifesto,agile manifesto,0.0,0.0,0.0,0.0
+scott ambler,scott ambler,0.0,0.0,0.0,0.0
+software framework,software framework,0.0,0.0,0.0,0.0
+information system,information system,0.0,0.0,1.0,0.0
+system integration,system integration,0.0,0.0,0.0,0.0
+programming paradigm,programming paradigm,0.0,0.0,0.0,0.0
+trunk software,trunk software,0.0,0.0,0.0,0.0
+software prototyping,software prototyping,0.0,0.0,0.0,0.0
+lightweight methodology,lightweight methodology,0.0,0.0,0.0,0.0
+method engineering,method engineering,0.0,0.0,0.0,0.0
+software libraries,software libraries,0.0,0.0,0.0,0.0
+chaos model,chaos model,0.0,0.0,0.0,0.0
+process model,process model,0.0,0.0,0.0,0.0
+system design,system design,0.0,0.0,0.0,0.0
+structured technique,structured technique,0.0,0.0,0.0,0.0
+business system,business system,0.0,0.0,0.0,0.0
+iterative development,iterative development,0.0,0.0,0.0,0.0
+number crunching,number crunching,0.0,0.0,0.0,0.0
+spiral development,spiral development,0.0,0.0,0.0,0.0
+functional requirement,functional requirement,0.0,0.0,0.0,0.0
+hardware testing,hardware testing,0.0,0.0,0.0,0.0
+design predicates,design predicates,0.0,0.0,0.0,0.0
+module programming,module programming,0.0,0.0,0.0,0.0
+regulatory compliance,regulatory compliance,0.0,0.0,0.0,0.0
+systems engineering,systems engineering,0.0,0.0,0.0,0.0
+user story,user story,0.0,0.0,0.0,0.0
+design specification,design specification,0.0,0.0,0.0,0.0
+requirements management,requirements management,0.0,0.0,0.0,0.0
+ieee standards,ieee standards,0.0,0.0,0.0,0.0
+software requirements,software requirements,0.0,0.0,0.0,0.0
+quality management,quality management,0.0,0.0,0.0,0.0
+requirements elicitation,requirements elicitation,0.0,0.0,0.0,0.0
+formal specification,formal specification,0.0,0.0,0.0,0.0
+operations management,operations management,0.0,0.0,0.0,0.0
+ieee spectrum,ieee spectrum,0.0,0.0,0.0,0.0
+iso/iec standards,iso/iec standards,0.0,0.0,0.0,0.0
+requirements inception,requirements inception,0.0,0.0,0.0,0.0
+system modeling,system modeling,0.0,0.0,0.0,0.0
+therac 25,therac 25,0.0,0.0,0.0,0.0
+software review,software review,0.0,0.0,0.0,0.0
+database schema,database schema,0.0,0.0,0.0,0.0
+iec 62304,iec 62304,0.0,0.0,0.0,0.0
+problem management,problem management,0.0,0.0,0.0,0.0
+software architecture,software architecture,0.0,0.0,0.0,0.0
+product business,product business,0.0,0.0,0.0,0.0
+quality business,quality business,0.0,0.0,0.0,0.0
+quality control,quality control,0.0,0.0,0.0,0.0
+apache struts,apache struts,0.0,0.0,0.0,0.0
+software map,software map,0.0,0.0,0.0,0.0
+duplicate code,duplicate code,0.0,0.0,0.0,0.0
+business value,business value,0.0,0.0,0.0,0.0
+development tool,development tool,0.0,0.0,0.0,0.0
+technical debt,technical debt,0.0,0.0,0.0,0.0
+uninitialized variable,uninitialized variable,0.0,0.0,0.0,0.0
+configuration management,configuration management,0.0,0.0,1.0,0.0
+cyclomatic complexity,cyclomatic complexity,0.0,0.0,0.0,0.0
+do 178c,do 178c,0.0,0.0,0.0,0.0
+information visualization,information visualization,0.0,0.0,1.0,0.0
+function point,function point,0.0,0.0,4.0,0.0
+patch computing,patch computing,0.0,0.0,0.0,0.0
+embedded software,embedded software,0.0,0.0,0.0,0.0
+boeing 737,boeing 737,0.0,0.0,0.0,0.0
+systems thinking,systems thinking,0.0,0.0,0.0,0.0
+transaction processing,transaction processing,0.0,0.0,0.0,0.0
+iso/iec 15504,iso/iec 15504,0.0,0.0,0.0,0.0
+release management,release management,0.0,0.0,0.0,0.0
+iso 26262,iso 26262,0.0,0.0,0.0,0.0
+security engineering,security engineering,0.0,0.0,0.0,0.0
+software standard,software standard,0.0,0.0,0.0,0.0
+coding conventions,coding conventions,0.0,0.0,0.0,0.0
+risk management,risk management,0.0,0.0,0.0,0.0
+cost management,cost management,0.0,0.0,0.0,0.0
+software complexity,software complexity,0.0,0.0,0.0,0.0
+software reusability,software reusability,0.0,0.0,0.0,0.0
+code smells,code smells,0.0,0.0,0.0,0.0
+programming error,programming error,0.0,0.0,1.0,0.0
+iso 9126,iso 9126,0.0,0.0,0.0,0.0
+software sizing,software sizing,0.0,0.0,0.0,0.0
+business application,business application,0.0,0.0,0.0,0.0
+cartesian tree sorting,cartesian tree sorting,0.0,0.0,0.0,0.0
+iterative deepening depth first,iterative deepening depth first,0.0,0.0,0.0,0.0
+lexicographic breadth first,lexicographic breadth first,0.0,0.0,0.0,0.0
+breadth first traversal,breadth first traversal,0.0,0.0,0.0,0.0
+depth first traversal,depth first traversal,0.0,0.0,0.0,0.0
+hyperlink induced topic,hyperlink induced topic,0.0,0.0,0.0,0.0
+greedy breath first,greedy breath first,0.0,0.0,0.0,0.0
+iterative deepening a-star,iterative deepening a-star,0.0,0.0,0.0,0.0
+travelling salesman problem,travelling salesman problem,0.0,0.0,0.0,0.0
+alpha beta pruning,alpha beta pruning,0.0,0.0,0.0,0.0
+cartesian tree sort,cartesian tree sort,0.0,0.0,0.0,0.0
+breadth first travers,breadth first travers,0.0,0.0,0.0,0.0
+depth first travers,depth first travers,0.0,0.0,0.0,0.0
+and or realization,and or realization,0.0,0.0,0.0,0.0
+or and realization,or and realization,0.0,0.0,0.0,0.0
+expansion of multiplexers,expansion of multiplexers,0.0,0.0,0.0,0.0
+decoder with enable inputs,decoder with enable inputs,0.0,0.0,0.0,0.0
+expansion of decoder,expansion of decoder,0.0,0.0,0.0,0.0
+adress range of memory device,adress range of memory device,0.0,0.0,0.0,0.0
+ripple carry adder,ripple carry adder,0.0,0.0,0.0,0.0
+carry lookahead adder,carry lookahead adder,0.0,0.0,0.0,0.0
+2 bit comparator,2 bit comparator,0.0,0.0,0.0,0.0
+3 bit comparator,3 bit comparator,0.0,0.0,0.0,0.0
+positive level triggered,positive level triggered,0.0,0.0,0.0,0.0
+mod 2 ring counter,mod 2 ring counter,0.0,0.0,0.0,0.0
+mod 3 ring counter,mod 3 ring counter,0.0,0.0,0.0,0.0
+mod 4 johnson counter,mod 4 johnson counter,0.0,0.0,0.0,0.0
+mod 6 johnson counter,mod 6 johnson counter,0.0,0.0,0.0,0.0
+mod 4 gray counter,mod 4 gray counter,0.0,0.0,0.0,0.0
+counter using flipflops,counter using flipflops,0.0,0.0,1.0,0.0
+free running counter,free running counter,0.0,0.0,0.0,0.0
+mod 8 up counter,mod 8 up counter,0.0,0.0,0.0,0.0
+mod 4 up counter,mod 4 up counter,0.0,0.0,0.0,0.0
+mod 8 random counter,mod 8 random counter,0.0,0.0,0.0,0.0
+application of flipflop,application of flipflop,0.0,0.0,0.0,0.0
+shift right register,shift right register,0.0,0.0,0.0,0.0
+shift left register,shift left register,0.0,0.0,0.0,0.0
+sum of product,sum of product,0.0,0.0,0.0,0.0
+product of sum,product of sum,0.0,0.0,0.0,0.0
+positive logic system,positive logic system,0.0,0.0,0.0,0.0
+negative logic system,negative logic system,0.0,0.0,0.0,0.0
+binary number system,binary number system,0.0,0.0,0.0,0.0
+reflected binary code,reflected binary code,0.0,0.0,0.0,0.0
+boolean circuit minimization,boolean circuit minimization,0.0,0.0,0.0,0.0
+non boolean gray code,non boolean gray code,0.0,0.0,0.0,0.0
+balanced gray code,balanced gray code,0.0,0.0,0.0,0.0
+monotonic gray code,monotonic gray code,0.0,0.0,0.0,0.0
+beckett gray codes,beckett gray codes,0.0,0.0,0.0,0.0
+snake in the box code,snake in the box code,0.0,0.0,0.0,0.0
+single track gray code,single track gray code,0.0,0.0,0.0,0.0
+two dimensional gray code,two dimensional gray code,0.0,0.0,0.0,0.0
+conversion to base 10,conversion to base 10,0.0,0.0,0.0,0.0
+conversion from base 10,conversion from base 10,0.0,0.0,0.0,0.0
+complementary number system,complementary number system,0.0,0.0,0.0,0.0
+diminished radix complement,diminished radix complement,0.0,0.0,0.0,0.0
+sign bit extension,sign bit extension,0.0,0.0,0.0,0.0
+excess -3 code,excess -3 code,0.0,0.0,0.0,0.0
+excess -3 addition,excess -3 addition,0.0,0.0,0.0,0.0
+floating point conversion,floating point conversion,0.0,0.0,0.0,0.0
+expansion of multiplexers,expansion of multiplexers,0.0,0.0,0.0,0.0
+high gain differential amplifier,high gain differential amplifier,0.0,0.0,0.0,0.0
+2 bit comparator,2 bit comparator,0.0,0.0,0.0,0.0
+3 bit comparator,3 bit comparator,0.0,0.0,0.0,0.0
+decoder with enable inputs,decoder with enable inputs,0.0,0.0,0.0,0.0
+expansion of decoder,expansion of decoder,0.0,0.0,0.0,0.0
+active low decoder,active low decoder,0.0,0.0,0.0,0.0
+active high decoder,active high decoder,0.0,0.0,0.0,0.0
+encoder with enable inputs,encoder with enable inputs,0.0,0.0,0.0,0.0
+non priority encoder,non priority encoder,0.0,0.0,0.0,0.0
+positive level triggered,positive level triggered,0.0,0.0,0.0,0.0
+excess -3 code,excess -3 code,0.0,0.0,0.0,0.0
+excess -3 addition,excess -3 addition,0.0,0.0,0.0,0.0
+floating point conversion,floating point conversion,0.0,0.0,0.0,0.0
+non weighted code,non weighted code,0.0,0.0,0.0,0.0
+reflected binary code,reflected binary code,0.0,0.0,0.0,0.0
+five bit baudot code,five bit baudot code,0.0,0.0,0.0,0.0
+binary number system,binary number system,0.0,0.0,0.0,0.0
+snake in the box code,snake in the box code,0.0,0.0,0.0,0.0
+single track gray code,single track gray code,0.0,0.0,0.0,0.0
+two dimensional gray code,two dimensional gray code,0.0,0.0,0.0,0.0
+boolean circuit minimization,boolean circuit minimization,0.0,0.0,0.0,0.0
+non boolean gray code,non boolean gray code,0.0,0.0,0.0,0.0
+balanced gray code,balanced gray code,0.0,0.0,0.0,0.0
+monotonic gray code,monotonic gray code,0.0,0.0,0.0,0.0
+beckett gray codes,beckett gray codes,0.0,0.0,0.0,0.0
+symmetric difference of sets,symmetric difference of sets,0.0,0.0,0.0,0.0
+cardinality of sets,cardinality of sets,0.0,0.0,0.0,0.0
+set builder form,set builder form,0.0,0.0,0.0,0.0
+set rooster form,set rooster form,0.0,0.0,0.0,0.0
+adjoint of matrix,adjoint of matrix,0.0,0.0,0.0,0.0
+trace of matrix,trace of matrix,0.0,0.0,0.0,0.0
+inverse of matrix,inverse of matrix,0.0,0.0,0.0,0.0
+non zero matrix,non zero matrix,0.0,0.0,0.0,0.0
+diagonal m atrix,diagonal m atrix,0.0,0.0,0.0,0.0
+upper triangular matrix,upper triangular matrix,0.0,0.0,0.0,0.0
+lower triangular matrix,lower triangular matrix,0.0,0.0,0.0,0.0
+skew - symmetric matrix,skew - symmetric matrix,0.0,0.0,0.0,0.0
+make exception ptr,make exception ptr,0.0,0.0,6.0,0.0
+throw with nested,throw with nested,0.0,0.0,0.0,0.0
+rethrow if nested,rethrow if nested,0.0,0.0,0.0,0.0
+out of range,out of range,0.0,0.0,0.0,0.0
+copy on write,copy on write,0.0,0.0,0.0,0.0
+denial of service,denial of service,0.0,0.0,0.0,0.0
+acknowledgement data networks,acknowledgement data networks,0.0,0.0,0.0,0.0
+asynchronous transfer mode,asynchronous transfer mode,0.0,0.0,0.0,0.0
+reliability computer networking,reliability computer networking,0.0,0.0,0.0,0.0
+reliable data protocol,reliable data protocol,0.0,0.0,0.0,0.0
+structured stream transport,structured stream transport,0.0,0.0,0.0,0.0
+flow control data,flow control data,0.0,0.0,0.0,0.0
+transmission control protocol,transmission control protocol,0.0,0.0,0.0,0.0
+maximum transmission unit,maximum transmission unit,0.0,0.0,0.0,0.0
+micro transport protocol,micro transport protocol,0.0,0.0,0.0,0.0
+error detecting code,error detecting code,0.0,0.0,0.0,0.0
+explicit congestion notification,explicit congestion notification,0.0,0.0,0.0,0.0
+fibre channel protocol,fibre channel protocol,0.0,0.0,0.0,0.0
+protocol data unit,protocol data unit,0.0,0.0,0.0,0.0
+automatic repeat request,automatic repeat request,0.0,0.0,0.0,0.0
+connection oriented communication,connection oriented communication,0.0,0.0,0.0,0.0
+user datagram protocol,user datagram protocol,0.0,0.0,0.0,0.0
+internet protocol suite,internet protocol suite,0.0,0.0,0.0,0.0
+negative acknowledge character,negative acknowledge character,0.0,0.0,0.0,0.0
+error detection code,error detection code,0.0,0.0,0.0,0.0
+tcp ip model,tcp ip model,0.0,0.0,0.0,0.0
+packet information technology,packet information technology,0.0,0.0,0.0,0.0
+data link layer,data link layer,0.0,0.0,0.0,0.0
+datagram delivery protocol,datagram delivery protocol,0.0,0.0,0.0,0.0
+exterior gateway protocol,exterior gateway protocol,0.0,0.0,0.0,0.0
+protocol independent multicast,protocol independent multicast,0.0,0.0,0.0,0.0
+internetwork packet exchange,internetwork packet exchange,0.0,0.0,0.0,0.0
+remote procedure call,remote procedure call,0.0,0.0,0.0,0.0
+sockets direct protocol,sockets direct protocol,0.0,0.0,0.0,0.0
+password authentication protocol,password authentication protocol,0.0,0.0,0.0,0.0
+session computer science,session computer science,0.0,0.0,0.0,0.0
+zone information protocol,zone information protocol,0.0,0.0,0.0,0.0
+osi protocol suite,osi protocol suite,0.0,0.0,0.0,0.0
+session control protocol,session control protocol,0.0,0.0,0.0,0.0
+application binary interface,application binary interface,0.0,0.0,0.0,0.0
+separation of concerns,separation of concerns,0.0,0.0,0.0,0.0
+dependency computer science,dependency computer science,0.0,0.0,0.0,0.0
+application programming interface,application programming interface,0.0,0.0,0.0,0.0
+cathode ray tube,cathode ray tube,0.0,0.0,0.0,0.0
+primitive computer science,primitive computer science,0.0,0.0,0.0,0.0
+synchronous optical networking,synchronous optical networking,0.0,0.0,0.0,0.0
+voice over ip,voice over ip,0.0,0.0,0.0,0.0
+appletalk remote access,appletalk remote access,0.0,0.0,0.0,0.0
+apple filing protocol,apple filing protocol,0.0,0.0,0.0,0.0
+asynchronous serial communication,asynchronous serial communication,0.0,0.0,0.0,0.0
+logical link control,logical link control,0.0,0.0,0.0,0.0
+radio resource control,radio resource control,0.0,0.0,0.0,0.0
+routing information protocol,routing information protocol,0.0,0.0,0.0,0.0
+security service telecommunication,security service telecommunication,0.0,0.0,0.0,0.0
+service advertising protocol,service advertising protocol,0.0,0.0,0.0,0.0
+session announcement protocol,session announcement protocol,0.0,0.0,0.0,0.0
+synchronous digital hierarchy,synchronous digital hierarchy,0.0,0.0,0.0,0.0
+synchronous serial communication,synchronous serial communication,0.0,0.0,0.0,0.0
+systems network architecture,systems network architecture,0.0,0.0,0.0,0.0
+ethernet ii framing,ethernet ii framing,0.0,0.0,0.0,0.0
+broadcast multicast control,broadcast multicast control,0.0,0.0,0.0,0.0
+zip file format,zip file format,0.0,0.0,1.0,0.0
+ethernet physical layer,ethernet physical layer,0.0,0.0,0.0,0.0
+multiprotocol label switching,multiprotocol label switching,0.0,0.0,0.0,0.0
+basic encoding rules,basic encoding rules,0.0,0.0,0.0,0.0
+transport layer security,transport layer security,0.0,0.0,0.0,0.0
+portable document format,portable document format,0.0,0.0,1.0,0.0
+isdn user part,isdn user part,0.0,0.0,0.0,0.0
+itu t recommendations,itu t recommendations,0.0,0.0,0.0,0.0
+national computing centre,national computing centre,0.0,0.0,0.0,0.0
+neighbor discovery protocol,neighbor discovery protocol,0.0,0.0,0.0,0.0
+nortel discovery protocol,nortel discovery protocol,0.0,0.0,0.0,0.0
+hierarchical internetworking model,hierarchical internetworking model,0.0,0.0,0.0,0.0
+cisco discovery protocol,cisco discovery protocol,0.0,0.0,0.0,0.0
+data link control,data link control,0.0,0.0,0.0,0.0
+digital equipment corporation,digital equipment corporation,0.0,0.0,0.0,0.0
+digital subscriber line,digital subscriber line,0.0,0.0,0.0,0.0
+directory access protocol,directory access protocol,0.0,0.0,0.0,0.0
+external data representation,external data representation,0.0,0.0,0.0,0.0
+medium access control,medium access control,0.0,0.0,0.0,0.0
+message transfer part,message transfer part,0.0,0.0,0.0,0.0
+mobile application part,mobile application part,0.0,0.0,0.0,0.0
+address resolution protocol,address resolution protocol,0.0,0.0,0.0,0.0
+foundry discovery protocol,foundry discovery protocol,0.0,0.0,0.0,0.0
+international telecommunication union,international telecommunication union,0.0,0.0,0.0,0.0
+internet protocol suite,internet protocol suite,0.0,0.0,0.0,0.0
+object computer science,object computer science,0.0,0.0,0.0,0.0
+open systems interconnection,open systems interconnection,0.0,0.0,0.0,0.0
+optical transport network,optical transport network,0.0,0.0,0.0,0.0
+public data network,public data network,0.0,0.0,0.0,0.0
+remote procedure call,remote procedure call,0.0,0.0,0.0,0.0
+generic routing encapsulation,generic routing encapsulation,0.0,0.0,0.0,0.0
+telephone user part,telephone user part,0.0,0.0,0.0,0.0
+service data unit,service data unit,0.0,0.0,0.0,0.0
+signaling system 7,signaling system 7,0.0,0.0,0.0,0.0
+tabbed document interface,tabbed document interface,0.0,0.0,0.0,0.0
+iso iec 7498,iso iec 7498,0.0,0.0,0.0,0.0
+sliding window protocol,sliding window protocol,0.0,0.0,0.0,0.0
+recursive internetwork architecture,recursive internetwork architecture,0.0,0.0,0.0,0.0
+logical link control,logical link control,0.0,0.0,0.0,0.0
+sequenced packet exchange,sequenced packet exchange,0.0,0.0,0.0,0.0
+eia tia 232,eia tia 232,0.0,0.0,0.0,0.0
+eia tia 449,eia tia 449,0.0,0.0,0.0,0.0
+ieee 8023 phy,ieee 8023 phy,0.0,0.0,0.0,0.0
+internet protocol security,internet protocol security,0.0,0.0,0.0,0.0
+packet layer protocol,packet layer protocol,0.0,0.0,0.0,0.0
+medium access control,medium access control,0.0,0.0,0.0,0.0
+file:osi model communication,file:osi model communication,0.0,0.0,0.0,0.0
+hopling discovery protocol,hopling discovery protocol,0.0,0.0,0.0,0.0
+andrew s tanenbaum,andrew s tanenbaum,0.0,0.0,0.0,0.0
+reliable byte stream,reliable byte stream,0.0,0.0,0.0,0.0
+address resolution protocol,address resolution protocol,0.0,0.0,0.0,0.0
+port computer networking,port computer networking,0.0,0.0,0.0,0.0
+network control program,network control program,0.0,0.0,0.0,0.0
+network address translation,network address translation,0.0,0.0,0.0,0.0
+deep packet inspection,deep packet inspection,0.0,0.0,0.0,0.0
+vm operating system,vm operating system,0.0,0.0,0.0,0.0
+virtual private network,virtual private network,0.0,0.0,0.0,0.0
+bbn report 1822,bbn report 1822,0.0,0.0,0.0,0.0
+multicast listener discovery,multicast listener discovery,0.0,0.0,0.0,0.0
+information sciences institute,information sciences institute,0.0,0.0,0.0,0.0
+internet architecture board,internet architecture board,0.0,0.0,0.0,0.0
+session initiation protocol,session initiation protocol,0.0,0.0,0.0,0.0
+peer to peer,peer to peer,0.0,0.0,0.0,0.0
+media access control,media access control,0.0,0.0,0.0,0.0
+university college london,university college london,0.0,0.0,0.0,0.0
+file transfer protocol,file transfer protocol,0.0,0.0,0.0,0.0
+flag day software,flag day software,0.0,0.0,0.0,0.0
+best effort delivery,best effort delivery,0.0,0.0,0.0,0.0
+resource reservation protocol,resource reservation protocol,0.0,0.0,0.0,0.0
+request for comments,request for comments,0.0,0.0,0.0,0.0
+service systems architecture,service systems architecture,0.0,0.0,0.0,0.0
+domain name system,domain name system,0.0,0.0,0.0,0.0
+hypertext transfer protocol,hypertext transfer protocol,0.0,0.0,0.0,0.0
+hypertext transfer protocol,hypertext transfer protocol,0.0,0.0,0.0,0.0
+open source software,open source software,0.0,0.0,0.0,0.0
+lower layer protocol,lower layer protocol,0.0,0.0,0.0,0.0
+transmission control program,transmission control program,0.0,0.0,0.0,0.0
+connection oriented service,connection oriented service,0.0,0.0,0.0,0.0
+upper layer protocol,upper layer protocol,0.0,0.0,0.0,0.0
+unix domain sockets,unix domain sockets,0.0,0.0,0.0,0.0
