@@ -21,8 +21,8 @@ Frequent Itemset Mining
     python3 src/query_expansion.py
     ```
     After running the above command, the `expanded_queries.csv` file will be saved in the `outputs` folder.
+
 Generating Match Count for an Ontology
-For getting unigram, bigram and trigram matches of intents with ontology - 
 1. place the intents json/jsonl file and the onotology csv file in `data/Matching`
 2. run `text-matching.py` to generate the `Match_Data.csv` file in `outputs/Matching`
      ```shell
