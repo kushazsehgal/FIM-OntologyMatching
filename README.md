@@ -44,6 +44,7 @@ The algorithm for Frequent Itemset Mining is based on the following steps:
     * Given a query, for each combination set of `three keywords`, s_b, and for each possible expansion s_e ∈ V_k , we rank by the confidence(s_b → s_e ). 
     * If there are no expansions, then the same process occurs using `two key-words`, and then `one`. 
     * We return only `one possible expansion`, for a conservative expansion.
+    
 The algorithm for Matching is the following -
 1. We first preprocess all intents by removing unwanted characters and stopwords and return a list of all words present in list
 2. We then create a list of n-grams - unigram, bigram and trigrams
