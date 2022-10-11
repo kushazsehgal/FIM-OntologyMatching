@@ -1,4 +1,4 @@
-# Frequent Itemset Matching to Expand Queries
+# Frequent Itemset Mining for Intents Expansion and Ontology Matching
 ## Installing Dependencies
 Run the following Command to install all dependencies
 `pip install -r requirements.txt`
